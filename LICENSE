@@ -1,0 +1,12 @@
+CC0 1.0 Universal (Public Domain Dedication)
+
+To the extent possible under law, the authors of this translation dataset have
+waived all copyright and related or neighboring rights to the translation data
+in this repository (CSV/PO/TBX files).
+
+The extraction tools in tools/ are provided under the same terms.
+
+This repository does NOT contain or distribute any FireAlpaca binary or
+installer. UI strings are short factual phrases extracted for interoperability;
+the dataset is offered to the FireAlpaca/MediBang development team for
+incorporation into their official localization pipeline.

@@ -1,0 +1,10698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireAlpaca 2.16.3\n"
+"Language: zh-TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"X-Note: msgid is the Japanese UI string extracted from FireAlpaca.exe language blocks; group/idx trace to the binary offsets (see l10n README).\n"
+
+#. L10N group=0 idx=0
+msgid "レイヤー"
+msgstr "圖層"
+
+#. L10N group=0 idx=1
+msgid "貼り付け"
+msgstr "貼上"
+
+#. L10N group=0 idx=2
+msgid "フォルダー"
+msgstr "資料夾"
+
+#. L10N group=0 idx=3
+msgid "フレーム"
+msgstr "影格"
+
+#. L10N group=0 idx=4
+msgid "マスク"
+msgstr "遮罩"
+
+#. L10N group=0 idx=5
+msgid "ステンシル"
+msgstr "模板"
+
+#. L10N group=0 idx=6
+msgid "Shiftキーを押しながらで直線描画、Ctrl+Altキーを押しながら左右ドラッグでブラシサイズ変更、A+クリックでレイヤーのアクティブ化"
+msgstr "按住Shift鍵繪製直線，按住Ctrl+Alt鍵左右拖曳更改筆刷大小，按A+點擊啟用圖層"
+
+#. L10N group=0 idx=7
+msgid "描画レイヤーが非表示です"
+msgstr "繪圖圖層已隱藏"
+
+#. L10N group=0 idx=8
+msgid "描画レイヤーがロックされています"
+msgstr "繪圖圖層已鎖定"
+
+#. L10N group=0 idx=9
+msgid "描画レイヤーが処理中です"
+msgstr "繪圖圖層處理中"
+
+#. L10N group=0 idx=10
+msgid "描画先レイヤーに非対応のブラシタイプです"
+msgstr "繪圖目標圖層不支援此筆刷類型"
+
+#. L10N group=0 idx=11
+msgid "[ふちペン] Ctrlキーを押しながらでエッジを保持して描画"
+msgstr "[中空筆] 按住Ctrl鍵維持邊緣繪圖"
+
+#. L10N group=0 idx=12
+msgid "[ふちペン] 不透明ブラシの場合、エッジを保持して描画できます"
+msgstr "[中空筆] 使用不透明筆刷時可維持邊緣繪圖"
+
+#. L10N group=0 idx=13
+msgid "Shiftキーを押しながらで追加、Ctrlキーを押しながらで削除"
+msgstr "按住Shift鍵加入，按住Ctrl鍵刪除"
+
+#. L10N group=0 idx=14
+msgid "Shiftキーを押しながらで追加、Altキーを押しながらで削除"
+msgstr "按住Shift鍵加入，按住Alt鍵刪除"
+
+#. L10N group=0 idx=15
+msgid "レイヤーがロックされているので編集できません"
+msgstr "圖層已鎖定，無法編輯"
+
+#. L10N group=0 idx=16
+msgid "Ctrlキーを押しながらで15度単位の回転"
+msgstr "按住Ctrl鍵以15度為單位旋轉"
+
+#. L10N group=0 idx=17
+msgid "Shiftキーを押しながらで水平・垂直に操作"
+msgstr "按住Shift鍵進行水平·垂直操作"
+
+#. L10N group=0 idx=18
+msgid "クリックでズームイン. "
+msgstr "點擊放大"
+
+#. L10N group=0 idx=19
+msgid "クリックでズームアウト. "
+msgstr "點擊縮小"
+
+#. L10N group=0 idx=20
+msgid "上下ドラッグでズーム."
+msgstr "上下拖曳縮放"
+
+#. L10N group=0 idx=21
+msgid "左右ドラッグでズーム."
+msgstr "左右拖曳縮放"
+
+#. L10N group=0 idx=22
+msgid "4点クリックで消失点を指定"
+msgstr "點擊4個點指定消失點"
+
+#. L10N group=0 idx=23
+msgid "Ctrl＋ドラッグでスナップ頂点の移動"
+msgstr "Ctrl+拖曳移動貼齊頂點"
+
+#. L10N group=0 idx=24
+msgid "Ctrl＋ドラッグで楕円スナップ作成"
+msgstr "Ctrl+拖曳建立橢圓貼齊"
+
+#. L10N group=0 idx=25
+msgid "ドラッグで分割、+Shiftで自由な角度"
+msgstr "拖曳分割，+Shift設定任意角度"
+
+#. L10N group=0 idx=26
+msgid "Ctrl+クリックで基点指定 (キャンバス)"
+msgstr "Ctrl+點擊指定基準點（畫布）"
+
+#. L10N group=0 idx=27
+msgid "Ctrlキーを押しながら辺をドラッグすると長さを維持して平行移動"
+msgstr "按住Ctrl鍵拖曳邊緣可保持長度平行移動"
+
+#. L10N group=0 idx=28
+msgid "+Shiftキーでキャンバス色取得"
+msgstr "+Shift鍵取得畫布顏色"
+
+#. L10N group=0 idx=29
+msgid "+Shiftキーでアクティブレイヤー色取得"
+msgstr "+Shift鍵取得作用中圖層顏色"
+
+#. L10N group=0 idx=30
+msgid "クリックで一番上のレイヤーを選択、ドラッグで範囲内のレイヤーを選択"
+msgstr "點擊選擇最上層圖層，拖曳選擇範圍內的圖層"
+
+#. L10N group=0 idx=31
+msgid "文件夹"
+msgstr "資料夾"
+
+#. L10N group=0 idx=32
+msgid "模板"
+msgstr "模板"
+
+#. L10N group=0 idx=33
+msgid "按 Shift 键来水平．垂直地操作"
+msgstr "按住Shift鍵進行水平·垂直操作"
+
+#. L10N group=0 idx=34
+msgid "Ctrl＋拖拽作成椭圆规尺"
+msgstr "Ctrl+拖曳建立橢圓尺規"
+
+#. L10N group=0 idx=35
+msgid "拖拽来分割；用+Shift来设置任意的角度"
+msgstr "拖曳分割，+Shift設定任意角度"
+
+#. L10N group=0 idx=36
+msgid "+Shift键取得画布的颜色"
+msgstr "+Shift鍵取得畫布顏色"
+
+#. L10N group=0 idx=37
+msgid "+Shift键取得显示图层的颜色"
+msgstr "+Shift鍵取得顯示圖層的顏色"
+
+#. L10N group=0 idx=38
+msgid "按 Shift 鍵進行水準．垂直操作"
+msgstr "按住Shift鍵進行水平·垂直操作"
+
+#. L10N group=0 idx=39
+msgid "Ctrl+拖曳移動輔助頂點"
+msgstr "Ctrl+拖曳移動貼齊頂點"
+
+#. L10N group=0 idx=40
+msgid "Ctrl+拖曳製作橢圓輔助"
+msgstr "Ctrl+拖曳建立橢圓貼齊"
+
+#. L10N group=0 idx=41
+msgid "+Shift鍵取得畫布的顏色"
+msgstr "+Shift鍵取得畫布顏色"
+
+#. L10N group=0 idx=42
+msgid "+Shift鍵取得顯示圖層的顏色"
+msgstr "+Shift鍵取得顯示圖層的顏色"
+
+#. L10N group=1 idx=0
+msgid "3Dパースを編集"
+msgstr "編輯3D透視"
+
+#. L10N group=1 idx=1
+msgid "長辺の分割数"
+msgstr "長邊分割數"
+
+#. L10N group=1 idx=2
+msgid "短辺の分割数"
+msgstr "短邊分割數"
+
+#. L10N group=1 idx=3
+msgid "標準カメラ"
+msgstr "標準相機"
+
+#. L10N group=1 idx=4
+msgid "更新"
+msgstr "更新"
+
+#. L10N group=1 idx=5
+msgid "編集を適用しないで閉じますか？"
+msgstr "不套用編輯直接關閉嗎？"
+
+#. L10N group=1 idx=6
+msgid "カメラモード"
+msgstr "相機模式"
+
+#. L10N group=1 idx=7
+msgid "選択ツール"
+msgstr "選取工具"
+
+#. L10N group=1 idx=8
+msgid "移動ツール"
+msgstr "移動工具"
+
+#. L10N group=1 idx=9
+msgid "回転ツール"
+msgstr "旋轉工具"
+
+#. L10N group=1 idx=10
+msgid "キャンバスを合成して表示"
+msgstr "與畫布合成顯示"
+
+#. L10N group=1 idx=11
+msgid "裏面を表示しない"
+msgstr "不顯示背面"
+
+#. L10N group=1 idx=12
+msgid "オブジェクトを接地させる"
+msgstr "讓物件貼合地面"
+
+#. L10N group=1 idx=13
+msgid "ボックスを追加"
+msgstr "加入方盒"
+
+#. L10N group=1 idx=14
+msgid "板を追加"
+msgstr "加入板"
+
+#. L10N group=1 idx=15
+msgid "カメラを追加"
+msgstr "加入相機"
+
+#. L10N group=1 idx=16
+msgid "削除"
+msgstr "刪除"
+
+#. L10N group=1 idx=17
+msgid "複製"
+msgstr "複製"
+
+#. L10N group=1 idx=18
+msgid "クリックでアクティブなオブジェクトを選択"
+msgstr "點擊選取作用中物件"
+
+#. L10N group=1 idx=19
+msgid "ドラッグでカメラ回転、右ドラッグでカメラ移動、マウスホイールでズーム"
+msgstr "拖曳旋轉相機，右鍵拖曳移動相機，滾輪縮放"
+
+#. L10N group=1 idx=20
+msgid "ドラッグでオブジェクトの移動、右ドラッグでオブジェクトを上下"
+msgstr "拖曳移動物件，右鍵拖曳上下移動物件"
+
+#. L10N group=1 idx=21
+msgid "スライダー操作でオブジェクトを回転 (右クリックでリセット)"
+msgstr "拖曳滑桿旋轉物件（右鍵點擊重設）"
+
+#. L10N group=1 idx=22
+msgid "ステージは操作できません"
+msgstr "無法操作舞台"
+
+#. L10N group=1 idx=23
+msgid "カメラは操作できません"
+msgstr "無法操作相機"
+
+#. L10N group=1 idx=24
+msgid "3Dオブジェクト プロパティ"
+msgstr "3D物件屬性"
+
+#. L10N group=1 idx=25
+msgid "名前"
+msgstr "名稱"
+
+#. L10N group=1 idx=26
+msgid "默认相机"
+msgstr "預設相機"
+
+#. L10N group=1 idx=27
+msgid "相机模式"
+msgstr "相機模式"
+
+#. L10N group=1 idx=28
+msgid "选择工具"
+msgstr "選取工具"
+
+#. L10N group=1 idx=29
+msgid "移动工具"
+msgstr "移動工具"
+
+#. L10N group=1 idx=30
+msgid "旋转工具"
+msgstr "旋轉工具"
+
+#. L10N group=1 idx=31
+msgid "隐藏背面"
+msgstr "隱藏背面"
+
+#. L10N group=1 idx=32
+msgid "添加方框"
+msgstr "加入方盒"
+
+#. L10N group=1 idx=33
+msgid "添加黑板"
+msgstr "加入板"
+
+#. L10N group=1 idx=34
+msgid "使用滑块控制旋转对象（右键单击可重置）"
+msgstr "拖曳滑桿旋轉物件（右鍵點擊重設）"
+
+#. L10N group=1 idx=35
+msgid "无法操作舞台"
+msgstr "無法操作舞台"
+
+#. L10N group=1 idx=36
+msgid "无法操作照相机"
+msgstr "無法操作相機"
+
+#. L10N group=1 idx=37
+msgid "名称"
+msgstr "名稱"
+
+#. L10N group=1 idx=38
+msgid "標準相機"
+msgstr "標準相機"
+
+#. L10N group=1 idx=39
+msgid "角度"
+msgstr "角度"
+
+#. L10N group=1 idx=40
+msgid "相機模式"
+msgstr "相機模式"
+
+#. L10N group=1 idx=41
+msgid "選擇工具"
+msgstr "選取工具"
+
+#. L10N group=1 idx=42
+msgid "移動工具"
+msgstr "移動工具"
+
+#. L10N group=1 idx=43
+msgid "迴轉工具"
+msgstr "旋轉工具"
+
+#. L10N group=1 idx=44
+msgid "不顯示背面"
+msgstr "不顯示背面"
+
+#. L10N group=1 idx=45
+msgid "追加方筐"
+msgstr "加入方盒"
+
+#. L10N group=1 idx=46
+msgid "追加板子"
+msgstr "加入板"
+
+#. L10N group=1 idx=47
+msgid "追加相機"
+msgstr "加入相機"
+
+#. L10N group=1 idx=48
+msgid "點擊並選擇活動物件"
+msgstr "點擊選取作用中物件"
+
+#. L10N group=1 idx=49
+msgid "拖曳移動物件，向右拖曳則上下移動物件"
+msgstr "拖曳移動物件，右鍵拖曳上下移動物件"
+
+#. L10N group=1 idx=50
+msgid "使用滑桿控制旋轉物件 (右鍵單擊可重設)"
+msgstr "拖曳滑桿旋轉物件（右鍵點擊重設）"
+
+#. L10N group=1 idx=51
+msgid "無法操控舞台"
+msgstr "無法操作舞台"
+
+#. L10N group=1 idx=52
+msgid "無法操控相機"
+msgstr "無法操作相機"
+
+#. L10N group=1 idx=53
+msgid "名稱"
+msgstr "名稱"
+
+#. L10N group=2 idx=0
+msgid "選択境界の描画"
+msgstr "繪製選取範圍邊界"
+
+#. L10N group=2 idx=1
+msgid "内側"
+msgstr "內側"
+
+#. L10N group=2 idx=2
+msgid "ブラシの追加"
+msgstr "加入筆刷"
+
+#. L10N group=2 idx=3
+msgid "ブラシの複製"
+msgstr "複製筆刷"
+
+#. L10N group=2 idx=4
+msgid "ブラシの削除"
+msgstr "刪除筆刷"
+
+#. L10N group=2 idx=5
+msgid "このブラシを削除しますか？"
+msgstr "確定刪除此筆刷嗎？"
+
+#. L10N group=2 idx=6
+msgid "ビットマップブラシの追加 (ファイル)"
+msgstr "加入點陣圖筆刷（檔案）"
+
+#. L10N group=2 idx=7
+msgid "スクリプトブラシの追加 (ファイル)"
+msgstr "加入腳本筆刷（檔案）"
+
+#. L10N group=2 idx=8
+msgid "高負荷なスクリプトのため、追加を中止します"
+msgstr "腳本負載過高，已中止加入"
+
+#. L10N group=2 idx=9
+msgid "ブラシグループの追加"
+msgstr "加入筆刷群組"
+
+#. L10N group=2 idx=10
+msgid "キャンバスから追加"
+msgstr "從畫布加入"
+
+#. L10N group=2 idx=11
+msgid "ファイルから追加"
+msgstr "從檔案加入"
+
+#. L10N group=2 idx=12
+msgid "ビットマップブラシの追加 (キャンバス)"
+msgstr "加入點陣圖筆刷（畫布）"
+
+#. L10N group=2 idx=13
+msgid "ビットマップブラシの追加 (レイヤー、複数素材)"
+msgstr "加入點陣圖筆刷（圖層、多素材）"
+
+#. L10N group=2 idx=14
+msgid "ブラシの追加 (MDBファイル)"
+msgstr "加入筆刷（MDB檔案）"
+
+#. L10N group=2 idx=15
+msgid "旧プリセットブラシを追加"
+msgstr "加入舊版預設筆刷"
+
+#. L10N group=2 idx=16
+msgid "ブラシストアを表示 (ブラシを入手する)"
+msgstr "顯示筆刷商店（取得筆刷）"
+
+#. L10N group=2 idx=17
+msgid "絞り込む"
+msgstr "篩選"
+
+#. L10N group=2 idx=18
+msgid "クリア"
+msgstr "清除"
+
+#. L10N group=2 idx=19
+msgid "(旧) "
+msgstr "（舊）"
+
+#. L10N group=2 idx=20
+msgid "因脚本档案过大，故停止追加。"
+msgstr "腳本檔案過大，已中止加入。"
+
+#. L10N group=2 idx=21
+msgid "从文件夹追加"
+msgstr "從資料夾加入"
+
+#. L10N group=2 idx=22
+msgid "添加画笔（MDB 文件）"
+msgstr "加入筆刷（MDB檔案）"
+
+#. L10N group=2 idx=23
+msgid "清除"
+msgstr "清除"
+
+#. L10N group=2 idx=24
+msgid "因腳本檔案過大，故停止追加。"
+msgstr "腳本檔案過大，已中止加入。"
+
+#. L10N group=2 idx=25
+msgid "（舊） "
+msgstr "（舊）"
+
+#. L10N group=3 idx=0
+msgid "ブラシグループ"
+msgstr "筆刷群組"
+
+#. L10N group=3 idx=1
+msgid "名字"
+msgstr "名稱"
+
+#. L10N group=3 idx=2
+msgid "タイプ"
+msgstr "類型"
+
+#. L10N group=3 idx=3
+msgid "ペン"
+msgstr "畫筆"
+
+#. L10N group=3 idx=4
+msgid "エアブラシ"
+msgstr "噴槍"
+
+#. L10N group=3 idx=5
+msgid "消しゴム"
+msgstr "橡皮擦"
+
+#. L10N group=3 idx=6
+msgid "最小幅"
+msgstr "最小寬度"
+
+#. L10N group=3 idx=7
+msgid "筆圧サイズ"
+msgstr "筆壓尺寸"
+
+#. L10N group=3 idx=8
+msgid "ブラシ編集"
+msgstr "筆刷編輯"
+
+#. L10N group=3 idx=9
+msgid "ぼかし"
+msgstr "模糊"
+
+#. L10N group=3 idx=10
+msgid "オプション"
+msgstr "選項"
+
+#. L10N group=3 idx=11
+msgid "ぼかしの強さ"
+msgstr "模糊強度"
+
+#. L10N group=3 idx=12
+msgid "水彩"
+msgstr "水彩"
+
+#. L10N group=3 idx=13
+msgid "混ざりやすさ"
+msgstr "混色程度"
+
+#. L10N group=3 idx=14
+msgid "色補充"
+msgstr "補充顏色"
+
+#. L10N group=3 idx=15
+msgid "ソフトエッジ"
+msgstr "柔化邊緣"
+
+#. L10N group=3 idx=16
+msgid "ビットマップ"
+msgstr "點陣圖"
+
+#. L10N group=3 idx=17
+msgid "回転"
+msgstr "旋轉"
+
+#. L10N group=3 idx=18
+msgid "ランダム回転"
+msgstr "隨機旋轉"
+
+#. L10N group=3 idx=19
+msgid "前景色を適用"
+msgstr "套用前景色"
+
+#. L10N group=3 idx=20
+msgid "散布"
+msgstr "散佈"
+
+#. L10N group=3 idx=21
+msgid "散布強さ"
+msgstr "散佈強度"
+
+#. L10N group=3 idx=22
+msgid "粒子サイズ"
+msgstr "粒子大小"
+
+#. L10N group=3 idx=23
+msgid "粒子ランダム"
+msgstr "粒子隨機"
+
+#. L10N group=3 idx=24
+msgid "粒子回転"
+msgstr "粒子旋轉"
+
+#. L10N group=3 idx=25
+msgid "色ジッター"
+msgstr "顏色抖動"
+
+#. L10N group=3 idx=26
+msgid "色相ジッター"
+msgstr "色相抖動"
+
+#. L10N group=3 idx=27
+msgid "散布水彩"
+msgstr "散佈水彩"
+
+#. L10N group=3 idx=28
+msgid "指先"
+msgstr "指尖"
+
+#. L10N group=3 idx=29
+msgid "ブラシスクリプト"
+msgstr "筆刷腳本"
+
+#. L10N group=3 idx=30
+msgid "強制入り抜き"
+msgstr "強制筆鋒"
+
+#. L10N group=3 idx=31
+msgid "ふちペン"
+msgstr "中空筆"
+
+#. L10N group=3 idx=32
+msgid "ふち幅"
+msgstr "中空寬度"
+
+#. L10N group=3 idx=33
+msgid "パターン"
+msgstr "圖樣"
+
+#. L10N group=3 idx=34
+msgid "ビットマップ水彩"
+msgstr "點陣圖水彩"
+
+#. L10N group=3 idx=35
+msgid "トーン化する"
+msgstr "色調化"
+
+#. L10N group=3 idx=36
+msgid "ずらし方向を固定"
+msgstr "固定偏移方向"
+
+#. L10N group=3 idx=37
+msgid "ずらし方向"
+msgstr "偏移方向"
+
+#. L10N group=3 idx=38
+msgid "沿って回転"
+msgstr "沿軌跡旋轉"
+
+#. L10N group=3 idx=39
+msgid "回転角"
+msgstr "旋轉角"
+
+#. L10N group=3 idx=40
+msgid "ローラー (リボン)"
+msgstr "滾筒（緞帶）"
+
+#. L10N group=3 idx=41
+msgid "一巡だけ描画"
+msgstr "僅繪製一輪"
+
+#. L10N group=3 idx=42
+msgid "繰り返し描画"
+msgstr "重複繪製"
+
+#. L10N group=3 idx=43
+msgid "ランダム描画"
+msgstr "隨機繪製"
+
+#. L10N group=3 idx=44
+msgid "色相"
+msgstr "色相"
+
+#. L10N group=3 idx=45
+msgid "色混ぜ"
+msgstr "混色"
+
+#. L10N group=3 idx=46
+msgid "オプションはありません"
+msgstr "沒有選項"
+
+#. L10N group=3 idx=47
+msgid "ブレンド"
+msgstr "混合"
+
+#. L10N group=3 idx=48
+msgid "柔らかさ"
+msgstr "柔和度"
+
+#. L10N group=3 idx=49
+msgid "ランダム回転2"
+msgstr "隨機旋轉2"
+
+#. L10N group=3 idx=50
+msgid "描画単位の回転"
+msgstr "按繪製單元旋轉"
+
+#. L10N group=3 idx=51
+msgid "ストローク単位の回転"
+msgstr "按筆畫旋轉"
+
+#. L10N group=3 idx=52
+msgid "複数素材がある場合に、ランダムに素材を描画します"
+msgstr "有多個素材時，隨機繪製素材"
+
+#. L10N group=3 idx=53
+msgid "複数素材がある場合に、最初の素材から繰り返し描画します"
+msgstr "有多個素材時，從第一個素材開始重複繪製"
+
+#. L10N group=3 idx=54
+msgid "テクスチャ"
+msgstr "紋理"
+
+#. L10N group=3 idx=55
+msgid "ブラシテクスチャ"
+msgstr "筆刷紋理"
+
+#. L10N group=3 idx=56
+msgid "テクスチャ合成"
+msgstr "紋理合成"
+
+#. L10N group=3 idx=57
+msgid "テクスチャ影響"
+msgstr "紋理影響"
+
+#. L10N group=3 idx=58
+msgid "乗算"
+msgstr "色彩增值"
+
+#. L10N group=3 idx=59
+msgid "散布色混ぜ"
+msgstr "散佈混色"
+
+#. L10N group=3 idx=60
+msgid "ランダム素材"
+msgstr "隨機素材"
+
+#. L10N group=3 idx=61
+msgid "色の入れ替え"
+msgstr "交換顏色"
+
+#. L10N group=3 idx=62
+msgid "後補正を有効にする"
+msgstr "啟用後補正"
+
+#. L10N group=3 idx=63
+msgid "プリセット値を設定"
+msgstr "設定預設值"
+
+#. L10N group=3 idx=64
+msgid "スタイラス時の筆圧"
+msgstr "觸控筆筆壓"
+
+#. L10N group=3 idx=65
+msgid "マウス・指先時の筆圧"
+msgstr "滑鼠·指尖筆壓"
+
+#. L10N group=3 idx=66
+msgid "強制入りの長さ"
+msgstr "強制入筆長度"
+
+#. L10N group=3 idx=67
+msgid "強制抜きの長さ"
+msgstr "強制收筆長度"
+
+#. L10N group=3 idx=68
+msgid "インク溜まり長さ (入り)"
+msgstr "墨堆積長度（入筆）"
+
+#. L10N group=3 idx=69
+msgid "インク溜まり長さ (抜き)"
+msgstr "墨堆積長度（收筆）"
+
+#. L10N group=3 idx=70
+msgid "インク溜まり量 (入り)"
+msgstr "墨堆積量（入筆）"
+
+#. L10N group=3 idx=71
+msgid "インク溜まり量 (抜き)"
+msgstr "墨堆積量（收筆）"
+
+#. L10N group=3 idx=72
+msgid "入り抜き形状"
+msgstr "筆鋒形狀"
+
+#. L10N group=3 idx=73
+msgid "スムーズ"
+msgstr "平滑"
+
+#. L10N group=3 idx=74
+msgid "雫形"
+msgstr "水滴形"
+
+#. L10N group=3 idx=75
+msgid "インク溜まり形状"
+msgstr "墨堆積形狀"
+
+#. L10N group=3 idx=76
+msgid "インク溜まり"
+msgstr "墨堆積"
+
+#. L10N group=3 idx=77
+msgid "描き文字"
+msgstr "手繪文字"
+
+#. L10N group=3 idx=78
+msgid "貫通消し"
+msgstr "貫穿擦除"
+
+#. L10N group=3 idx=79
+msgid "元の設定に戻す"
+msgstr "回復原始設定"
+
+#. L10N group=3 idx=80
+msgid "不透明度"
+msgstr "不透明度"
+
+#. L10N group=3 idx=81
+msgid "ストロークごとに座標をランダムにずらす"
+msgstr "每個筆畫隨機偏移座標"
+
+#. L10N group=3 idx=82
+msgid "素材"
+msgstr "素材"
+
+#. L10N group=3 idx=83
+msgid "新ブラシエンジン"
+msgstr "新筆刷引擎"
+
+#. L10N group=3 idx=84
+msgid "不透明度バッファ (後にブレンド)"
+msgstr "不透明度緩衝（後混合）"
+
+#. L10N group=3 idx=85
+msgid "カラーバッファ (後にブレンド)"
+msgstr "顏色緩衝（後混合）"
+
+#. L10N group=3 idx=86
+msgid "レイヤーに直接描画 (混色可能、1ストローク)"
+msgstr "直接繪製到圖層（可混色、1筆）"
+
+#. L10N group=3 idx=87
+msgid "レイヤーの上から描画"
+msgstr "在圖層上方繪製"
+
+#. L10N group=3 idx=88
+msgid "レイヤーの下に描画"
+msgstr "在圖層下方繪製"
+
+#. L10N group=3 idx=89
+msgid "貫通タイプ"
+msgstr "貫穿類型"
+
+#. L10N group=3 idx=90
+msgid "全てのレイヤー"
+msgstr "所有圖層"
+
+#. L10N group=3 idx=91
+msgid "同一フォルダ"
+msgstr "同一資料夾"
+
+#. L10N group=3 idx=92
+msgid "選択レイヤー"
+msgstr "選取圖層"
+
+#. L10N group=3 idx=93
+msgid "右のストロークと交換"
+msgstr "與右側筆畫交換"
+
+#. L10N group=3 idx=94
+msgid "ストローク"
+msgstr "筆畫"
+
+#. L10N group=3 idx=95
+msgid "(デュアル)"
+msgstr "（雙筆）"
+
+#. L10N group=3 idx=96
+msgid "(トリプル)"
+msgstr "（三筆）"
+
+#. L10N group=3 idx=97
+msgid "基本"
+msgstr "基本"
+
+#. L10N group=3 idx=98
+msgid "ストローク/色"
+msgstr "筆畫/顏色"
+
+#. L10N group=3 idx=99
+msgid "先端"
+msgstr "筆尖"
+
+#. L10N group=3 idx=100
+msgid "通常"
+msgstr "正常"
+
+#. L10N group=3 idx=101
+msgid "複数ストローク合成 (デュアル、トリプル)"
+msgstr "多筆畫合成（雙筆、三筆）"
+
+#. L10N group=3 idx=102
+msgid "(クリッピング)"
+msgstr "（剪貼蒙版）"
+
+#. L10N group=3 idx=103
+msgid "(マスク)"
+msgstr "（遮罩）"
+
+#. L10N group=3 idx=104
+msgid "(ステンシル)"
+msgstr "（模板）"
+
+#. L10N group=3 idx=105
+msgid "マージ方式"
+msgstr "合併方式"
+
+#. L10N group=3 idx=106
+msgid "通常 (ブレンドで合成)"
+msgstr "正常（透過混合合成）"
+
+#. L10N group=3 idx=107
+msgid "クリッピング (ブレンドで合成)"
+msgstr "剪貼蒙版（透過混合合成）"
+
+#. L10N group=3 idx=108
+msgid "テクスチャ (質感)"
+msgstr "紋理（質感）"
+
+#. L10N group=3 idx=109
+msgid "アンチエイリアス (AA)"
+msgstr "抗鋸齒（AA）"
+
+#. L10N group=3 idx=110
+msgid "全体設定に従う"
+msgstr "遵循整體設定"
+
+#. L10N group=3 idx=111
+msgid "有効"
+msgstr "啟用"
+
+#. L10N group=3 idx=112
+msgid "無効"
+msgstr "停用"
+
+#. L10N group=3 idx=113
+msgid "AA柔らかさ"
+msgstr "AA柔和度"
+
+#. L10N group=3 idx=114
+msgid "より不透明な時だけ合成 (AA品質優先)"
+msgstr "僅更不透明時合成（AA品質優先）"
+
+#. L10N group=3 idx=115
+msgid "ストローク幅"
+msgstr "筆畫寬度"
+
+#. L10N group=3 idx=116
+msgid "倍率"
+msgstr "倍率"
+
+#. L10N group=3 idx=117
+msgid "ストローク幅の影響元"
+msgstr "筆畫寬度影響來源"
+
+#. L10N group=3 idx=118
+msgid "ストローク不透明度"
+msgstr "筆畫不透明度"
+
+#. L10N group=3 idx=119
+msgid "自動調整 (描画間隔から)"
+msgstr "自動調整（依繪製間距）"
+
+#. L10N group=3 idx=120
+msgid "不透明度の影響元"
+msgstr "不透明度影響來源"
+
+#. L10N group=3 idx=121
+msgid "ストローク色"
+msgstr "筆畫顏色"
+
+#. L10N group=3 idx=122
+msgid "混色"
+msgstr "混色"
+
+#. L10N group=3 idx=123
+msgid "指先/スマッジ"
+msgstr "指尖/塗抹"
+
+#. L10N group=3 idx=124
+msgid "混色できない「描画先」です"
+msgstr "「繪製目標」不支援混色"
+
+#. L10N group=3 idx=125
+msgid "混色の水分量表現のため、レイヤーに直接描画する必要があります。「描画先」に「レイヤー」を指定してください。"
+msgstr "為表現混色的水分效果，需直接繪製到圖層。請在「繪製目標」中指定「圖層」。"
+
+#. L10N group=3 idx=126
+msgid "描画色"
+msgstr "繪製顏色"
+
+#. L10N group=3 idx=127
+msgid "指定色"
+msgstr "指定顏色"
+
+#. L10N group=3 idx=128
+msgid "前景色"
+msgstr "前景色"
+
+#. L10N group=3 idx=129
+msgid "背景色"
+msgstr "背景色"
+
+#. L10N group=3 idx=130
+msgid "素材色"
+msgstr "素材顏色"
+
+#. L10N group=3 idx=131
+msgid "グラデーション"
+msgstr "漸層"
+
+#. L10N group=3 idx=132
+msgid "ストローク色グラデーション"
+msgstr "筆畫顏色漸層"
+
+#. L10N group=3 idx=133
+msgid "ストローク色グラデーションの影響元"
+msgstr "筆畫顏色漸層影響來源"
+
+#. L10N group=3 idx=134
+msgid "ストローク色ジッター"
+msgstr "筆畫顏色抖動"
+
+#. L10N group=3 idx=135
+msgid "ジッター (色相)"
+msgstr "抖動（色相）"
+
+#. L10N group=3 idx=136
+msgid "ジッター (明るさ)"
+msgstr "抖動（亮度）"
+
+#. L10N group=3 idx=137
+msgid "ジッター (不透明度)"
+msgstr "抖動（不透明度）"
+
+#. L10N group=3 idx=138
+msgid "ジッター (彩度)"
+msgstr "抖動（飽和度）"
+
+#. L10N group=3 idx=139
+msgid "ストローク色オフセット"
+msgstr "筆畫顏色偏移"
+
+#. L10N group=3 idx=140
+msgid "オフセット (色相)"
+msgstr "偏移（色相）"
+
+#. L10N group=3 idx=141
+msgid "オフセット (明るさ)"
+msgstr "偏移（亮度）"
+
+#. L10N group=3 idx=142
+msgid "オフセット (彩度)"
+msgstr "偏移（飽和度）"
+
+#. L10N group=3 idx=143
+msgid "混色 (レイヤー直接描画時)"
+msgstr "混色（直接繪製到圖層時）"
+
+#. L10N group=3 idx=144
+msgid "混色強さ"
+msgstr "混色強度"
+
+#. L10N group=3 idx=145
+msgid "水分量"
+msgstr "水分量"
+
+#. L10N group=3 idx=146
+msgid "色延び"
+msgstr "顏色延展"
+
+#. L10N group=3 idx=147
+msgid "混色強さの影響元"
+msgstr "混色強度影響來源"
+
+#. L10N group=3 idx=148
+msgid "水分量の影響元"
+msgstr "水分量影響來源"
+
+#. L10N group=3 idx=149
+msgid "色延びの影響元"
+msgstr "顏色延展影響來源"
+
+#. L10N group=3 idx=150
+msgid "(速度影響)"
+msgstr "（速度影響）"
+
+#. L10N group=3 idx=151
+msgid "ストローク オフセット"
+msgstr "筆畫偏移"
+
+#. L10N group=3 idx=152
+msgid "オフセット X"
+msgstr "偏移X"
+
+#. L10N group=3 idx=153
+msgid "オフセット Y"
+msgstr "偏移Y"
+
+#. L10N group=3 idx=154
+msgid "複数ブラシ先端の描画順"
+msgstr "多筆尖繪製順序"
+
+#. L10N group=3 idx=155
+msgid "先端インデックス"
+msgstr "筆尖索引"
+
+#. L10N group=3 idx=156
+msgid "繰り返す (1,2,3,1,2,3)"
+msgstr "重複（1,2,3,1,2,3）"
+
+#. L10N group=3 idx=157
+msgid "最後で止める (1,2,3,3,3,3)"
+msgstr "停於最後（1,2,3,3,3,3）"
+
+#. L10N group=3 idx=158
+msgid "反射 (1,2,3,2,1,2)"
+msgstr "鏡像（1,2,3,2,1,2）"
+
+#. L10N group=3 idx=159
+msgid "ランダム (2,1,3,3,1,3,2...)"
+msgstr "隨機（2,1,3,3,1,3,2...）"
+
+#. L10N group=3 idx=160
+msgid "シャッフル (2,1,3/1,2,3/2,3,1...)"
+msgstr "洗牌（2,1,3/1,2,3/2,3,1...）"
+
+#. L10N group=3 idx=161
+msgid "入力コントロール (筆圧,速度)"
+msgstr "輸入控制（筆壓、速度）"
+
+#. L10N group=3 idx=162
+msgid "インデックス順"
+msgstr "依索引順序"
+
+#. L10N group=3 idx=163
+msgid "昇順 (通常)"
+msgstr "遞增（一般）"
+
+#. L10N group=3 idx=164
+msgid "降順 (反転)"
+msgstr "遞減（反向）"
+
+#. L10N group=3 idx=165
+msgid "入力コントロール"
+msgstr "輸入控制"
+
+#. L10N group=3 idx=166
+msgid "ブラシ先端の管理"
+msgstr "筆尖管理"
+
+#. L10N group=3 idx=167
+msgid "先端リスト"
+msgstr "筆尖清單"
+
+#. L10N group=3 idx=168
+msgid "ブラシ先端"
+msgstr "筆刷筆尖"
+
+#. L10N group=3 idx=169
+msgid "先端の追加"
+msgstr "加入筆尖"
+
+#. L10N group=3 idx=170
+msgid "レイヤーを先端として展開"
+msgstr "將圖層展開為筆尖"
+
+#. L10N group=3 idx=171
+msgid "先端タイプ"
+msgstr "筆尖類型"
+
+#. L10N group=3 idx=172
+msgid "画像ファイル"
+msgstr "影像檔案"
+
+#. L10N group=3 idx=173
+msgid "SVGパス"
+msgstr "SVG路徑"
+
+#. L10N group=3 idx=174
+msgid "----- (なし)"
+msgstr "-----（無）"
+
+#. L10N group=3 idx=175
+msgid "画像選択"
+msgstr "選擇影像"
+
+#. L10N group=3 idx=176
+msgid "画像ギャラリーから選択"
+msgstr "從影像庫選擇"
+
+#. L10N group=3 idx=177
+msgid "レイヤー選択"
+msgstr "選取圖層"
+
+#. L10N group=3 idx=178
+msgid "SVGパス編集"
+msgstr "SVG路徑編輯"
+
+#. L10N group=3 idx=179
+msgid "編集する..."
+msgstr "編輯..."
+
+#. L10N group=3 idx=180
+msgid "ブラシ先端の設定"
+msgstr "筆刷筆尖設定"
+
+#. L10N group=3 idx=181
+msgid "先端回転"
+msgstr "筆尖旋轉"
+
+#. L10N group=3 idx=182
+msgid "先端プロパティ"
+msgstr "筆尖屬性"
+
+#. L10N group=3 idx=183
+msgid "先端サイズ"
+msgstr "筆尖大小"
+
+#. L10N group=3 idx=184
+msgid "その他"
+msgstr "其他"
+
+#. L10N group=3 idx=185
+msgid "先端回転 (ストローク単位)"
+msgstr "筆尖旋轉（按筆畫）"
+
+#. L10N group=3 idx=186
+msgid "回転タイプ"
+msgstr "旋轉類型"
+
+#. L10N group=3 idx=187
+msgid "なし"
+msgstr "無"
+
+#. L10N group=3 idx=188
+msgid "スタイラスの向きを反映"
+msgstr "反映觸控筆方向"
+
+#. L10N group=3 idx=189
+msgid "角度 (ジッター)"
+msgstr "角度（抖動）"
+
+#. L10N group=3 idx=190
+msgid "先端倍率"
+msgstr "筆尖倍率"
+
+#. L10N group=3 idx=191
+msgid "ランダム出現率"
+msgstr "隨機出現率"
+
+#. L10N group=3 idx=192
+msgid "ソフトエッジの硬さ"
+msgstr "柔化邊緣硬度"
+
+#. L10N group=3 idx=193
+msgid "先端変形 (横)"
+msgstr "筆尖變形（橫向）"
+
+#. L10N group=3 idx=194
+msgid "先端変形 (縦)"
+msgstr "筆尖變形（縱向）"
+
+#. L10N group=3 idx=195
+msgid "先端色"
+msgstr "筆尖顏色"
+
+#. L10N group=3 idx=196
+msgid "ストローク色を継承"
+msgstr "繼承筆畫顏色"
+
+#. L10N group=3 idx=197
+msgid "先端描画色"
+msgstr "筆尖繪製顏色"
+
+#. L10N group=3 idx=198
+msgid "先端指定色"
+msgstr "筆尖指定顏色"
+
+#. L10N group=3 idx=199
+msgid "先端不透明度"
+msgstr "筆尖不透明度"
+
+#. L10N group=3 idx=200
+msgid "先端色ジッター"
+msgstr "筆尖顏色抖動"
+
+#. L10N group=3 idx=201
+msgid "散布モード"
+msgstr "散佈模式"
+
+#. L10N group=3 idx=202
+msgid "粒子サイズ (ジッター)"
+msgstr "粒子大小（抖動）"
+
+#. L10N group=3 idx=203
+msgid "散布範囲"
+msgstr "散佈範圍"
+
+#. L10N group=3 idx=204
+msgid "散布点描モード"
+msgstr "散佈點繪模式"
+
+#. L10N group=3 idx=205
+msgid "適用先"
+msgstr "套用目標"
+
+#. L10N group=3 idx=206
+msgid "ブラシストローク"
+msgstr "筆刷筆畫"
+
+#. L10N group=3 idx=207
+msgid "テクスチャ機能"
+msgstr "紋理功能"
+
+#. L10N group=3 idx=208
+msgid "演算"
+msgstr "運算"
+
+#. L10N group=3 idx=209
+msgid "乗算2 (非推奨)"
+msgstr "色彩增值2（不建議）"
+
+#. L10N group=3 idx=210
+msgid "[加工後画像]"
+msgstr "[處理後影像]"
+
+#. L10N group=3 idx=211
+msgid "明るさ"
+msgstr "亮度"
+
+#. L10N group=3 idx=212
+msgid "コントラスト"
+msgstr "對比度"
+
+#. L10N group=3 idx=213
+msgid "濃度反転"
+msgstr "濃度反轉"
+
+#. L10N group=3 idx=214
+msgid "テクスチャ 影響"
+msgstr "紋理影響"
+
+#. L10N group=3 idx=215
+msgid "テクスチャ影響元"
+msgstr "紋理影響來源"
+
+#. L10N group=3 idx=216
+msgid "座標ジッター"
+msgstr "座標抖動"
+
+#. L10N group=3 idx=217
+msgid "テクスチャ設定"
+msgstr "紋理設定"
+
+#. L10N group=3 idx=218
+msgid "設定をリセット"
+msgstr "重設設定"
+
+#. L10N group=3 idx=219
+msgid "透明色時の濃度反転"
+msgstr "透明色時反轉濃度"
+
+#. L10N group=3 idx=220
+msgid "ストローク速度"
+msgstr "筆畫速度"
+
+#. L10N group=3 idx=221
+msgid "色空間"
+msgstr "色彩空間"
+
+#. L10N group=3 idx=222
+msgid "HCL (自然に調整)"
+msgstr "HCL（自然調整）"
+
+#. L10N group=3 idx=223
+msgid "HSL (ビビットに調整)"
+msgstr "HSL（鮮豔調整）"
+
+#. L10N group=3 idx=224
+msgid "リセット"
+msgstr "重設"
+
+#. L10N group=3 idx=225
+msgid "有効にする"
+msgstr "啟用"
+
+#. L10N group=3 idx=226
+msgid "2番目以降のレイヤーを、ブラシ先端として展開しますか？"
+msgstr "要將第2個及以後的圖層展開為筆尖嗎？"
+
+#. L10N group=3 idx=227
+msgid "総レイヤー数"
+msgstr "圖層總數"
+
+#. L10N group=3 idx=228
+msgid "高品質な素材ブラシ描画"
+msgstr "高品質素材筆刷繪製"
+
+#. L10N group=3 idx=229
+msgid "旧方式のビットマップ先端テクスチャ適用"
+msgstr "套用舊式點陣圖筆尖紋理"
+
+#. L10N group=3 idx=230
+msgid "ライブラリに追加"
+msgstr "加入資料庫"
+
+#. L10N group=3 idx=231
+msgid "プレビュー"
+msgstr "預覽"
+
+#. L10N group=3 idx=232
+msgid "同名のファイルが存在するため、追加できません"
+msgstr "存在同名檔案，無法加入"
+
+#. L10N group=3 idx=233
+msgid "SVGパスをライブラリに追加"
+msgstr "將SVG路徑加入資料庫"
+
+#. L10N group=3 idx=234
+msgid "ファイル名"
+msgstr "檔名"
+
+#. L10N group=3 idx=235
+msgid "SVGパスを正しくパースできていません"
+msgstr "無法正確解析SVG路徑"
+
+#. L10N group=3 idx=236
+msgid "喷枪"
+msgstr "噴槍"
+
+#. L10N group=3 idx=237
+msgid "橡皮擦"
+msgstr "橡皮擦"
+
+#. L10N group=3 idx=238
+msgid "模糊"
+msgstr "模糊"
+
+#. L10N group=3 idx=239
+msgid "混合难易度"
+msgstr "混色程度"
+
+#. L10N group=3 idx=240
+msgid "补色"
+msgstr "補充顏色"
+
+#. L10N group=3 idx=241
+msgid "旋转"
+msgstr "旋轉"
+
+#. L10N group=3 idx=242
+msgid "随机旋转"
+msgstr "隨機旋轉"
+
+#. L10N group=3 idx=243
+msgid "应用前景色"
+msgstr "套用前景色"
+
+#. L10N group=3 idx=244
+msgid "粒子尺寸"
+msgstr "粒子大小"
+
+#. L10N group=3 idx=245
+msgid "粒子随机"
+msgstr "粒子隨機"
+
+#. L10N group=3 idx=246
+msgid "粒子旋转"
+msgstr "粒子旋轉"
+
+#. L10N group=3 idx=247
+msgid "色彩抖动"
+msgstr "顏色抖動"
+
+#. L10N group=3 idx=248
+msgid "色相抖动"
+msgstr "色相抖動"
+
+#. L10N group=3 idx=249
+msgid "指尖"
+msgstr "指尖"
+
+#. L10N group=3 idx=250
+msgid "固定位移方向"
+msgstr "固定偏移方向"
+
+#. L10N group=3 idx=251
+msgid "位移方向"
+msgstr "偏移方向"
+
+#. L10N group=3 idx=252
+msgid "向前旋转"
+msgstr "沿軌跡旋轉"
+
+#. L10N group=3 idx=253
+msgid "旋转角度"
+msgstr "旋轉角"
+
+#. L10N group=3 idx=254
+msgid "柔和度"
+msgstr "柔和度"
+
+#. L10N group=3 idx=255
+msgid "当有数件素材时，随机描绘素材"
+msgstr "有多個素材時，隨機繪製素材"
+
+#. L10N group=3 idx=256
+msgid "当有数件素材时，重复描绘第一份素材"
+msgstr "有多個素材時，從第一個素材開始重複繪製"
+
+#. L10N group=3 idx=257
+msgid "加乘"
+msgstr "色彩增值"
+
+#. L10N group=3 idx=258
+msgid "散布混合"
+msgstr "散佈混色"
+
+#. L10N group=3 idx=259
+msgid "随机素材"
+msgstr "隨機素材"
+
+#. L10N group=3 idx=260
+msgid "切换颜色"
+msgstr "交換顏色"
+
+#. L10N group=3 idx=261
+msgid "残留墨水的长度(淡入)"
+msgstr "墨堆積長度（入筆）"
+
+#. L10N group=3 idx=262
+msgid "残留墨水的长度(淡出)"
+msgstr "墨堆積長度（收筆）"
+
+#. L10N group=3 idx=263
+msgid "残留墨水的量(淡入)"
+msgstr "墨堆積量（入筆）"
+
+#. L10N group=3 idx=264
+msgid "残留墨水的量(淡出)"
+msgstr "墨堆積量（收筆）"
+
+#. L10N group=3 idx=265
+msgid "淡入淡出的形状"
+msgstr "筆鋒形狀"
+
+#. L10N group=3 idx=266
+msgid "滑顺"
+msgstr "平滑"
+
+#. L10N group=3 idx=267
+msgid "水滴形"
+msgstr "水滴形"
+
+#. L10N group=3 idx=268
+msgid "残留墨水的形状"
+msgstr "墨堆積形狀"
+
+#. L10N group=3 idx=269
+msgid "残留墨水"
+msgstr "墨堆積"
+
+#. L10N group=3 idx=270
+msgid "手绘文字"
+msgstr "手繪文字"
+
+#. L10N group=3 idx=271
+msgid "(旧设置)"
+msgstr "（舊設定）"
+
+#. L10N group=3 idx=272
+msgid "颜色缓冲(随后混合)"
+msgstr "顏色緩衝（後混合）"
+
+#. L10N group=3 idx=273
+msgid "直接绘制到图层(可混色、单笔)"
+msgstr "直接繪製到圖層（可混色、1筆）"
+
+#. L10N group=3 idx=274
+msgid "透穿擦除"
+msgstr "貫穿擦除"
+
+#. L10N group=3 idx=275
+msgid "同一文件夹"
+msgstr "同一資料夾"
+
+#. L10N group=3 idx=276
+msgid "(三重)"
+msgstr "（三筆）"
+
+#. L10N group=3 idx=277
+msgid "笔触/颜色"
+msgstr "筆畫/顏色"
+
+#. L10N group=3 idx=278
+msgid "正常"
+msgstr "正常"
+
+#. L10N group=3 idx=279
+msgid "(蒙版)"
+msgstr "（遮罩）"
+
+#. L10N group=3 idx=280
+msgid "(模板)"
+msgstr "（模板）"
+
+#. L10N group=3 idx=281
+msgid "正常(以混合方式合成)"
+msgstr "正常（透過混合合成）"
+
+#. L10N group=3 idx=282
+msgid "蒙版"
+msgstr "遮罩"
+
+#. L10N group=3 idx=283
+msgid "混合"
+msgstr "混合"
+
+#. L10N group=3 idx=284
+msgid "抗锯齿(AA)"
+msgstr "抗鋸齒（AA）"
+
+#. L10N group=3 idx=285
+msgid "设置"
+msgstr "設定"
+
+#. L10N group=3 idx=286
+msgid "遵循整体设置"
+msgstr "遵循整體設定"
+
+#. L10N group=3 idx=287
+msgid "启用"
+msgstr "啟用"
+
+#. L10N group=3 idx=288
+msgid "禁用"
+msgstr "停用"
+
+#. L10N group=3 idx=289
+msgid "抗锯齿柔和度"
+msgstr "抗鋸齒柔和度"
+
+#. L10N group=3 idx=290
+msgid "影响不透明度的来源"
+msgstr "不透明度影響來源"
+
+#. L10N group=3 idx=291
+msgid "笔触颜色"
+msgstr "筆畫顏色"
+
+#. L10N group=3 idx=292
+msgid "指尖/模糊工具"
+msgstr "指尖/塗抹"
+
+#. L10N group=3 idx=293
+msgid "无法混色的“绘制目标"
+msgstr "「繪製目標」不支援混色"
+
+#. L10N group=3 idx=294
+msgid "为表示混色的水分量，需直接在图层绘制。请将“绘制目标”指定为“图层”。"
+msgstr "為表現混色的水分效果，需直接繪製到圖層。請在「繪製目標」中指定「圖層」。"
+
+#. L10N group=3 idx=295
+msgid "绘制颜色"
+msgstr "繪製顏色"
+
+#. L10N group=3 idx=296
+msgid "指定颜色"
+msgstr "指定顏色"
+
+#. L10N group=3 idx=297
+msgid "笔触颜色渐变"
+msgstr "筆畫顏色漸層"
+
+#. L10N group=3 idx=298
+msgid "笔触颜色渐变的来源"
+msgstr "筆畫顏色漸層影響來源"
+
+#. L10N group=3 idx=299
+msgid "笔触颜色抖动"
+msgstr "筆畫顏色抖動"
+
+#. L10N group=3 idx=300
+msgid "抖动(色相)"
+msgstr "抖動（色相）"
+
+#. L10N group=3 idx=301
+msgid "笔触颜色偏移"
+msgstr "筆畫顏色偏移"
+
+#. L10N group=3 idx=302
+msgid "偏移(色相)"
+msgstr "偏移（色相）"
+
+#. L10N group=3 idx=303
+msgid "偏移(亮度)"
+msgstr "偏移（亮度）"
+
+#. L10N group=3 idx=304
+msgid "偏移(饱和度)"
+msgstr "偏移（飽和度）"
+
+#. L10N group=3 idx=305
+msgid "混色(在直接绘制到图层时)"
+msgstr "混色（直接繪製到圖層時）"
+
+#. L10N group=3 idx=306
+msgid "混色强度"
+msgstr "混色強度"
+
+#. L10N group=3 idx=307
+msgid "颜色延伸"
+msgstr "顏色延展"
+
+#. L10N group=3 idx=308
+msgid "混色强度的来源"
+msgstr "混色強度影響來源"
+
+#. L10N group=3 idx=309
+msgid "水分量的来源"
+msgstr "水分量影響來源"
+
+#. L10N group=3 idx=310
+msgid "颜色延伸的来源"
+msgstr "顏色延展影響來源"
+
+#. L10N group=3 idx=311
+msgid "(速度影响)"
+msgstr "（速度影響）"
+
+#. L10N group=3 idx=312
+msgid "偏移 X"
+msgstr "偏移X"
+
+#. L10N group=3 idx=313
+msgid "偏移 Y"
+msgstr "偏移Y"
+
+#. L10N group=3 idx=314
+msgid "末尾停止 (1,2,3,3,3,3)"
+msgstr "停於最後（1,2,3,3,3,3）"
+
+#. L10N group=3 idx=315
+msgid "随机 (2,1,3,3,1,3,2...)"
+msgstr "隨機（2,1,3,3,1,3,2...）"
+
+#. L10N group=3 idx=316
+msgid "洗牌 (2,1,3/1,2,3/2,3,1...)"
+msgstr "洗牌（2,1,3/1,2,3/2,3,1...）"
+
+#. L10N group=3 idx=317
+msgid "索引顺序"
+msgstr "依索引順序"
+
+#. L10N group=3 idx=318
+msgid "升序(通常)"
+msgstr "遞增（一般）"
+
+#. L10N group=3 idx=319
+msgid "降序(反转)"
+msgstr "遞減（反向）"
+
+#. L10N group=3 idx=320
+msgid "输入控制"
+msgstr "輸入控制"
+
+#. L10N group=3 idx=321
+msgid "画笔筆尖"
+msgstr "筆刷筆尖"
+
+#. L10N group=3 idx=322
+msgid "圆形"
+msgstr "圓形"
+
+#. L10N group=3 idx=323
+msgid "图像文件"
+msgstr "影像檔案"
+
+#. L10N group=3 idx=324
+msgid "-----(无)"
+msgstr "-----（無）"
+
+#. L10N group=3 idx=325
+msgid "笔尖设置"
+msgstr "筆尖設定"
+
+#. L10N group=3 idx=326
+msgid "其他"
+msgstr "其他"
+
+#. L10N group=3 idx=327
+msgid "沿向旋转"
+msgstr "沿軌跡旋轉"
+
+#. L10N group=3 idx=328
+msgid "随机出现率"
+msgstr "隨機出現率"
+
+#. L10N group=3 idx=329
+msgid "笔尖颜色"
+msgstr "筆尖顏色"
+
+#. L10N group=3 idx=330
+msgid "继承笔触颜色"
+msgstr "繼承筆畫顏色"
+
+#. L10N group=3 idx=331
+msgid "笔尖绘制颜色"
+msgstr "筆尖繪製顏色"
+
+#. L10N group=3 idx=332
+msgid "笔尖指定颜色"
+msgstr "筆尖指定顏色"
+
+#. L10N group=3 idx=333
+msgid "笔尖颜色抖动"
+msgstr "筆尖顏色抖動"
+
+#. L10N group=3 idx=334
+msgid "散布模式"
+msgstr "散佈模式"
+
+#. L10N group=3 idx=335
+msgid "粒子大小"
+msgstr "粒子大小"
+
+#. L10N group=3 idx=336
+msgid "运算"
+msgstr "運算"
+
+#. L10N group=3 idx=337
+msgid "明亮度"
+msgstr "亮度"
+
+#. L10N group=3 idx=338
+msgid "浓度反转"
+msgstr "濃度反轉"
+
+#. L10N group=3 idx=339
+msgid "纹理设置"
+msgstr "紋理設定"
+
+#. L10N group=3 idx=340
+msgid "重置设置"
+msgstr "重設設定"
+
+#. L10N group=3 idx=341
+msgid "色彩空间"
+msgstr "色彩空間"
+
+#. L10N group=3 idx=342
+msgid "HCL(自然调整)"
+msgstr "HCL（自然調整）"
+
+#. L10N group=3 idx=343
+msgid "HSL(鲜艳调整)"
+msgstr "HSL（鮮豔調整）"
+
+#. L10N group=3 idx=344
+msgid "重置"
+msgstr "重設"
+
+#. L10N group=3 idx=345
+msgid "兼容性"
+msgstr "相容性"
+
+#. L10N group=3 idx=346
+msgid "预览"
+msgstr "預覽"
+
+#. L10N group=3 idx=347
+msgid "因存在同名文件，无法添加"
+msgstr "存在同名檔案，無法加入"
+
+#. L10N group=3 idx=348
+msgid "文件名"
+msgstr "檔名"
+
+#. L10N group=3 idx=349
+msgid "噴槍"
+msgstr "噴槍"
+
+#. L10N group=3 idx=350
+msgid "混色難易度"
+msgstr "混色程度"
+
+#. L10N group=3 idx=351
+msgid "顏色補充"
+msgstr "補充顏色"
+
+#. L10N group=3 idx=352
+msgid "旋轉"
+msgstr "旋轉"
+
+#. L10N group=3 idx=353
+msgid "使用前景色"
+msgstr "套用前景色"
+
+#. L10N group=3 idx=354
+msgid "顆粒尺寸"
+msgstr "粒子大小"
+
+#. L10N group=3 idx=355
+msgid "顆粒旋轉"
+msgstr "粒子旋轉"
+
+#. L10N group=3 idx=356
+msgid "顏色抖動"
+msgstr "顏色抖動"
+
+#. L10N group=3 idx=357
+msgid "色相抖動"
+msgstr "色相抖動"
+
+#. L10N group=3 idx=358
+msgid "塗抹"
+msgstr "塗抹"
+
+#. L10N group=3 idx=359
+msgid "強制起筆/收筆"
+msgstr "強制筆鋒"
+
+#. L10N group=3 idx=360
+msgid "沿著旋轉"
+msgstr "沿軌跡旋轉"
+
+#. L10N group=3 idx=361
+msgid "旋轉角"
+msgstr "旋轉角"
+
+#. L10N group=3 idx=362
+msgid "隨機旋轉"
+msgstr "隨機旋轉"
+
+#. L10N group=3 idx=363
+msgid "當有數件素材時，隨機描繪素材"
+msgstr "有多個素材時，隨機繪製素材"
+
+#. L10N group=3 idx=364
+msgid "當有數件素材時，重複描繪第一份素材"
+msgstr "有多個素材時，從第一個素材開始重複繪製"
+
+#. L10N group=3 idx=365
+msgid "隨機素材"
+msgstr "隨機素材"
+
+#. L10N group=3 idx=366
+msgid "切換顏色"
+msgstr "交換顏色"
+
+#. L10N group=3 idx=367
+msgid "殘留墨水的長度 (淡入)"
+msgstr "墨堆積長度（入筆）"
+
+#. L10N group=3 idx=368
+msgid "殘留墨水的長度 (淡出)"
+msgstr "墨堆積長度（收筆）"
+
+#. L10N group=3 idx=369
+msgid "殘留墨水的量 (淡入)"
+msgstr "墨堆積量（入筆）"
+
+#. L10N group=3 idx=370
+msgid "殘留墨水的量 (淡出)"
+msgstr "墨堆積量（收筆）"
+
+#. L10N group=3 idx=371
+msgid "淡入淡出的形狀"
+msgstr "筆鋒形狀"
+
+#. L10N group=3 idx=372
+msgid "滑順"
+msgstr "平滑"
+
+#. L10N group=3 idx=373
+msgid "殘留墨水的形狀"
+msgstr "墨堆積形狀"
+
+#. L10N group=3 idx=374
+msgid "殘留墨水"
+msgstr "墨堆積"
+
+#. L10N group=3 idx=375
+msgid "手繪文字"
+msgstr "手繪文字"
+
+#. L10N group=3 idx=376
+msgid "顏色緩衝（稍後混合）"
+msgstr "顏色緩衝（後混合）"
+
+#. L10N group=3 idx=377
+msgid "直接繪製到圖層(可混色、單筆)"
+msgstr "直接繪製到圖層（可混色、1筆）"
+
+#. L10N group=3 idx=378
+msgid "筆觸/顏色"
+msgstr "筆畫/顏色"
+
+#. L10N group=3 idx=379
+msgid "(剪裁遮色片)"
+msgstr "（剪貼蒙版）"
+
+#. L10N group=3 idx=380
+msgid "(遮罩)"
+msgstr "（遮罩）"
+
+#. L10N group=3 idx=381
+msgid "合併方式"
+msgstr "合併方式"
+
+#. L10N group=3 idx=382
+msgid "剪裁遮色片(以混合方式合成)"
+msgstr "剪貼蒙版（透過混合合成）"
+
+#. L10N group=3 idx=383
+msgid "遮罩"
+msgstr "遮罩"
+
+#. L10N group=3 idx=384
+msgid "反鋸齒(AA)"
+msgstr "抗鋸齒（AA）"
+
+#. L10N group=3 idx=385
+msgid "啟用"
+msgstr "啟用"
+
+#. L10N group=3 idx=386
+msgid "停用"
+msgstr "停用"
+
+#. L10N group=3 idx=387
+msgid "反鋸齒柔和度"
+msgstr "抗鋸齒柔和度"
+
+#. L10N group=3 idx=388
+msgid "影響不透明度的來源"
+msgstr "不透明度影響來源"
+
+#. L10N group=3 idx=389
+msgid "筆觸顏色"
+msgstr "筆畫顏色"
+
+#. L10N group=3 idx=390
+msgid "指尖/暈染工具"
+msgstr "指尖/塗抹"
+
+#. L10N group=3 idx=391
+msgid "無法混色的「繪製目標」"
+msgstr "「繪製目標」不支援混色"
+
+#. L10N group=3 idx=392
+msgid "為表現混色的水分量，需直接在圖層繪製。請將「繪製目標」指定為「圖層」。"
+msgstr "為表現混色的水分效果，需直接繪製到圖層。請在「繪製目標」中指定「圖層」。"
+
+#. L10N group=3 idx=393
+msgid "繪製顏色"
+msgstr "繪製顏色"
+
+#. L10N group=3 idx=394
+msgid "指定顏色"
+msgstr "指定顏色"
+
+#. L10N group=3 idx=395
+msgid "筆觸顏色漸層"
+msgstr "筆畫顏色漸層"
+
+#. L10N group=3 idx=396
+msgid "筆觸顏色漸層的影響來源"
+msgstr "筆畫顏色漸層影響來源"
+
+#. L10N group=3 idx=397
+msgid "筆觸顏色抖動"
+msgstr "筆畫顏色抖動"
+
+#. L10N group=3 idx=398
+msgid "抖動(色相)"
+msgstr "抖動（色相）"
+
+#. L10N group=3 idx=399
+msgid "筆觸顏色偏移"
+msgstr "筆畫顏色偏移"
+
+#. L10N group=3 idx=400
+msgid "偏移(飽和度)"
+msgstr "偏移（飽和度）"
+
+#. L10N group=3 idx=401
+msgid "混色(在直接繪製到圖層時)"
+msgstr "混色（直接繪製到圖層時）"
+
+#. L10N group=3 idx=402
+msgid "混色強度"
+msgstr "混色強度"
+
+#. L10N group=3 idx=403
+msgid "顏色延伸"
+msgstr "顏色延展"
+
+#. L10N group=3 idx=404
+msgid "混色強度的影響來源"
+msgstr "混色強度影響來源"
+
+#. L10N group=3 idx=405
+msgid "水分量的影響來源"
+msgstr "水分量影響來源"
+
+#. L10N group=3 idx=406
+msgid "顏色延伸的影響來源"
+msgstr "顏色延展影響來源"
+
+#. L10N group=3 idx=407
+msgid "重複 (1,2,3,1,2,3)"
+msgstr "重複（1,2,3,1,2,3）"
+
+#. L10N group=3 idx=408
+msgid "隨機 (2,1,3,3,1,3,2...)"
+msgstr "隨機（2,1,3,3,1,3,2...）"
+
+#. L10N group=3 idx=409
+msgid "索引順序"
+msgstr "依索引順序"
+
+#. L10N group=3 idx=410
+msgid "輸入控制"
+msgstr "輸入控制"
+
+#. L10N group=3 idx=411
+msgid "圓形"
+msgstr "圓形"
+
+#. L10N group=3 idx=412
+msgid "-----(無)"
+msgstr "-----（無）"
+
+#. L10N group=3 idx=413
+msgid "沿向旋轉"
+msgstr "沿軌跡旋轉"
+
+#. L10N group=3 idx=414
+msgid "隨機出現率"
+msgstr "隨機出現率"
+
+#. L10N group=3 idx=415
+msgid "筆尖顏色"
+msgstr "筆尖顏色"
+
+#. L10N group=3 idx=416
+msgid "繼承筆觸顏色"
+msgstr "繼承筆畫顏色"
+
+#. L10N group=3 idx=417
+msgid "筆尖繪製顏色"
+msgstr "筆尖繪製顏色"
+
+#. L10N group=3 idx=418
+msgid "筆尖指定顏色"
+msgstr "筆尖指定顏色"
+
+#. L10N group=3 idx=419
+msgid "筆尖顏色抖動"
+msgstr "筆尖顏色抖動"
+
+#. L10N group=3 idx=420
+msgid "運算"
+msgstr "運算"
+
+#. L10N group=3 idx=421
+msgid "色彩增值"
+msgstr "色彩增值"
+
+#. L10N group=3 idx=422
+msgid "色彩增值2(不建議)"
+msgstr "色彩增值2（不建議）"
+
+#. L10N group=3 idx=423
+msgid "濃度反轉"
+msgstr "濃度反轉"
+
+#. L10N group=3 idx=424
+msgid "重置設定"
+msgstr "重設設定"
+
+#. L10N group=3 idx=425
+msgid "色彩空間"
+msgstr "色彩空間"
+
+#. L10N group=3 idx=426
+msgid "HCL(自然調整)"
+msgstr "HCL（自然調整）"
+
+#. L10N group=3 idx=427
+msgid "HSL(鮮豔調整)"
+msgstr "HSL（鮮豔調整）"
+
+#. L10N group=3 idx=428
+msgid "相容性"
+msgstr "相容性"
+
+#. L10N group=3 idx=429
+msgid "預覽"
+msgstr "預覽"
+
+#. L10N group=3 idx=430
+msgid "因存在同名檔案,無法新增"
+msgstr "存在同名檔案，無法加入"
+
+#. L10N group=3 idx=431
+msgid "檔名"
+msgstr "檔名"
+
+#. L10N group=6 idx=0
+msgid "不正なスクリプトです"
+msgstr "指令碼無效"
+
+#. L10N group=6 idx=1
+msgid "グループ名の変更..."
+msgstr "重新命名群組..."
+
+#. L10N group=6 idx=2
+msgid "グループの削除"
+msgstr "刪除群組"
+
+#. L10N group=6 idx=3
+msgid "ペン (入り抜き)"
+msgstr "畫筆（筆鋒）"
+
+#. L10N group=6 idx=4
+msgid "グループを上に移動"
+msgstr "群組上移"
+
+#. L10N group=6 idx=5
+msgid "グループを下に移動"
+msgstr "群組下移"
+
+#. L10N group=6 idx=6
+msgid "ブラシ"
+msgstr "筆刷"
+
+#. L10N group=6 idx=7
+msgid "グループを作成し、そこに追加しますか？"
+msgstr "要建立群組並加入其中嗎？"
+
+#. L10N group=6 idx=8
+msgid "グループの解除..."
+msgstr "取消群組..."
+
+#. L10N group=6 idx=9
+msgid "グループを解除し、グループ内のブラシをリストの末尾に移動させますか？"
+msgstr "要取消群組並將群組內筆刷移到清單末尾嗎？"
+
+#. L10N group=6 idx=10
+msgid "FireAlpaca ブラシ形式 (*.mdb)"
+msgstr "FireAlpaca筆刷格式（*.mdb）"
+
+#. L10N group=6 idx=11
+msgid "ブラシファイルの保存"
+msgstr "儲存筆刷檔案"
+
+#. L10N group=6 idx=12
+msgid "ブラシファイルの読み込み"
+msgstr "載入筆刷檔案"
+
+#. L10N group=6 idx=13
+msgid "幅と高さを 1024 px 以内にしてください"
+msgstr "寬高需在1024 px以內"
+
+#. L10N group=6 idx=14
+msgid "新ブラシエンジン形式に変換"
+msgstr "轉換為新筆刷引擎格式"
+
+#. L10N group=6 idx=15
+msgid " (ハード)"
+msgstr "（硬）"
+
+#. L10N group=6 idx=16
+msgid " (ソフト)"
+msgstr "（軟）"
+
+#. L10N group=6 idx=17
+msgid " (キャンバス)"
+msgstr "（畫布）"
+
+#. L10N group=6 idx=18
+msgid " (スケッチブック)"
+msgstr "（素描本）"
+
+#. L10N group=6 idx=19
+msgid " (にじみ)"
+msgstr "（暈染）"
+
+#. L10N group=6 idx=20
+msgid "マーカー"
+msgstr "麥克筆"
+
+#. L10N group=6 idx=21
+msgid "もこもこ"
+msgstr "毛絨"
+
+#. L10N group=6 idx=22
+msgid "左右対称"
+msgstr "左右對稱"
+
+#. L10N group=6 idx=23
+msgid "回転対称"
+msgstr "旋轉對稱"
+
+#. L10N group=6 idx=24
+msgid "とげ"
+msgstr "尖刺"
+
+#. L10N group=6 idx=25
+msgid "カケアミ"
+msgstr "斜線網紋"
+
+#. L10N group=6 idx=26
+msgid "水玉"
+msgstr "圓點"
+
+#. L10N group=6 idx=27
+msgid "アナログペン (c)宇河弘樹"
+msgstr "手繪畫筆 (c)宇河弘樹"
+
+#. L10N group=6 idx=28
+msgid "葉っぱ"
+msgstr "葉子"
+
+#. L10N group=6 idx=29
+msgid "粒子"
+msgstr "粒子"
+
+#. L10N group=6 idx=30
+msgid "矢印"
+msgstr "箭頭"
+
+#. L10N group=6 idx=31
+msgid "雷文"
+msgstr "雷紋"
+
+#. L10N group=6 idx=32
+msgid "4ペン"
+msgstr "4號畫筆"
+
+#. L10N group=6 idx=33
+msgid "7ペン"
+msgstr "7號畫筆"
+
+#. L10N group=6 idx=34
+msgid "10ペン"
+msgstr "10號畫筆"
+
+#. L10N group=6 idx=35
+msgid "15ペン"
+msgstr "15號畫筆"
+
+#. L10N group=6 idx=36
+msgid "20ペン"
+msgstr "20號畫筆"
+
+#. L10N group=6 idx=37
+msgid "50ペン"
+msgstr "50號畫筆"
+
+#. L10N group=6 idx=38
+msgid "ペン(筆圧なし)"
+msgstr "畫筆（無筆壓）"
+
+#. L10N group=6 idx=39
+msgid "ペン（入り抜き）"
+msgstr "畫筆（筆鋒）"
+
+#. L10N group=6 idx=40
+msgid "アナログペン"
+msgstr "手繪畫筆"
+
+#. L10N group=6 idx=41
+msgid "レタリングマジック細"
+msgstr "書法麥克筆細"
+
+#. L10N group=6 idx=42
+msgid "レタリングマジック太"
+msgstr "書法麥克筆粗"
+
+#. L10N group=6 idx=43
+msgid "ドローイングペン"
+msgstr "繪圖畫筆"
+
+#. L10N group=6 idx=44
+msgid "ボールペン"
+msgstr "原子筆"
+
+#. L10N group=6 idx=45
+msgid "テクスチャーマーカーペン"
+msgstr "紋理麥克筆"
+
+#. L10N group=6 idx=46
+msgid "万年筆（線画用）"
+msgstr "鋼筆（線稿用）"
+
+#. L10N group=6 idx=47
+msgid "烏口"
+msgstr "鴨嘴筆"
+
+#. L10N group=6 idx=48
+msgid "うす墨インク溜まりペン"
+msgstr "淡墨積墨畫筆"
+
+#. L10N group=6 idx=49
+msgid "ネオンブラシ"
+msgstr "霓虹筆刷"
+
+#. L10N group=6 idx=50
+msgid "鉛筆（キャンバス）"
+msgstr "鉛筆（畫布）"
+
+#. L10N group=6 idx=51
+msgid "鉛筆（スケッチブック）"
+msgstr "鉛筆（素描本）"
+
+#. L10N group=6 idx=52
+msgid "エアブラシ(細)"
+msgstr "噴槍（細）"
+
+#. L10N group=6 idx=53
+msgid "エアブラシ(太)"
+msgstr "噴槍（粗）"
+
+#. L10N group=6 idx=54
+msgid "水彩（ぼかし）"
+msgstr "水彩（模糊）"
+
+#. L10N group=6 idx=55
+msgid "平ら水彩"
+msgstr "平筆水彩"
+
+#. L10N group=6 idx=56
+msgid "ほんわり水彩"
+msgstr "輕柔水彩"
+
+#. L10N group=6 idx=57
+msgid "じんわり水彩"
+msgstr "暈染水彩"
+
+#. L10N group=6 idx=58
+msgid "スケッチ水彩"
+msgstr "速寫水彩"
+
+#. L10N group=6 idx=59
+msgid "オイルペン"
+msgstr "油畫筆"
+
+#. L10N group=6 idx=60
+msgid "クレヨン"
+msgstr "蠟筆"
+
+#. L10N group=6 idx=61
+msgid "油彩1"
+msgstr "油彩1"
+
+#. L10N group=6 idx=62
+msgid "炎の画家"
+msgstr "火焰畫家"
+
+#. L10N group=6 idx=63
+msgid "炎の画家（色混ぜ）"
+msgstr "火焰畫家（混色）"
+
+#. L10N group=6 idx=64
+msgid "ウェットアクリル"
+msgstr "濕性壓克力"
+
+#. L10N group=6 idx=65
+msgid "でこぼこアートペン"
+msgstr "凹凸藝術畫筆"
+
+#. L10N group=6 idx=66
+msgid "かすれアクリル"
+msgstr "乾枯壓克力"
+
+#. L10N group=6 idx=67
+msgid "ガタガタアクリル"
+msgstr "粗糙壓克力"
+
+#. L10N group=6 idx=68
+msgid "煙1"
+msgstr "煙霧1"
+
+#. L10N group=6 idx=69
+msgid "刷毛ブラシ1"
+msgstr "刷毛筆刷1"
+
+#. L10N group=6 idx=70
+msgid "じんわり黒墨筆"
+msgstr "暈染黑墨毛筆"
+
+#. L10N group=6 idx=71
+msgid "カスレ毛筆"
+msgstr "乾枯毛筆"
+
+#. L10N group=6 idx=72
+msgid "グランジ1"
+msgstr "頹廢1"
+
+#. L10N group=6 idx=73
+msgid "グランジ2"
+msgstr "頹廢2"
+
+#. L10N group=6 idx=74
+msgid "ぐしゃぐしゃテクスチャー"
+msgstr "皺褶紋理"
+
+#. L10N group=6 idx=75
+msgid "モコモコスポンジ"
+msgstr "毛絨海綿"
+
+#. L10N group=6 idx=76
+msgid "錆ローラー1"
+msgstr "鏽跡滾筒1"
+
+#. L10N group=6 idx=77
+msgid "飛沫1"
+msgstr "飛濺1"
+
+#. L10N group=6 idx=78
+msgid "ネオン散布"
+msgstr "霓虹散佈"
+
+#. L10N group=6 idx=79
+msgid "火の粉"
+msgstr "火星"
+
+#. L10N group=6 idx=80
+msgid "プリズム2"
+msgstr "稜鏡2"
+
+#. L10N group=6 idx=81
+msgid "ハートプリズム2"
+msgstr "愛心稜鏡2"
+
+#. L10N group=6 idx=82
+msgid "キラキラ3"
+msgstr "閃閃發光3"
+
+#. L10N group=6 idx=83
+msgid "手書きキラキラ2"
+msgstr "手繪閃光2"
+
+#. L10N group=6 idx=84
+msgid "ふちペン2"
+msgstr "中空筆2"
+
+#. L10N group=6 idx=85
+msgid "ふちペン(筆圧なし)"
+msgstr "中空筆（無筆壓）"
+
+#. L10N group=6 idx=86
+msgid "回転対称2"
+msgstr "旋轉對稱2"
+
+#. L10N group=6 idx=87
+msgid "草むら"
+msgstr "草叢"
+
+#. L10N group=6 idx=88
+msgid "マンガファー（ふわふわ大）"
+msgstr "漫畫絨毛（蓬鬆大）"
+
+#. L10N group=6 idx=89
+msgid "ファスナー1"
+msgstr "拉鍊1"
+
+#. L10N group=6 idx=90
+msgid "ファスナー（金具）"
+msgstr "拉鍊（金屬件）"
+
+#. L10N group=6 idx=91
+msgid "フリル1"
+msgstr "荷葉邊1"
+
+#. L10N group=6 idx=92
+msgid "丸2"
+msgstr "圓點2"
+
+#. L10N group=6 idx=93
+msgid "文字っぽい何か1"
+msgstr "像文字的東西1"
+
+#. L10N group=6 idx=94
+msgid "レンガ（線画）"
+msgstr "磚塊（線稿）"
+
+#. L10N group=6 idx=95
+msgid "レース5"
+msgstr "蕾絲5"
+
+#. L10N group=6 idx=96
+msgid "レース7"
+msgstr "蕾絲7"
+
+#. L10N group=6 idx=97
+msgid "音符"
+msgstr "音符"
+
+#. L10N group=6 idx=98
+msgid "電光掲示板"
+msgstr "電子告示牌"
+
+#. L10N group=6 idx=99
+msgid "サイバーライン1"
+msgstr "Cyber線條1"
+
+#. L10N group=6 idx=100
+msgid "サイバースタンプ5"
+msgstr "Cyber印章5"
+
+#. L10N group=6 idx=101
+msgid "猫の足跡"
+msgstr "貓的足跡"
+
+#. L10N group=6 idx=102
+msgid "犬の足跡"
+msgstr "狗的足跡"
+
+#. L10N group=6 idx=103
+msgid "よくできましたスタンプEN"
+msgstr "Good Job印章"
+
+#. L10N group=6 idx=104
+msgid "スパーク_1本"
+msgstr "火花（1個）"
+
+#. L10N group=6 idx=105
+msgid "フラッグガーランド"
+msgstr "旗形花環"
+
+#. L10N group=6 idx=106
+msgid "ステッチ3"
+msgstr "縫線3"
+
+#. L10N group=6 idx=107
+msgid "ストライプ"
+msgstr "條紋"
+
+#. L10N group=6 idx=108
+msgid "レザーブレスレット（キャメル）"
+msgstr "皮革手鍊（駝色）"
+
+#. L10N group=6 idx=109
+msgid "薔薇（赤・散布）"
+msgstr "薔薇（紅·散佈）"
+
+#. L10N group=6 idx=110
+msgid "ヒマワリ（散布）"
+msgstr "向日葵（散佈）"
+
+#. L10N group=6 idx=111
+msgid "葉（アイビー）"
+msgstr "葉（常春藤）"
+
+#. L10N group=6 idx=112
+msgid "レンガ（カラー）"
+msgstr "磚塊（彩色）"
+
+#. L10N group=6 idx=113
+msgid "無限ビッグカツ"
+msgstr "無限大炸豬排"
+
+#. L10N group=6 idx=114
+msgid "脚本错误"
+msgstr "指令碼錯誤"
+
+#. L10N group=6 idx=115
+msgid " (硬)"
+msgstr "（硬）"
+
+#. L10N group=6 idx=116
+msgid " (晕渲)"
+msgstr "（暈染）"
+
+#. L10N group=6 idx=117
+msgid "毛茸茸"
+msgstr "毛絨"
+
+#. L10N group=6 idx=118
+msgid "叶子"
+msgstr "葉子"
+
+#. L10N group=6 idx=119
+msgid "文字排版 (细)"
+msgstr "文字排版（細）"
+
+#. L10N group=6 idx=120
+msgid "文字排版 (粗)"
+msgstr "文字排版（粗）"
+
+#. L10N group=6 idx=121
+msgid "霓虹心型"
+msgstr "霓虹愛心"
+
+#. L10N group=6 idx=122
+msgid "喷枪 (粗)"
+msgstr "噴槍（粗）"
+
+#. L10N group=6 idx=123
+msgid "水彩 (模糊)"
+msgstr "水彩（模糊）"
+
+#. L10N group=6 idx=124
+msgid "平面水彩"
+msgstr "平筆水彩"
+
+#. L10N group=6 idx=125
+msgid "毛茸茸水彩"
+msgstr "毛茸茸水彩"
+
+#. L10N group=6 idx=126
+msgid "晕散水彩"
+msgstr "暈染水彩"
+
+#. L10N group=6 idx=127
+msgid "素描水彩"
+msgstr "速寫水彩"
+
+#. L10N group=6 idx=128
+msgid "火焰画家 (混色)"
+msgstr "火焰畫家（混色）"
+
+#. L10N group=6 idx=129
+msgid "褪色塑胶彩"
+msgstr "褪色塑膠彩"
+
+#. L10N group=6 idx=130
+msgid "烟1"
+msgstr "煙霧1"
+
+#. L10N group=6 idx=131
+msgid "污渍1"
+msgstr "污漬1"
+
+#. L10N group=6 idx=132
+msgid "污渍2"
+msgstr "污漬2"
+
+#. L10N group=6 idx=133
+msgid "锈链1"
+msgstr "鏽鏈1"
+
+#. L10N group=6 idx=134
+msgid "飞沫1"
+msgstr "飛濺1"
+
+#. L10N group=6 idx=135
+msgid "霓虹散布"
+msgstr "霓虹散佈"
+
+#. L10N group=6 idx=136
+msgid "火之粉"
+msgstr "火星"
+
+#. L10N group=6 idx=137
+msgid "棱柱2"
+msgstr "稜鏡2"
+
+#. L10N group=6 idx=138
+msgid "心型棱柱"
+msgstr "心型稜柱"
+
+#. L10N group=6 idx=139
+msgid "草丛"
+msgstr "草叢"
+
+#. L10N group=6 idx=140
+msgid "拉链1"
+msgstr "拉鍊1"
+
+#. L10N group=6 idx=141
+msgid "装饰1"
+msgstr "裝飾1"
+
+#. L10N group=6 idx=142
+msgid "圆2"
+msgstr "圓點2"
+
+#. L10N group=6 idx=143
+msgid "像是文字的物体1"
+msgstr "像文字的東西1"
+
+#. L10N group=6 idx=144
+msgid "电子告示牌"
+msgstr "電子告示牌"
+
+#. L10N group=6 idx=145
+msgid "Cyber 印章5"
+msgstr "Cyber印章5"
+
+#. L10N group=6 idx=146
+msgid "猫的足迹"
+msgstr "貓的足跡"
+
+#. L10N group=6 idx=147
+msgid "狗的足迹"
+msgstr "狗的足跡"
+
+#. L10N group=6 idx=148
+msgid "Good Job 印章"
+msgstr "Good Job印章"
+
+#. L10N group=6 idx=149
+msgid "火花 (1个)"
+msgstr "火花（1個）"
+
+#. L10N group=6 idx=150
+msgid "花环旗"
+msgstr "旗形花環"
+
+#. L10N group=6 idx=151
+msgid "皮革手链 (驼色)"
+msgstr "皮革手鍊（駝色）"
+
+#. L10N group=6 idx=152
+msgid "向日葵 (散布)"
+msgstr "向日葵（散佈）"
+
+#. L10N group=6 idx=153
+msgid "叶 (常春藤)"
+msgstr "葉（常春藤）"
+
+#. L10N group=6 idx=154
+msgid "红砖 (彩色)"
+msgstr "磚塊（彩色）"
+
+#. L10N group=6 idx=155
+msgid "BIG KATSU (炸猪排金棕表皮)"
+msgstr "BIG KATSU (炸豬排金棕表皮)"
+
+#. L10N group=6 idx=156
+msgid "腳本錯誤"
+msgstr "指令碼錯誤"
+
+#. L10N group=6 idx=157
+msgid " (暈渲)"
+msgstr "（暈染）"
+
+#. L10N group=6 idx=158
+msgid "葉子"
+msgstr "葉子"
+
+#. L10N group=6 idx=159
+msgid "文字排版 (細))"
+msgstr "文字排版（細）"
+
+#. L10N group=6 idx=160
+msgid "噴槍 (粗)"
+msgstr "噴槍（粗）"
+
+#. L10N group=6 idx=161
+msgid "暈散水彩"
+msgstr "暈染水彩"
+
+#. L10N group=6 idx=162
+msgid "火焰畫家 (混色)"
+msgstr "火焰畫家（混色）"
+
+#. L10N group=6 idx=163
+msgid "褪色塑膠彩"
+msgstr "褪色塑膠彩"
+
+#. L10N group=6 idx=164
+msgid "污漬1"
+msgstr "污漬1"
+
+#. L10N group=6 idx=165
+msgid "污漬2"
+msgstr "污漬2"
+
+#. L10N group=6 idx=166
+msgid "鏽鏈1"
+msgstr "鏽鏈1"
+
+#. L10N group=6 idx=167
+msgid "霓虹散佈"
+msgstr "霓虹散佈"
+
+#. L10N group=6 idx=168
+msgid "稜柱2"
+msgstr "稜鏡2"
+
+#. L10N group=6 idx=169
+msgid "心型稜柱"
+msgstr "心型稜柱"
+
+#. L10N group=6 idx=170
+msgid "草叢"
+msgstr "草叢"
+
+#. L10N group=6 idx=171
+msgid "拉鍊1"
+msgstr "拉鍊1"
+
+#. L10N group=6 idx=172
+msgid "裝飾1"
+msgstr "裝飾1"
+
+#. L10N group=6 idx=173
+msgid "圓2"
+msgstr "圓點2"
+
+#. L10N group=6 idx=174
+msgid "像是文字的物體1"
+msgstr "像文字的東西1"
+
+#. L10N group=6 idx=175
+msgid "電子告示牌"
+msgstr "電子告示牌"
+
+#. L10N group=6 idx=176
+msgid "貓的足跡"
+msgstr "貓的足跡"
+
+#. L10N group=6 idx=177
+msgid "狗的足跡"
+msgstr "狗的足跡"
+
+#. L10N group=6 idx=178
+msgid "火花 (1個)"
+msgstr "火花（1個）"
+
+#. L10N group=6 idx=179
+msgid "花環旗"
+msgstr "旗形花環"
+
+#. L10N group=6 idx=180
+msgid "皮革手鍊 (駝色)"
+msgstr "皮革手鍊（駝色）"
+
+#. L10N group=6 idx=181
+msgid "向日葵 (散佈)"
+msgstr "向日葵（散佈）"
+
+#. L10N group=6 idx=182
+msgid "葉 (常春藤)"
+msgstr "葉（常春藤）"
+
+#. L10N group=6 idx=183
+msgid "紅磚 (彩色)"
+msgstr "磚塊（彩色）"
+
+#. L10N group=6 idx=184
+msgid "BIG KATSU (炸豬排金棕表皮)"
+msgstr "BIG KATSU (炸豬排金棕表皮)"
+
+#. L10N group=7 idx=0
+msgid "閉じる前に保存しますか？"
+msgstr "關閉前要儲存嗎？"
+
+#. L10N group=7 idx=1
+msgid "画像の保存"
+msgstr "儲存影像"
+
+#. L10N group=7 idx=2
+msgid "この形式ではレイヤーが保存されませんが、よろしいですか？"
+msgstr "此格式不會儲存圖層，確定嗎？"
+
+#. L10N group=7 idx=3
+msgid "この形式ではレイヤーが結合されて保存され、下書きレイヤーの内容は表示されなくなります。よろしいですか？"
+msgstr "此格式將合併圖層後儲存，草稿圖層的內容將不再顯示。確定嗎？"
+
+#. L10N group=7 idx=4
+msgid "変形を適用しますか？"
+msgstr "要套用變形嗎？"
+
+#. L10N group=7 idx=5
+msgid "画像の書き出し (CMYK形式 PSD)"
+msgstr "匯出影像（CMYK格式PSD）"
+
+#. L10N group=7 idx=6
+msgid "「表示」メニューからCMYKソフトプルーフを有効にし、CMYKプレビューを行ってください"
+msgstr "請從「顯示」選單啟用CMYK軟式打樣並進行CMYK預覽"
+
+#. L10N group=7 idx=7
+msgid "キャンバス範囲外を削除しますか？"
+msgstr "要刪除畫布範圍外的內容嗎？"
+
+#. L10N group=7 idx=8
+msgid "レイヤーデータが欠落しています"
+msgstr "圖層資料遺失"
+
+#. L10N group=7 idx=9
+msgid "画像を新規レイヤーとして読み込む"
+msgstr "將影像載入為新圖層"
+
+#. L10N group=7 idx=10
+msgid "非表示レイヤーにも適用しますか？"
+msgstr "也要套用到隱藏圖層嗎？"
+
+#. L10N group=7 idx=11
+msgid "画像の書き出し (APNG)"
+msgstr "匯出影像（APNG）"
+
+#. L10N group=7 idx=12
+msgid "画像の書き出し (アニメーションGIF)"
+msgstr "匯出影像（動畫GIF）"
+
+#. L10N group=7 idx=13
+msgid "幅と高さを 256px 以内にする必要があります"
+msgstr "寬高需在256px以內"
+
+#. L10N group=7 idx=14
+msgid "画像の書き出し (ICO)"
+msgstr "匯出影像（ICO）"
+
+#. L10N group=7 idx=15
+msgid "上書きしますか？"
+msgstr "要覆寫嗎？"
+
+#. L10N group=7 idx=16
+msgid "\"%1\"という名前のファイルは既に同じパスに存在しています。上書きしますか？"
+msgstr "名為\"%1\"的檔案已存在於同一路徑。要覆寫嗎？"
+
+#. L10N group=7 idx=17
+msgid "タイムラプスファイルの保存"
+msgstr "儲存縮時攝影檔案"
+
+#. L10N group=7 idx=18
+msgid "変換元ファイル"
+msgstr "來源檔案"
+
+#. L10N group=7 idx=19
+msgid "メインメモリが逼迫した状態です。緊急処理でメモリの解放を行いました。再度保存を行ってください。"
+msgstr "主記憶體緊張，已透過緊急處理釋放記憶體。請再次儲存。"
+
+#. L10N group=7 idx=20
+msgid "動画の書き出し (MP4)"
+msgstr "匯出影片（MP4）"
+
+#. L10N group=7 idx=21
+msgid "動画ファイルに変換"
+msgstr "轉換為影片檔案"
+
+#. L10N group=7 idx=22
+msgid "全てのテキストレイヤーの画像を、ラスタライズして更新しますか？"
+msgstr "要將所有文字圖層的影像點陣化並更新嗎？"
+
+#. L10N group=7 idx=23
+msgid "不正なPSDファイルです"
+msgstr "無效的PSD檔案"
+
+#. L10N group=7 idx=24
+msgid "非対応の色深度です"
+msgstr "不支援的色彩深度"
+
+#. L10N group=7 idx=25
+msgid "非対応のカラーモードです"
+msgstr "不支援的色彩模式"
+
+#. L10N group=7 idx=26
+msgid "保存所需空间不足"
+msgstr "儲存所需空間不足"
+
+#. L10N group=7 idx=27
+msgid "转换为视频文件"
+msgstr "轉換為影片檔案"
+
+#. L10N group=7 idx=28
+msgid "匯出影片 (MP4)"
+msgstr "匯出影片（MP4）"
+
+#. L10N group=8 idx=0
+msgid "マウスホイールの方向"
+msgstr "滑鼠滾輪方向"
+
+#. L10N group=8 idx=1
+msgid "反転 (上方向で拡大表示、下方向で縮小表示)"
+msgstr "反轉（向上放大顯示，向下縮小顯示）"
+
+#. L10N group=8 idx=2
+msgid "回転角度"
+msgstr "旋轉角度"
+
+#. L10N group=8 idx=3
+msgid "ドラッグズーム"
+msgstr "拖曳縮放"
+
+#. L10N group=8 idx=4
+msgid "固定ズーム"
+msgstr "固定縮放"
+
+#. L10N group=8 idx=5
+msgid "スムーズズーム"
+msgstr "平滑縮放"
+
+#. L10N group=8 idx=6
+msgid "上下にドラッグ"
+msgstr "上下拖曳"
+
+#. L10N group=8 idx=7
+msgid "左右にドラッグ"
+msgstr "左右拖曳"
+
+#. L10N group=8 idx=8
+msgid "ホイール操作"
+msgstr "滾輪操作"
+
+#. L10N group=8 idx=9
+msgid "滑らかな拡大縮小表示"
+msgstr "平滑縮放顯示"
+
+#. L10N group=8 idx=10
+msgid "ホイール操作の感度"
+msgstr "滾輪操作靈敏度"
+
+#. L10N group=8 idx=11
+msgid "滑らかな拡大縮小表示時の感度"
+msgstr "平滑縮放顯示時的靈敏度"
+
+#. L10N group=8 idx=12
+msgid "ブラシ座標"
+msgstr "筆刷座標"
+
+#. L10N group=8 idx=13
+msgid "タブレット座標を使う (推奨)"
+msgstr "使用繪圖板座標（建議）"
+
+#. L10N group=8 idx=14
+msgid "マウス座標を使う"
+msgstr "使用滑鼠座標"
+
+#. L10N group=8 idx=15
+msgid "起動時にアンチエイリアスを有効にする"
+msgstr "啟動時啟用抗鋸齒"
+
+#. L10N group=8 idx=16
+msgid "右ボタン"
+msgstr "右鍵"
+
+#. L10N group=8 idx=17
+msgid "スポイト"
+msgstr "滴管"
+
+#. L10N group=8 idx=18
+msgid "回転角バーを常に表示"
+msgstr "永遠顯示旋轉角列"
+
+#. L10N group=8 idx=19
+msgid "ファイルパス表示"
+msgstr "顯示檔案路徑"
+
+#. L10N group=8 idx=20
+msgid "フルパスを表示する"
+msgstr "顯示完整路徑"
+
+#. L10N group=8 idx=21
+msgid "ペンタブレット"
+msgstr "繪圖板"
+
+#. L10N group=8 idx=22
+msgid "HUION製タブレットで不具合がある場合にチェック"
+msgstr "HUION繪圖板出現問題時請勾選"
+
+#. L10N group=8 idx=23
+msgid "筆圧を感知した瞬間にブラシを開始する"
+msgstr "感應到筆壓的瞬間開始繪製"
+
+#. L10N group=8 idx=24
+msgid "ストローク最大速度"
+msgstr "筆畫最大速度"
+
+#. L10N group=8 idx=25
+msgid "入力コントロールに必要な、ストローク時の最大速度指定"
+msgstr "輸入控制所需的筆畫最大速度設定"
+
+#. L10N group=8 idx=26
+msgid "値が小さいほど、ストローク速度の上限に早く達します"
+msgstr "數值越小，越早達到筆畫速度上限"
+
+#. L10N group=8 idx=27
+msgid "オートセーブ"
+msgstr "自動儲存"
+
+#. L10N group=8 idx=28
+msgid "オートセーブ機能を有効にする"
+msgstr "啟用自動儲存功能"
+
+#. L10N group=8 idx=29
+msgid "キャンバスボタン"
+msgstr "畫布按鈕"
+
+#. L10N group=8 idx=30
+msgid "アルパカボタンを表示する"
+msgstr "顯示Alpaca按鈕"
+
+#. L10N group=8 idx=31
+msgid "pixivボタンを表示する"
+msgstr "顯示pixiv按鈕"
+
+#. L10N group=8 idx=32
+msgid "保存したファイルを全て残す (autosave_historyフォルダ)"
+msgstr "保留所有已儲存的檔案（autosave_history資料夾）"
+
+#. L10N group=8 idx=33
+msgid "ブラシ環境設定"
+msgstr "筆刷環境設定"
+
+#. L10N group=8 idx=34
+msgid "硬い"
+msgstr "硬"
+
+#. L10N group=8 idx=35
+msgid "柔らかい"
+msgstr "軟"
+
+#. L10N group=8 idx=36
+msgid "使用する筆圧API"
+msgstr "使用的筆壓API"
+
+#. L10N group=8 idx=37
+msgid "Wintabを使用する (Windows Ink未使用時の筆圧対応)"
+msgstr "使用Wintab（未使用Windows Ink時的筆壓支援）"
+
+#. L10N group=8 idx=38
+msgid "Wintab / Windows Ink 設定を変更するには、アプリケーションの再起動が必要です"
+msgstr "變更Wintab / Windows Ink設定需要重新啟動應用程式"
+
+#. L10N group=8 idx=39
+msgid "キャンバス回転操作を有効にする"
+msgstr "啟用畫布旋轉操作"
+
+#. L10N group=8 idx=40
+msgid "指でのキャンバス編集を有効にする"
+msgstr "啟用以手指編輯畫布"
+
+#. L10N group=8 idx=41
+msgid "回転終了時、0度に近い場合はスナップする"
+msgstr "旋轉結束時，若接近0度則貼齊對齊"
+
+#. L10N group=8 idx=42
+msgid "2本指タップで取り消し"
+msgstr "雙指輕點復原"
+
+#. L10N group=8 idx=43
+msgid "3本指タップでやり直し"
+msgstr "三指輕點重做"
+
+#. L10N group=8 idx=44
+msgid "取り消し・やり直し"
+msgstr "復原·重做"
+
+#. L10N group=8 idx=45
+msgid "レイヤーの表示操作も取り消し対象にする"
+msgstr "圖層顯示操作也作為復原對象"
+
+#. L10N group=8 idx=46
+msgid "レイヤーフォルダ"
+msgstr "圖層資料夾"
+
+#. L10N group=8 idx=47
+msgid "通過ブレンドとして追加 (クリッピングできません)"
+msgstr "作為穿透混合加入（無法剪貼蒙版）"
+
+#. L10N group=8 idx=48
+msgid "通常ブレンドとして追加"
+msgstr "作為正常混合加入"
+
+#. L10N group=8 idx=49
+msgid "レイヤーリストのフォント"
+msgstr "圖層清單的字型"
+
+#. L10N group=8 idx=50
+msgid "資料ウィンドウ"
+msgstr "素材視窗"
+
+#. L10N group=8 idx=51
+msgid "キャンバスの反転表示と同期"
+msgstr "與畫布翻轉顯示同步"
+
+#. L10N group=8 idx=52
+msgid "利き手"
+msgstr "慣用手"
+
+#. L10N group=8 idx=53
+msgid "右利き (右利き用カーソル)"
+msgstr "右撇子（右撇子游標）"
+
+#. L10N group=8 idx=54
+msgid "左利き (左利き用カーソル)"
+msgstr "左撇子（左撇子游標）"
+
+#. L10N group=8 idx=55
+msgid "レイヤーリスト"
+msgstr "圖層清單"
+
+#. L10N group=8 idx=56
+msgid "レイヤー詳細情報の表示"
+msgstr "顯示圖層詳細資訊"
+
+#. L10N group=8 idx=57
+msgid "レイヤーサムネイル"
+msgstr "圖層縮圖"
+
+#. L10N group=8 idx=58
+msgid "最小範囲の表示"
+msgstr "顯示最小範圍"
+
+#. L10N group=8 idx=59
+msgid "レイヤーリストの拡大倍率"
+msgstr "圖層清單縮放倍率"
+
+#. L10N group=8 idx=60
+msgid "取り消しバッファサイズ"
+msgstr "復原緩衝區大小"
+
+#. L10N group=8 idx=61
+msgid "ブラシリスト"
+msgstr "筆刷清單"
+
+#. L10N group=8 idx=62
+msgid "タイプカラー表示 (サムネイルモード)"
+msgstr "類型顏色顯示（縮圖模式）"
+
+#. L10N group=8 idx=63
+msgid "サムネイルの自動保存 (FireAlpaca形式時)"
+msgstr "自動儲存縮圖（FireAlpaca格式時）"
+
+#. L10N group=8 idx=64
+msgid "保存するフォルダ名"
+msgstr "儲存的資料夾名稱"
+
+#. L10N group=8 idx=65
+msgid "最大長辺"
+msgstr "最大長邊"
+
+#. L10N group=8 idx=66
+msgid "オートセーブファイルの保存期間"
+msgstr "自動儲存檔案的保留期限"
+
+#. L10N group=8 idx=67
+msgid "日間"
+msgstr "天"
+
+#. L10N group=8 idx=68
+msgid "レイヤー削除"
+msgstr "圖層刪除"
+
+#. L10N group=8 idx=69
+msgid "削除時に確認ダイアログを表示する"
+msgstr "刪除時顯示確認對話框"
+
+#. L10N group=8 idx=70
+msgid "UI倍率の丸めポリシー"
+msgstr "UI倍率進位策略"
+
+#. L10N group=8 idx=71
+msgid "UI倍率の丸めポリシー変更を行うため、アプリケーションを再起動してください"
+msgstr "為變更UI倍率進位策略，請重新啟動應用程式"
+
+#. L10N group=8 idx=72
+msgid "テールスイッチ"
+msgstr "筆尾開關"
+
+#. L10N group=8 idx=73
+msgid "消しゴムツールに切り替える"
+msgstr "切換到橡皮擦工具"
+
+#. L10N group=8 idx=74
+msgid "サーバー指定"
+msgstr "指定伺服器"
+
+#. L10N group=8 idx=75
+msgid "キャンバス表示"
+msgstr "畫布顯示"
+
+#. L10N group=8 idx=76
+msgid "描画時の部分更新 (推奨)"
+msgstr "繪製時局部更新（建議）"
+
+#. L10N group=8 idx=77
+msgid "メニュー"
+msgstr "選單"
+
+#. L10N group=8 idx=78
+msgid "アクセスキーを表示しない (英語環境以外)"
+msgstr "不顯示存取鍵（非英語環境）"
+
+#. L10N group=8 idx=79
+msgid "アクセスキー表示設定を変更するため、アプリケーションを再起動する必要があります"
+msgstr "變更存取鍵顯示設定需要重新啟動應用程式"
+
+#. L10N group=8 idx=80
+msgid "保存"
+msgstr "儲存"
+
+#. L10N group=8 idx=81
+msgid "[非推奨] MDP形式を標準保存形式にする"
+msgstr "[不建議] 將MDP格式設為標準儲存格式"
+
+#. L10N group=8 idx=82
+msgid "保存速度が数倍から数十倍低下します"
+msgstr "儲存速度將降低數倍至數十倍"
+
+#. L10N group=8 idx=83
+msgid "トラックパッド"
+msgstr "觸控板"
+
+#. L10N group=8 idx=84
+msgid "2本指でのスクロールと回転拡大縮小 (キャンバス)"
+msgstr "雙指捲動與旋轉縮放（畫布）"
+
+#. L10N group=8 idx=85
+msgid "スクロール方向を反転させる (キャンバス)"
+msgstr "反轉捲動方向（畫布）"
+
+#. L10N group=8 idx=86
+msgid "Ctrl キーを押しながらで解除"
+msgstr "按住Ctrl鍵解除"
+
+#. L10N group=8 idx=87
+msgid "Alt キーを押しながらで解除"
+msgstr "按住Alt鍵解除"
+
+#. L10N group=8 idx=88
+msgid "command キーを押しながらで解除"
+msgstr "按住command鍵解除"
+
+#. L10N group=8 idx=89
+msgid "option キーを押しながらで解除"
+msgstr "按住option鍵解除"
+
+#. L10N group=8 idx=90
+msgid "メモリ使用量の表示"
+msgstr "顯示記憶體使用量"
+
+#. L10N group=8 idx=91
+msgid "キャンバスのタブにメモリ使用量を表示する"
+msgstr "在畫布標籤中顯示記憶體使用量"
+
+#. L10N group=8 idx=92
+msgid "ユーザーインターフェース"
+msgstr "使用者介面"
+
+#. L10N group=8 idx=93
+msgid "鼠标滚轮的方向"
+msgstr "滑鼠滾輪方向"
+
+#. L10N group=8 idx=94
+msgid "上下拖拽"
+msgstr "上下拖曳"
+
+#. L10N group=8 idx=95
+msgid "左右拖拽"
+msgstr "左右拖曳"
+
+#. L10N group=8 idx=96
+msgid "无效"
+msgstr "無效"
+
+#. L10N group=8 idx=97
+msgid "使用鼠标坐标"
+msgstr "使用滑鼠座標"
+
+#. L10N group=8 idx=98
+msgid "右键"
+msgstr "右鍵"
+
+#. L10N group=8 idx=99
+msgid "吸管"
+msgstr "滴管"
+
+#. L10N group=8 idx=100
+msgid "HUION产的电绘版故障查询"
+msgstr "HUION繪圖板故障查詢"
+
+#. L10N group=8 idx=101
+msgid "输入控制所需的笔划最大速度设置"
+msgstr "輸入控制所需的筆畫最大速度設定"
+
+#. L10N group=8 idx=102
+msgid "显示Alpaca钮"
+msgstr "顯示Alpaca按鈕"
+
+#. L10N group=8 idx=103
+msgid "显示pixiv钮"
+msgstr "顯示pixiv按鈕"
+
+#. L10N group=8 idx=104
+msgid "保留所有保存的文件（autosave_history文件夹）"
+msgstr "保留所有已儲存的檔案（autosave_history資料夾）"
+
+#. L10N group=8 idx=105
+msgid "取消 / 重做"
+msgstr "復原·重做"
+
+#. L10N group=8 idx=106
+msgid "添加穿透混色 (不能剪贴)"
+msgstr "作為穿透混合加入（無法剪貼蒙版）"
+
+#. L10N group=8 idx=107
+msgid "添加一般混色"
+msgstr "作為正常混合加入"
+
+#. L10N group=8 idx=108
+msgid "参照视窗"
+msgstr "參照視窗"
+
+#. L10N group=8 idx=109
+msgid "右撇子 (右撇子用游标)"
+msgstr "右撇子（右撇子游標）"
+
+#. L10N group=8 idx=110
+msgid "左撇子 (左撇子用游标)"
+msgstr "左撇子（左撇子游標）"
+
+#. L10N group=8 idx=111
+msgid "类型颜色显示（缩略图模式）"
+msgstr "類型顏色顯示（縮圖模式）"
+
+#. L10N group=8 idx=112
+msgid "保存文件夹名称"
+msgstr "儲存的資料夾名稱"
+
+#. L10N group=8 idx=113
+msgid "自动保存文件的保留期限"
+msgstr "自動儲存檔案的保留期限"
+
+#. L10N group=8 idx=114
+msgid "滑鼠滾輪的方向"
+msgstr "滑鼠滾輪方向"
+
+#. L10N group=8 idx=115
+msgid "旋轉角度"
+msgstr "旋轉角度"
+
+#. L10N group=8 idx=116
+msgid "上下拖曳"
+msgstr "上下拖曳"
+
+#. L10N group=8 idx=117
+msgid "左右拖引"
+msgstr "左右拖曳"
+
+#. L10N group=8 idx=118
+msgid "無效"
+msgstr "無效"
+
+#. L10N group=8 idx=119
+msgid "使用滑鼠座標"
+msgstr "使用滑鼠座標"
+
+#. L10N group=8 idx=120
+msgid "右鍵"
+msgstr "右鍵"
+
+#. L10N group=8 idx=121
+msgid "滴管"
+msgstr "滴管"
+
+#. L10N group=8 idx=122
+msgid "HUION產的電繪版故障查詢"
+msgstr "HUION繪圖板故障查詢"
+
+#. L10N group=8 idx=123
+msgid "顯示Alpaca鈕"
+msgstr "顯示Alpaca按鈕"
+
+#. L10N group=8 idx=124
+msgid "顯示pixiv鈕"
+msgstr "顯示pixiv按鈕"
+
+#. L10N group=8 idx=125
+msgid "保留所有保存的文件（autosave_history資料夾）"
+msgstr "保留所有已儲存的檔案（autosave_history資料夾）"
+
+#. L10N group=8 idx=126
+msgid "添加穿透混色 (不能剪貼)"
+msgstr "作為穿透混合加入（無法剪貼蒙版）"
+
+#. L10N group=8 idx=127
+msgid "參照視窗"
+msgstr "參照視窗"
+
+#. L10N group=8 idx=128
+msgid "右撇子 (右撇子用游標)"
+msgstr "右撇子（右撇子游標）"
+
+#. L10N group=8 idx=129
+msgid "左撇子 (左撇子用游標)"
+msgstr "左撇子（左撇子游標）"
+
+#. L10N group=8 idx=130
+msgid "類型顏色顯示（縮圖模式）"
+msgstr "類型顏色顯示（縮圖模式）"
+
+#. L10N group=8 idx=131
+msgid "使用者介面"
+msgstr "使用者介面"
+
+#. L10N group=9 idx=0
+msgid "本当にブラシを初期化しますか？"
+msgstr "確定要初始化筆刷嗎？"
+
+#. L10N group=9 idx=1
+msgid "本当にグラデーションを初期化しますか？"
+msgstr "確定要初始化漸層嗎？"
+
+#. L10N group=9 idx=2
+msgid "本当に全てのブラシを削除しますか？"
+msgstr "確定要刪除所有筆刷嗎？"
+
+#. L10N group=9 idx=3
+msgid "アルパカゲット公開設定"
+msgstr "AlpacaGet公開設定"
+
+#. L10N group=9 idx=4
+msgid "3分間"
+msgstr "3分鐘"
+
+#. L10N group=9 idx=5
+msgid "3時間"
+msgstr "3小時"
+
+#. L10N group=9 idx=6
+msgid "3日間"
+msgstr "3天"
+
+#. L10N group=9 idx=7
+msgid "33日間"
+msgstr "33天"
+
+#. L10N group=9 idx=8
+msgid "共有に必要なメモリが確保できません"
+msgstr "無法確保共用所需的記憶體"
+
+#. L10N group=9 idx=9
+msgid "背景を透過させる"
+msgstr "使背景透明"
+
+#. L10N group=9 idx=10
+msgid "画像をアルパカゲットに投稿中..."
+msgstr "正在將影像投稿到AlpacaGet..."
+
+#. L10N group=9 idx=11
+msgid "投稿完了"
+msgstr "投稿完成"
+
+#. L10N group=9 idx=12
+msgid "レイヤーをクリア (全消し)"
+msgstr "清除圖層（全部擦除）"
+
+#. L10N group=9 idx=13
+msgid "アルパカゲットで画像を共有..."
+msgstr "在AlpacaGet共享影像..."
+
+#. L10N group=9 idx=14
+msgid "アルパカゲットのウェブサイトを開く..."
+msgstr "打開AlpacaGet網站..."
+
+#. L10N group=9 idx=15
+msgid "pixiv Sketch に投稿..."
+msgstr "投稿至pixiv Sketch..."
+
+#. L10N group=9 idx=16
+msgid "pixiv Sketch のウェブサイトを開く..."
+msgstr "打開pixiv Sketch網站..."
+
+#. L10N group=9 idx=17
+msgid "以下のサイズ内に収めて投稿"
+msgstr "限制在以下尺寸內投稿"
+
+#. L10N group=9 idx=18
+msgid "投稿の準備が整っていません。ネットワーク接続を確認し、時間をおいて再度お試しください。　[firealpaca.com] に障害が発生している可能性もあります。"
+msgstr "投稿準備尚未就緒。請確認網路連線，稍後再試。也可能是 [firealpaca.com] 出現故障。"
+
+#. L10N group=9 idx=19
+msgid "キャンバス画像を投稿する"
+msgstr "投稿畫布影像"
+
+#. L10N group=9 idx=20
+msgid "ワークスペース画像を投稿する"
+msgstr "投稿工作區影像"
+
+#. L10N group=9 idx=21
+msgid "ワークスペース画像を保存..."
+msgstr "儲存工作區影像..."
+
+#. L10N group=9 idx=22
+msgid "タイムラプス録画を開始..."
+msgstr "開始縮時攝影錄製..."
+
+#. L10N group=9 idx=23
+msgid "タイムラプス録画の終了"
+msgstr "結束縮時攝影錄製"
+
+#. L10N group=9 idx=24
+msgid "書き出し設定"
+msgstr "匯出設定"
+
+#. L10N group=9 idx=25
+msgid "以下のサイズ内に収めて保存"
+msgstr "限制在以下尺寸內儲存"
+
+#. L10N group=9 idx=26
+msgid "ファイル形式"
+msgstr "檔案格式"
+
+#. L10N group=9 idx=27
+msgid "画像の書き出し"
+msgstr "匯出影像"
+
+#. L10N group=9 idx=28
+msgid "ラスタライズして書き出します。"
+msgstr "點陣化後匯出。"
+
+#. L10N group=9 idx=29
+msgid "解像度を変更する"
+msgstr "變更解析度"
+
+#. L10N group=9 idx=30
+msgid "カラーマネジメント設定"
+msgstr "色彩管理設定"
+
+#. L10N group=9 idx=31
+msgid "CMYKソフトプルーフ"
+msgstr "CMYK軟式打樣"
+
+#. L10N group=9 idx=32
+msgid "RGBプロファイル"
+msgstr "RGB設定檔"
+
+#. L10N group=9 idx=33
+msgid "CMYKプロファイル"
+msgstr "CMYK設定檔"
+
+#. L10N group=9 idx=34
+msgid "RGBプロファイルを選択"
+msgstr "選擇RGB設定檔"
+
+#. L10N group=9 idx=35
+msgid "CMYKプロファイルを選択"
+msgstr "選擇CMYK設定檔"
+
+#. L10N group=9 idx=36
+msgid "ディスプレイプロファイル"
+msgstr "顯示器設定檔"
+
+#. L10N group=9 idx=37
+msgid "レンダリングインテント"
+msgstr "演算色域對應"
+
+#. L10N group=9 idx=38
+msgid "知覚的"
+msgstr "感知"
+
+#. L10N group=9 idx=39
+msgid "彩度"
+msgstr "飽和度"
+
+#. L10N group=9 idx=40
+msgid "相対的な色域を保持"
+msgstr "保持相對色域"
+
+#. L10N group=9 idx=41
+msgid "絶対的な色域を保持"
+msgstr "保持絕對色域"
+
+#. L10N group=9 idx=42
+msgid "黒点の補正"
+msgstr "黑點補償"
+
+#. L10N group=9 idx=43
+msgid "ICCプロファイル検索対象フォルダを開く (起動時に列挙します)"
+msgstr "打開ICC設定檔搜尋資料夾（啟動時列舉）"
+
+#. L10N group=9 idx=44
+msgid "ディスプレイの色調整を行い、ディスプレイにICCプロファイルを結びつける必要があります"
+msgstr "需要調整顯示器顏色，並將ICC設定檔與顯示器關聯"
+
+#. L10N group=9 idx=45
+msgid "モニターのプロファイルを使用する"
+msgstr "使用顯示器設定檔"
+
+#. L10N group=9 idx=46
+msgid "ブラシサイズの編集"
+msgstr "編輯筆刷大小"
+
+#. L10N group=9 idx=47
+msgid "ブラシサイズの初期化"
+msgstr "初始化筆刷大小"
+
+#. L10N group=9 idx=48
+msgid "アルファチャンネルを保存しない (24bpp保存)"
+msgstr "不儲存Alpha色板（24bpp儲存）"
+
+#. L10N group=9 idx=49
+msgid "グリッド設定"
+msgstr "格線設定"
+
+#. L10N group=9 idx=50
+msgid "高さ"
+msgstr "高度"
+
+#. L10N group=9 idx=51
+msgid "分割数"
+msgstr "分割數"
+
+#. L10N group=9 idx=52
+msgid "分割"
+msgstr "分割"
+
+#. L10N group=9 idx=53
+msgid "ブラシスクリプトエディタ"
+msgstr "筆刷腳本編輯器"
+
+#. L10N group=9 idx=54
+msgid "サンプル読み込み"
+msgstr "載入範例"
+
+#. L10N group=9 idx=55
+msgid "現在のブラシをインポート"
+msgstr "匯入目前筆刷"
+
+#. L10N group=9 idx=56
+msgid "名前を付けて保存 (実行可能スクリプトのみ)"
+msgstr "另存新檔（僅可執行指令碼）"
+
+#. L10N group=9 idx=57
+msgid "実行"
+msgstr "執行"
+
+#. L10N group=9 idx=58
+msgid "ファイルからインポート"
+msgstr "從檔案匯入"
+
+#. L10N group=9 idx=59
+msgid "ファイルを選択"
+msgstr "選擇檔案"
+
+#. L10N group=9 idx=60
+msgid "サンプル 1 (シンプル)"
+msgstr "範例1（簡易）"
+
+#. L10N group=9 idx=61
+msgid "サンプル 2 (間隔)"
+msgstr "範例2（間距）"
+
+#. L10N group=9 idx=62
+msgid "サンプル 3 (三角形)"
+msgstr "範例3（三角形）"
+
+#. L10N group=9 idx=63
+msgid "サンプル 4 (ペン)"
+msgstr "範例4（畫筆）"
+
+#. L10N group=9 idx=64
+msgid "本当にスクリプトを読み込みますか？"
+msgstr "確定要載入指令碼嗎？"
+
+#. L10N group=9 idx=65
+msgid "ブラシスクリプト (*.bs)"
+msgstr "筆刷腳本（*.bs）"
+
+#. L10N group=9 idx=66
+msgid "ブラシスクリプトをファイルに保存"
+msgstr "將筆刷腳本儲存到檔案"
+
+#. L10N group=9 idx=67
+msgid "サンプル 5 (デバッグ出力)"
+msgstr "範例5（偵錯輸出）"
+
+#. L10N group=9 idx=68
+msgid "サンプル 6 (last() 関数)"
+msgstr "範例6（last()函數）"
+
+#. L10N group=9 idx=69
+msgid "サンプル 7 (インターバル)"
+msgstr "範例7（間隔）"
+
+#. L10N group=9 idx=70
+msgid "サンプル 8 (その他)"
+msgstr "範例8（其他）"
+
+#. L10N group=9 idx=71
+msgid "ブラシ(&B)"
+msgstr "筆刷(&B)"
+
+#. L10N group=9 idx=72
+msgid "前のブラシ"
+msgstr "上一個筆刷"
+
+#. L10N group=9 idx=73
+msgid "次のブラシ"
+msgstr "下一個筆刷"
+
+#. L10N group=9 idx=74
+msgid "前のサイズ"
+msgstr "上一個大小"
+
+#. L10N group=9 idx=75
+msgid "次のサイズ"
+msgstr "下一個大小"
+
+#. L10N group=9 idx=76
+msgid "ブラシスクリプトエディタ..."
+msgstr "筆刷腳本編輯器..."
+
+#. L10N group=9 idx=77
+msgid "基点を初期化する"
+msgstr "初始化基準點"
+
+#. L10N group=9 idx=78
+msgid "ブラシストアからブラシを追加..."
+msgstr "從筆刷商店加入筆刷..."
+
+#. L10N group=9 idx=79
+msgid "ファイルとしてエクスポート..."
+msgstr "匯出為檔案..."
+
+#. L10N group=9 idx=80
+msgid "ファイルからインポート..."
+msgstr "從檔案匯入..."
+
+#. L10N group=9 idx=81
+msgid "ブラシ編集ダイアログ..."
+msgstr "筆刷編輯對話框..."
+
+#. L10N group=9 idx=82
+msgid "シンプルなブラシリスト表示"
+msgstr "簡化筆刷清單顯示"
+
+#. L10N group=9 idx=83
+msgid "不透明度を下げる"
+msgstr "降低不透明度"
+
+#. L10N group=9 idx=84
+msgid "不透明度を上げる"
+msgstr "提高不透明度"
+
+#. L10N group=9 idx=85
+msgid "調整"
+msgstr "調整"
+
+#. L10N group=9 idx=86
+msgid "(全体設定)"
+msgstr "（整體設定）"
+
+#. L10N group=9 idx=87
+msgid "全体設定を使う"
+msgstr "使用整體設定"
+
+#. L10N group=9 idx=88
+msgid "アンチエイリアス"
+msgstr "抗鋸齒"
+
+#. L10N group=9 idx=89
+msgid "コピー"
+msgstr "複製"
+
+#. L10N group=9 idx=90
+msgid "ファイルから取り込む..."
+msgstr "從檔案匯入..."
+
+#. L10N group=9 idx=91
+msgid "クリップボードから取り込む"
+msgstr "從剪貼簿匯入"
+
+#. L10N group=9 idx=92
+msgid "プリセットブラシを選択"
+msgstr "選擇預設筆刷"
+
+#. L10N group=9 idx=93
+msgid "再生する"
+msgstr "播放"
+
+#. L10N group=9 idx=94
+msgid "キャッシュ構築中..."
+msgstr "正在建置快取..."
+
+#. L10N group=9 idx=95
+msgid "フレームをアクティブにする"
+msgstr "啟用影格"
+
+#. L10N group=9 idx=96
+msgid "オニオンスキン設定"
+msgstr "洋蔥皮設定"
+
+#. L10N group=9 idx=97
+msgid "前のフレームの色"
+msgstr "上一影格的顏色"
+
+#. L10N group=9 idx=98
+msgid "次のフレームの色"
+msgstr "下一影格的顏色"
+
+#. L10N group=9 idx=99
+msgid "アニメーションGIF設定"
+msgstr "動畫GIF設定"
+
+#. L10N group=9 idx=100
+msgid "無限ループ"
+msgstr "無限循環"
+
+#. L10N group=9 idx=101
+msgid "ループ回数"
+msgstr "循環次數"
+
+#. L10N group=9 idx=102
+msgid "MP4書き出しAPIの初期化に失敗しました"
+msgstr "MP4匯出API初始化失敗"
+
+#. L10N group=9 idx=103
+msgid "Mbps (平均ビットレート)"
+msgstr "Mbps（平均位元率）"
+
+#. L10N group=9 idx=104
+msgid "ブラシストア"
+msgstr "筆刷商店"
+
+#. L10N group=9 idx=105
+msgid "新規テンプレート"
+msgstr "新增範本"
+
+#. L10N group=9 idx=106
+msgid "検索"
+msgstr "搜尋"
+
+#. L10N group=9 idx=107
+msgid "不透明度の指定"
+msgstr "指定不透明度"
+
+#. L10N group=9 idx=108
+msgid "カスタム..."
+msgstr "自訂..."
+
+#. L10N group=9 idx=109
+msgid "グラデーション編集"
+msgstr "漸層編輯"
+
+#. L10N group=9 idx=110
+msgid "グラデーションマップ"
+msgstr "漸層對應"
+
+#. L10N group=9 idx=111
+msgid "形状"
+msgstr "形狀"
+
+#. L10N group=9 idx=112
+msgid "放射状"
+msgstr "放射狀"
+
+#. L10N group=9 idx=113
+msgid "円錐"
+msgstr "圓錐"
+
+#. L10N group=9 idx=114
+msgid "制御点の追加 (右側)"
+msgstr "加入控制點（右側）"
+
+#. L10N group=9 idx=115
+msgid "制御点の削除"
+msgstr "刪除控制點"
+
+#. L10N group=9 idx=116
+msgid "制御点の設定"
+msgstr "設定控制點"
+
+#. L10N group=9 idx=117
+msgid "色の補間"
+msgstr "顏色插補"
+
+#. L10N group=9 idx=118
+msgid "色相調整"
+msgstr "色相調整"
+
+#. L10N group=9 idx=119
+msgid "広がり"
+msgstr "擴散"
+
+#. L10N group=9 idx=120
+msgid "標準"
+msgstr "標準"
+
+#. L10N group=9 idx=121
+msgid "繰り返し"
+msgstr "重複"
+
+#. L10N group=9 idx=122
+msgid "折り返す"
+msgstr "折返"
+
+#. L10N group=9 idx=123
+msgid "反転"
+msgstr "反轉"
+
+#. L10N group=9 idx=124
+msgid "リピート数"
+msgstr "重複次數"
+
+#. L10N group=9 idx=125
+msgid "制御点の位置: "
+msgstr "控制點位置："
+
+#. L10N group=9 idx=126
+msgid "なし (フラット)"
+msgstr "無（平坦）"
+
+#. L10N group=9 idx=127
+msgid "設定を元に戻す"
+msgstr "還原設定"
+
+#. L10N group=9 idx=128
+msgid "初期値として設定"
+msgstr "設為初始值"
+
+#. L10N group=9 idx=129
+msgid "本当に削除しますか？"
+msgstr "確定要刪除嗎？"
+
+#. L10N group=9 idx=130
+msgid "全ての制御点に適用"
+msgstr "套用到所有控制點"
+
+#. L10N group=9 idx=131
+msgid "グラデーションの追加"
+msgstr "加入漸層"
+
+#. L10N group=9 idx=132
+msgid "グラデーションの複製"
+msgstr "複製漸層"
+
+#. L10N group=9 idx=133
+msgid "グラデーションの削除"
+msgstr "刪除漸層"
+
+#. L10N group=9 idx=134
+msgid "グラデーションをファイルにエクスポート"
+msgstr "將漸層匯出到檔案"
+
+#. L10N group=9 idx=135
+msgid "グラデーションをファイルからインポート"
+msgstr "從檔案匯入漸層"
+
+#. L10N group=9 idx=136
+msgid "前景色 -> 背景色"
+msgstr "前景色 -> 背景色"
+
+#. L10N group=9 idx=137
+msgid "背景色 -> 前景色"
+msgstr "背景色 -> 前景色"
+
+#. L10N group=9 idx=138
+msgid "前景色 -> 透明"
+msgstr "前景色 -> 透明"
+
+#. L10N group=9 idx=139
+msgid "サインポール"
+msgstr "理髮店燈柱"
+
+#. L10N group=9 idx=140
+msgid "スペクトル"
+msgstr "光譜"
+
+#. L10N group=9 idx=141
+msgid "あじさい"
+msgstr "繡球花"
+
+#. L10N group=9 idx=142
+msgid "アンティーク"
+msgstr "復古"
+
+#. L10N group=9 idx=143
+msgid "オーロラ"
+msgstr "極光"
+
+#. L10N group=9 idx=144
+msgid "カシス"
+msgstr "黑醋栗"
+
+#. L10N group=9 idx=145
+msgid "カラフル"
+msgstr "繽紛"
+
+#. L10N group=9 idx=146
+msgid "シック"
+msgstr "雅緻"
+
+#. L10N group=9 idx=147
+msgid "セピア"
+msgstr "深褐"
+
+#. L10N group=9 idx=148
+msgid "デニム"
+msgstr "牛仔"
+
+#. L10N group=9 idx=149
+msgid "ノワール"
+msgstr "黑色"
+
+#. L10N group=9 idx=150
+msgid "パステル"
+msgstr "粉彩"
+
+#. L10N group=9 idx=151
+msgid "ピーチ"
+msgstr "蜜桃"
+
+#. L10N group=9 idx=152
+msgid "マカロン"
+msgstr "馬卡龍"
+
+#. L10N group=9 idx=153
+msgid "メノウ"
+msgstr "瑪瑙"
+
+#. L10N group=9 idx=154
+msgid "ローズ"
+msgstr "玫瑰"
+
+#. L10N group=9 idx=155
+msgid "暗い森"
+msgstr "暗森林"
+
+#. L10N group=9 idx=156
+msgid "夏の森"
+msgstr "夏日森林"
+
+#. L10N group=9 idx=157
+msgid "金-光沢"
+msgstr "金色光澤"
+
+#. L10N group=9 idx=158
+msgid "銀-光沢"
+msgstr "銀色光澤"
+
+#. L10N group=9 idx=159
+msgid "青空"
+msgstr "藍天"
+
+#. L10N group=9 idx=160
+msgid "淡色グラデ"
+msgstr "淡色漸層"
+
+#. L10N group=9 idx=161
+msgid "朝焼け"
+msgstr "朝霞"
+
+#. L10N group=9 idx=162
+msgid "銅-光沢"
+msgstr "銅色光澤"
+
+#. L10N group=9 idx=163
+msgid "濃色グラデ"
+msgstr "濃色漸層"
+
+#. L10N group=9 idx=164
+msgid "宝石-アメジスト"
+msgstr "寶石-紫水晶"
+
+#. L10N group=9 idx=165
+msgid "宝石-フローライト"
+msgstr "寶石-螢石"
+
+#. L10N group=9 idx=166
+msgid "宝石-マラカイト"
+msgstr "寶石-孔雀石"
+
+#. L10N group=9 idx=167
+msgid "夜空"
+msgstr "夜空"
+
+#. L10N group=9 idx=168
+msgid "夜桜"
+msgstr "夜櫻"
+
+#. L10N group=9 idx=169
+msgid "夜明けの空"
+msgstr "黎明天空"
+
+#. L10N group=9 idx=170
+msgid "夕暮れ"
+msgstr "黃昏"
+
+#. L10N group=9 idx=171
+msgid "ブルーネオン"
+msgstr "藍色霓虹"
+
+#. L10N group=9 idx=172
+msgid "カモミール"
+msgstr "洋甘菊"
+
+#. L10N group=9 idx=173
+msgid "シトロン"
+msgstr "檸檬"
+
+#. L10N group=9 idx=174
+msgid "暖炉"
+msgstr "壁爐"
+
+#. L10N group=9 idx=175
+msgid "ハイビスカス"
+msgstr "芙蓉"
+
+#. L10N group=9 idx=176
+msgid "ロリポップ"
+msgstr "棒棒糖"
+
+#. L10N group=9 idx=177
+msgid "赤熱"
+msgstr "赤熱"
+
+#. L10N group=9 idx=178
+msgid "リラックス"
+msgstr "放鬆"
+
+#. L10N group=9 idx=179
+msgid "レトロ"
+msgstr "復古"
+
+#. L10N group=9 idx=180
+msgid "薄暮"
+msgstr "薄暮"
+
+#. L10N group=9 idx=181
+msgid "ビビッド"
+msgstr "鮮豔"
+
+#. L10N group=9 idx=182
+msgid "ウォーム"
+msgstr "暖色"
+
+#. L10N group=9 idx=183
+msgid "筆圧APIの選択"
+msgstr "選擇筆壓API"
+
+#. L10N group=9 idx=184
+msgid "一度選択しても、ファイルメニューから再度設定できます"
+msgstr "即使已選擇，也可從檔案選單重新設定"
+
+#. L10N group=9 idx=185
+msgid "アニメーションGIF変換"
+msgstr "動畫GIF轉換"
+
+#. L10N group=9 idx=186
+msgid "指定秒数に収める"
+msgstr "限制在指定秒數內"
+
+#. L10N group=9 idx=187
+msgid "APNGファイルの読み込み"
+msgstr "載入APNG檔案"
+
+#. L10N group=9 idx=188
+msgid "アニメーションGIFファイルに変換"
+msgstr "轉換為動畫GIF檔案"
+
+#. L10N group=9 idx=189
+msgid "キャンバスとして読み込む"
+msgstr "作為畫布載入"
+
+#. L10N group=9 idx=190
+msgid "MP4ファイルに変換"
+msgstr "轉換為MP4檔案"
+
+#. L10N group=9 idx=191
+msgid "クリップボードの選択"
+msgstr "選擇剪貼簿"
+
+#. L10N group=9 idx=192
+msgid "複数レイヤー対応クリップボード"
+msgstr "支援多圖層的剪貼簿"
+
+#. L10N group=9 idx=193
+msgid "OS標準クリップボード"
+msgstr "作業系統標準剪貼簿"
+
+#. L10N group=9 idx=194
+msgid "ガイドの追加"
+msgstr "加入參考線"
+
+#. L10N group=9 idx=195
+msgid "方向"
+msgstr "方向"
+
+#. L10N group=9 idx=196
+msgid "垂直/縦"
+msgstr "垂直/縱向"
+
+#. L10N group=9 idx=197
+msgid "水平/横"
+msgstr "水平/橫向"
+
+#. L10N group=9 idx=198
+msgid "位置"
+msgstr "位置"
+
+#. L10N group=9 idx=199
+msgid "画像ギャラリー"
+msgstr "影像庫"
+
+#. L10N group=9 idx=200
+msgid "追加"
+msgstr "加入"
+
+#. L10N group=9 idx=201
+msgid "キャンバス拡張"
+msgstr "畫布擴展"
+
+#. L10N group=9 idx=202
+msgid "上に拡張"
+msgstr "向上擴展"
+
+#. L10N group=9 idx=203
+msgid "下に拡張"
+msgstr "向下擴展"
+
+#. L10N group=9 idx=204
+msgid "左に拡張"
+msgstr "向左擴展"
+
+#. L10N group=9 idx=205
+msgid "右に拡張"
+msgstr "向右擴展"
+
+#. L10N group=9 idx=206
+msgid "プロジェクト設定"
+msgstr "專案設定"
+
+#. L10N group=9 idx=207
+msgid "ページ数"
+msgstr "頁數"
+
+#. L10N group=9 idx=208
+msgid "開始ページ"
+msgstr "起始頁"
+
+#. L10N group=9 idx=209
+msgid "ページ送り"
+msgstr "翻頁方向"
+
+#. L10N group=9 idx=210
+msgid "右から左 (日本式)"
+msgstr "從右到左（日式）"
+
+#. L10N group=9 idx=211
+msgid "左から右"
+msgstr "從左到右"
+
+#. L10N group=9 idx=212
+msgid "ページ"
+msgstr "頁"
+
+#. L10N group=9 idx=213
+msgid "漫画ガイド"
+msgstr "漫畫參考線"
+
+#. L10N group=9 idx=214
+msgid "ノンブル"
+msgstr "頁碼"
+
+#. L10N group=9 idx=215
+msgid "プロジェクトの連番出力"
+msgstr "專案連續編號輸出"
+
+#. L10N group=9 idx=216
+msgid "ノンブルの描画"
+msgstr "繪製頁碼"
+
+#. L10N group=9 idx=217
+msgid "全てのページを出力"
+msgstr "輸出所有頁"
+
+#. L10N group=9 idx=218
+msgid "保存形式"
+msgstr "儲存格式"
+
+#. L10N group=9 idx=219
+msgid "背景色を白に強制する"
+msgstr "強制背景色為白色"
+
+#. L10N group=9 idx=220
+msgid "PSD (レイヤーなし)"
+msgstr "PSD（無圖層）"
+
+#. L10N group=9 idx=221
+msgid "終了ページ"
+msgstr "結束頁"
+
+#. L10N group=9 idx=222
+msgid "ページの追加"
+msgstr "加入頁"
+
+#. L10N group=9 idx=223
+msgid "プロジェクト設定を元に追加"
+msgstr "依專案設定加入"
+
+#. L10N group=9 idx=224
+msgid "新規作成ダイアログから追加"
+msgstr "從新增對話框加入"
+
+#. L10N group=9 idx=225
+msgid "既存ファイルを追加"
+msgstr "加入現有檔案"
+
+#. L10N group=9 idx=226
+msgid "プロジェクトファイルと同一階層のファイルを選択してください"
+msgstr "請選擇與專案檔案同一層級的檔案"
+
+#. L10N group=9 idx=227
+msgid "プロジェクトファイルの保存"
+msgstr "儲存專案檔案"
+
+#. L10N group=9 idx=228
+msgid "このページをクリアしますか？(ファイルは削除されません)"
+msgstr "要清除此頁嗎？（不會刪除檔案）"
+
+#. L10N group=9 idx=229
+msgid "ノンブル位置"
+msgstr "頁碼位置"
+
+#. L10N group=9 idx=230
+msgid "中央"
+msgstr "中央"
+
+#. L10N group=9 idx=231
+msgid "隠し"
+msgstr "隱藏"
+
+#. L10N group=9 idx=232
+msgid "左右調整 (内側に)"
+msgstr "左右調整（向內）"
+
+#. L10N group=9 idx=233
+msgid "上下調整 (中央に)"
+msgstr "上下調整（置中）"
+
+#. L10N group=9 idx=234
+msgid "フォント名"
+msgstr "字型名稱"
+
+#. L10N group=9 idx=235
+msgid "フォントサイズ"
+msgstr "字型大小"
+
+#. L10N group=9 idx=236
+msgid "プロジェクト"
+msgstr "專案"
+
+#. L10N group=9 idx=237
+msgid "ライセンス認証について"
+msgstr "關於授權驗證"
+
+#. L10N group=9 idx=238
+msgid "ファイルを作成してから30日が経過しました"
+msgstr "自檔案建立已過30天"
+
+#. L10N group=9 idx=239
+msgid "ライセンス認証"
+msgstr "授權驗證"
+
+#. L10N group=9 idx=240
+msgid "シリアルキー"
+msgstr "序號"
+
+#. L10N group=9 idx=241
+msgid "設定の取り込み"
+msgstr "匯入設定"
+
+#. L10N group=9 idx=242
+msgid "取り込む設定の指定"
+msgstr "指定要匯入的設定"
+
+#. L10N group=9 idx=243
+msgid "保存済みスナップの削除"
+msgstr "刪除已儲存的快照"
+
+#. L10N group=9 idx=244
+msgid "名前の指定"
+msgstr "指定名稱"
+
+#. L10N group=9 idx=245
+msgid "MFGフィルタの削除"
+msgstr "刪除MFG濾鏡"
+
+#. L10N group=9 idx=246
+msgid "ファイルの削除に失敗しました: "
+msgstr "刪除檔案失敗："
+
+#. L10N group=9 idx=247
+msgid "タイムラプス設定"
+msgstr "縮時攝影設定"
+
+#. L10N group=9 idx=248
+msgid "反転表示を適用して録画"
+msgstr "套用翻轉顯示錄製"
+
+#. L10N group=9 idx=249
+msgid "選択範囲を描画する"
+msgstr "繪製選取範圍"
+
+#. L10N group=9 idx=250
+msgid "下書きレイヤーを描画する"
+msgstr "繪製草稿圖層"
+
+#. L10N group=9 idx=251
+msgid "ツール設定"
+msgstr "工具設定"
+
+#. L10N group=9 idx=252
+msgid "表示するツール"
+msgstr "顯示的工具"
+
+#. L10N group=9 idx=253
+msgid "全てのツールを表示"
+msgstr "顯示所有工具"
+
+#. L10N group=9 idx=254
+msgid "パレットグループ名の編集"
+msgstr "編輯面板群組名稱"
+
+#. L10N group=9 idx=255
+msgid "キャンバスをタイル状に並べて表示"
+msgstr "並排顯示畫布"
+
+#. L10N group=9 idx=256
+msgid "1024 * 1024 px 以上のキャンバスは表示できません"
+msgstr "無法顯示1024 * 1024 px以上的畫布"
+
+#. L10N group=9 idx=257
+msgid "移動量の指定"
+msgstr "指定移動量"
+
+#. L10N group=9 idx=258
+msgid "X (横方向)"
+msgstr "X（橫向）"
+
+#. L10N group=9 idx=259
+msgid "Y (縦方向)"
+msgstr "Y（縱向）"
+
+#. L10N group=9 idx=260
+msgid "3分钟"
+msgstr "3分鐘"
+
+#. L10N group=9 idx=261
+msgid "3小时"
+msgstr "3小時"
+
+#. L10N group=9 idx=262
+msgid "3天"
+msgstr "3天"
+
+#. L10N group=9 idx=263
+msgid "33天"
+msgstr "33天"
+
+#. L10N group=9 idx=264
+msgid "投稿完成"
+msgstr "投稿完成"
+
+#. L10N group=9 idx=265
+msgid "适用前景色"
+msgstr "套用前景色"
+
+#. L10N group=9 idx=266
+msgid "投稿至pixiv Sketch..."
+msgstr "投稿至pixiv Sketch..."
+
+#. L10N group=9 idx=267
+msgid "档案形式"
+msgstr "檔案格式"
+
+#. L10N group=9 idx=268
+msgid "颜色管理设定"
+msgstr "色彩管理設定"
+
+#. L10N group=9 idx=269
+msgid "有效化"
+msgstr "有效化"
+
+#. L10N group=9 idx=270
+msgid "色域对应的显色图"
+msgstr "色域對應的顯色圖"
+
+#. L10N group=9 idx=271
+msgid "知觉"
+msgstr "知覺"
+
+#. L10N group=9 idx=272
+msgid "保持相对色域"
+msgstr "保持相對色域"
+
+#. L10N group=9 idx=273
+msgid "保持绝对色域"
+msgstr "保持絕對色域"
+
+#. L10N group=9 idx=274
+msgid "显示时的颜色调整，需与ICC设定值相互连结"
+msgstr "需要調整顯示器顏色，並將ICC設定檔與顯示器關聯"
+
+#. L10N group=9 idx=275
+msgid "载入范本"
+msgstr "載入範例"
+
+#. L10N group=9 idx=276
+msgid "范本2 (间隔)"
+msgstr "範例2（間距）"
+
+#. L10N group=9 idx=277
+msgid "范本3 (三角形)"
+msgstr "範例3（三角形）"
+
+#. L10N group=9 idx=278
+msgid "范本5 (输出除错)"
+msgstr "範例5（偵錯輸出）"
+
+#. L10N group=9 idx=279
+msgid "范本6 (last() 函数)"
+msgstr "範例6（last()函數）"
+
+#. L10N group=9 idx=280
+msgid "范本7 (间隔)"
+msgstr "範例7（間隔）"
+
+#. L10N group=9 idx=281
+msgid "先前尺寸"
+msgstr "上一個大小"
+
+#. L10N group=9 idx=282
+msgid "下个尺寸"
+msgstr "下一個大小"
+
+#. L10N group=9 idx=283
+msgid "输出成档案..."
+msgstr "匯出為檔案..."
+
+#. L10N group=9 idx=284
+msgid "降低不透明度"
+msgstr "降低不透明度"
+
+#. L10N group=9 idx=285
+msgid "提高不透明度"
+msgstr "提高不透明度"
+
+#. L10N group=9 idx=286
+msgid "调整"
+msgstr "調整"
+
+#. L10N group=9 idx=287
+msgid "(全局设置)"
+msgstr "（整體設定）"
+
+#. L10N group=9 idx=288
+msgid "反锯齿"
+msgstr "抗鋸齒"
+
+#. L10N group=9 idx=289
+msgid "有效"
+msgstr "有效"
+
+#. L10N group=9 idx=290
+msgid "克隆"
+msgstr "克隆"
+
+#. L10N group=9 idx=291
+msgid "播放"
+msgstr "播放"
+
+#. L10N group=9 idx=292
+msgid "之前的边框颜色"
+msgstr "上一影格的顏色"
+
+#. L10N group=9 idx=293
+msgid "之后的边框颜色"
+msgstr "下一影格的顏色"
+
+#. L10N group=9 idx=294
+msgid "背景透明化"
+msgstr "使背景透明"
+
+#. L10N group=9 idx=295
+msgid "无限轮回"
+msgstr "無限循環"
+
+#. L10N group=9 idx=296
+msgid "轮回次数"
+msgstr "循環次數"
+
+#. L10N group=9 idx=297
+msgid "新建模板"
+msgstr "新增範本"
+
+#. L10N group=9 idx=298
+msgid "指定不透明度"
+msgstr "指定不透明度"
+
+#. L10N group=9 idx=299
+msgid "客制化..."
+msgstr "自訂..."
+
+#. L10N group=9 idx=300
+msgid "圆锥"
+msgstr "圓錐"
+
+#. L10N group=9 idx=301
+msgid "颜色补正"
+msgstr "顏色插補"
+
+#. L10N group=9 idx=302
+msgid "调整色相"
+msgstr "色相調整"
+
+#. L10N group=9 idx=303
+msgid "延展"
+msgstr "擴散"
+
+#. L10N group=9 idx=304
+msgid "标准"
+msgstr "標準"
+
+#. L10N group=9 idx=305
+msgid "反覆"
+msgstr "重複"
+
+#. L10N group=9 idx=306
+msgid "折返"
+msgstr "折返"
+
+#. L10N group=9 idx=307
+msgid "反转"
+msgstr "反轉"
+
+#. L10N group=9 idx=308
+msgid "反覆次数"
+msgstr "重複次數"
+
+#. L10N group=9 idx=309
+msgid "控制点的位置: "
+msgstr "控制點位置："
+
+#. L10N group=9 idx=310
+msgid "无 (平坦)"
+msgstr "無（平坦）"
+
+#. L10N group=9 idx=311
+msgid "平滑阶梯函数 (50%)"
+msgstr "平滑階梯函數（50%）"
+
+#. L10N group=9 idx=312
+msgid "平滑阶梯函数 (100%)"
+msgstr "平滑階梯函數（100%）"
+
+#. L10N group=9 idx=313
+msgid "方块"
+msgstr "方塊"
+
+#. L10N group=9 idx=314
+msgid "三色柱"
+msgstr "三色柱"
+
+#. L10N group=9 idx=315
+msgid "光谱"
+msgstr "光譜"
+
+#. L10N group=9 idx=316
+msgid "古董"
+msgstr "古董"
+
+#. L10N group=9 idx=317
+msgid "极光"
+msgstr "極光"
+
+#. L10N group=9 idx=318
+msgid "黑加仑"
+msgstr "黑醋栗"
+
+#. L10N group=9 idx=319
+msgid "多彩"
+msgstr "多彩"
+
+#. L10N group=9 idx=320
+msgid "深褐色"
+msgstr "深褐"
+
+#. L10N group=9 idx=321
+msgid "牛仔"
+msgstr "牛仔"
+
+#. L10N group=9 idx=322
+msgid "黑色"
+msgstr "黑色"
+
+#. L10N group=9 idx=323
+msgid "粉彩"
+msgstr "粉彩"
+
+#. L10N group=9 idx=324
+msgid "桃红色"
+msgstr "蜜桃"
+
+#. L10N group=9 idx=325
+msgid "马卡龙色"
+msgstr "馬卡龍"
+
+#. L10N group=9 idx=326
+msgid "玛瑙色"
+msgstr "瑪瑙"
+
+#. L10N group=9 idx=327
+msgid "玫瑰色"
+msgstr "玫瑰"
+
+#. L10N group=9 idx=328
+msgid "昏暗森林"
+msgstr "暗森林"
+
+#. L10N group=9 idx=329
+msgid "夏天"
+msgstr "夏日森林"
+
+#. L10N group=9 idx=330
+msgid "夏天的森林"
+msgstr "夏日森林"
+
+#. L10N group=9 idx=331
+msgid "拂晓"
+msgstr "朝霞"
+
+#. L10N group=9 idx=332
+msgid "金-光泽"
+msgstr "金色光澤"
+
+#. L10N group=9 idx=333
+msgid "银-光泽"
+msgstr "銀色光澤"
+
+#. L10N group=9 idx=334
+msgid "淡色渐层"
+msgstr "淡色漸層"
+
+#. L10N group=9 idx=335
+msgid "朝霞"
+msgstr "朝霞"
+
+#. L10N group=9 idx=336
+msgid "铜-光泽"
+msgstr "銅色光澤"
+
+#. L10N group=9 idx=337
+msgid "浓色渐层"
+msgstr "濃色漸層"
+
+#. L10N group=9 idx=338
+msgid "夜樱"
+msgstr "夜櫻"
+
+#. L10N group=9 idx=339
+msgid "黎明的天际"
+msgstr "黎明天空"
+
+#. L10N group=9 idx=340
+msgid "傍晚"
+msgstr "黃昏"
+
+#. L10N group=9 idx=341
+msgid "蓝色霓虹"
+msgstr "藍色霓虹"
+
+#. L10N group=9 idx=342
+msgid "洋甘菊"
+msgstr "洋甘菊"
+
+#. L10N group=9 idx=343
+msgid "香水柠檬"
+msgstr "檸檬"
+
+#. L10N group=9 idx=344
+msgid "朱槿"
+msgstr "芙蓉"
+
+#. L10N group=9 idx=345
+msgid "棒棒糖"
+msgstr "棒棒糖"
+
+#. L10N group=9 idx=346
+msgid "炽热"
+msgstr "赤熱"
+
+#. L10N group=9 idx=347
+msgid "放松"
+msgstr "放鬆"
+
+#. L10N group=9 idx=348
+msgid "暖和"
+msgstr "暖色"
+
+#. L10N group=9 idx=349
+msgid "选择后，可以从档案选单再次设置"
+msgstr "即使已選擇，也可從檔案選單重新設定"
+
+#. L10N group=9 idx=350
+msgid "载入APNG档案"
+msgstr "載入APNG檔案"
+
+#. L10N group=9 idx=351
+msgid "转换为 MP4 文件"
+msgstr "轉換為MP4檔案"
+
+#. L10N group=9 idx=352
+msgid "添加辅助线"
+msgstr "加入參考線"
+
+#. L10N group=9 idx=353
+msgid "水平/横向"
+msgstr "水平/橫向"
+
+#. L10N group=9 idx=354
+msgid "项目设置"
+msgstr "專案設定"
+
+#. L10N group=9 idx=355
+msgid "页数"
+msgstr "頁數"
+
+#. L10N group=9 idx=356
+msgid "起始页"
+msgstr "起始頁"
+
+#. L10N group=9 idx=357
+msgid "翻页方式"
+msgstr "翻頁方向"
+
+#. L10N group=9 idx=358
+msgid "文件格式"
+msgstr "檔案格式"
+
+#. L10N group=9 idx=359
+msgid "页面"
+msgstr "頁面"
+
+#. L10N group=9 idx=360
+msgid "页码"
+msgstr "頁碼"
+
+#. L10N group=9 idx=361
+msgid "输出所有页面"
+msgstr "輸出所有頁"
+
+#. L10N group=9 idx=362
+msgid "保存格式"
+msgstr "儲存格式"
+
+#. L10N group=9 idx=363
+msgid "强制背景为白色"
+msgstr "強制背景色為白色"
+
+#. L10N group=9 idx=364
+msgid "添加页面"
+msgstr "加入頁"
+
+#. L10N group=9 idx=365
+msgid "根据项目设置添加"
+msgstr "依專案設定加入"
+
+#. L10N group=9 idx=366
+msgid "添加现有文件"
+msgstr "加入現有檔案"
+
+#. L10N group=9 idx=367
+msgid "请选择同级目录的文件"
+msgstr "請選擇與專案檔案同一層級的檔案"
+
+#. L10N group=9 idx=368
+msgid "保存项目文件"
+msgstr "儲存專案檔案"
+
+#. L10N group=9 idx=369
+msgid "清除此页面？（不会删除文件）"
+msgstr "要清除此頁嗎？（不會刪除檔案）"
+
+#. L10N group=9 idx=370
+msgid "页码位置"
+msgstr "頁碼位置"
+
+#. L10N group=9 idx=371
+msgid "隐藏"
+msgstr "隱藏"
+
+#. L10N group=9 idx=372
+msgid "上下调整（居中）"
+msgstr "上下調整（置中）"
+
+#. L10N group=9 idx=373
+msgid "项目"
+msgstr "專案"
+
+#. L10N group=9 idx=374
+msgid "自创建文件以来已过30天"
+msgstr "自檔案建立已過30天"
+
+#. L10N group=9 idx=375
+msgid "许可证认证"
+msgstr "授權驗證"
+
+#. L10N group=9 idx=376
+msgid "导入设置"
+msgstr "匯入設定"
+
+#. L10N group=9 idx=377
+msgid "指定要导入的设置"
+msgstr "指定要匯入的設定"
+
+#. L10N group=9 idx=378
+msgid "指定名称"
+msgstr "指定名稱"
+
+#. L10N group=9 idx=379
+msgid "无法删除文件: "
+msgstr "刪除檔案失敗："
+
+#. L10N group=9 idx=380
+msgid "延时摄影设置"
+msgstr "縮時攝影設定"
+
+#. L10N group=9 idx=381
+msgid "3分鐘"
+msgstr "3分鐘"
+
+#. L10N group=9 idx=382
+msgid "3小時"
+msgstr "3小時"
+
+#. L10N group=9 idx=383
+msgid "適用前景色"
+msgstr "套用前景色"
+
+#. L10N group=9 idx=384
+msgid "檔案形式"
+msgstr "檔案格式"
+
+#. L10N group=9 idx=385
+msgid "顏色管理設定 "
+msgstr "色彩管理設定"
+
+#. L10N group=9 idx=386
+msgid "色域對應的顯色圖"
+msgstr "色域對應的顯色圖"
+
+#. L10N group=9 idx=387
+msgid "知覺"
+msgstr "感知"
+
+#. L10N group=9 idx=388
+msgid "保持相對色域"
+msgstr "保持相對色域"
+
+#. L10N group=9 idx=389
+msgid "保持絕對色域"
+msgstr "保持絕對色域"
+
+#. L10N group=9 idx=390
+msgid "顯示時的顏色調整，需與ICC設定值相互連結"
+msgstr "需要調整顯示器顏色，並將ICC設定檔與顯示器關聯"
+
+#. L10N group=9 idx=391
+msgid "分割數"
+msgstr "分割數"
+
+#. L10N group=9 idx=392
+msgid "載入範本"
+msgstr "載入範例"
+
+#. L10N group=9 idx=393
+msgid "範本2 (間隔)"
+msgstr "範例2（間距）"
+
+#. L10N group=9 idx=394
+msgid "範本3 (三角形)"
+msgstr "範例3（三角形）"
+
+#. L10N group=9 idx=395
+msgid "範本5 (輸出除錯)"
+msgstr "範例5（偵錯輸出）"
+
+#. L10N group=9 idx=396
+msgid "範本6 (last() 函數)"
+msgstr "範例6（last()函數）"
+
+#. L10N group=9 idx=397
+msgid "範本7 (間隔)"
+msgstr "範例7（間隔）"
+
+#. L10N group=9 idx=398
+msgid "下個尺寸"
+msgstr "下一個大小"
+
+#. L10N group=9 idx=399
+msgid "輸出成檔案..."
+msgstr "匯出為檔案..."
+
+#. L10N group=9 idx=400
+msgid "反鋸齒"
+msgstr "抗鋸齒"
+
+#. L10N group=9 idx=401
+msgid "之前的邊框顏色"
+msgstr "上一影格的顏色"
+
+#. L10N group=9 idx=402
+msgid "之後的邊框顏色"
+msgstr "下一影格的顏色"
+
+#. L10N group=9 idx=403
+msgid "無限輪迴"
+msgstr "無限循環"
+
+#. L10N group=9 idx=404
+msgid "輪迴次數"
+msgstr "循環次數"
+
+#. L10N group=9 idx=405
+msgid "無法初始化 MP4 匯出 API"
+msgstr "MP4匯出API初始化失敗"
+
+#. L10N group=9 idx=406
+msgid "客製化..."
+msgstr "自訂..."
+
+#. L10N group=9 idx=407
+msgid "形狀"
+msgstr "形狀"
+
+#. L10N group=9 idx=408
+msgid "放射狀"
+msgstr "放射狀"
+
+#. L10N group=9 idx=409
+msgid "圓錐"
+msgstr "圓錐"
+
+#. L10N group=9 idx=410
+msgid "顏色補正"
+msgstr "顏色插補"
+
+#. L10N group=9 idx=411
+msgid "調整色相"
+msgstr "色相調整"
+
+#. L10N group=9 idx=412
+msgid "反轉"
+msgstr "反轉"
+
+#. L10N group=9 idx=413
+msgid "反覆次數"
+msgstr "重複次數"
+
+#. L10N group=9 idx=414
+msgid "控制點的位置: "
+msgstr "控制點位置："
+
+#. L10N group=9 idx=415
+msgid "無 (平坦)"
+msgstr "無（平坦）"
+
+#. L10N group=9 idx=416
+msgid "平滑階梯函數 (50%)"
+msgstr "平滑階梯函數（50%）"
+
+#. L10N group=9 idx=417
+msgid "平滑階梯函數 (100%)"
+msgstr "平滑階梯函數（100%）"
+
+#. L10N group=9 idx=418
+msgid "方塊"
+msgstr "方塊"
+
+#. L10N group=9 idx=419
+msgid "光譜"
+msgstr "光譜"
+
+#. L10N group=9 idx=420
+msgid "極光"
+msgstr "極光"
+
+#. L10N group=9 idx=421
+msgid "黑加侖"
+msgstr "黑醋栗"
+
+#. L10N group=9 idx=422
+msgid "馬卡龍色"
+msgstr "馬卡龍"
+
+#. L10N group=9 idx=423
+msgid "瑪瑙色"
+msgstr "瑪瑙"
+
+#. L10N group=9 idx=424
+msgid "拂曉"
+msgstr "朝霞"
+
+#. L10N group=9 idx=425
+msgid "金-光澤"
+msgstr "金色光澤"
+
+#. L10N group=9 idx=426
+msgid "銀-光澤"
+msgstr "銀色光澤"
+
+#. L10N group=9 idx=427
+msgid "淡色漸層"
+msgstr "淡色漸層"
+
+#. L10N group=9 idx=428
+msgid "銅-光澤"
+msgstr "銅色光澤"
+
+#. L10N group=9 idx=429
+msgid "濃色漸層"
+msgstr "濃色漸層"
+
+#. L10N group=9 idx=430
+msgid "夜櫻"
+msgstr "夜櫻"
+
+#. L10N group=9 idx=431
+msgid "黎明的天際"
+msgstr "黎明天空"
+
+#. L10N group=9 idx=432
+msgid "藍色霓虹"
+msgstr "藍色霓虹"
+
+#. L10N group=9 idx=433
+msgid "香水檸檬"
+msgstr "檸檬"
+
+#. L10N group=9 idx=434
+msgid "暖爐"
+msgstr "壁爐"
+
+#. L10N group=9 idx=435
+msgid "熾熱"
+msgstr "赤熱"
+
+#. L10N group=9 idx=436
+msgid "放鬆"
+msgstr "放鬆"
+
+#. L10N group=9 idx=437
+msgid "選擇後，可以從檔案選單再次設置"
+msgstr "即使已選擇，也可從檔案選單重新設定"
+
+#. L10N group=9 idx=438
+msgid "載入APNG檔案"
+msgstr "載入APNG檔案"
+
+#. L10N group=9 idx=439
+msgid "新增輔助線"
+msgstr "加入參考線"
+
+#. L10N group=9 idx=440
+msgid "水平/橫向"
+msgstr "水平/橫向"
+
+#. L10N group=9 idx=441
+msgid "頁數"
+msgstr "頁數"
+
+#. L10N group=9 idx=442
+msgid "起始頁"
+msgstr "起始頁"
+
+#. L10N group=9 idx=443
+msgid "翻頁方式"
+msgstr "翻頁方向"
+
+#. L10N group=9 idx=444
+msgid "由右至左（日本式）"
+msgstr "從右到左（日式）"
+
+#. L10N group=9 idx=445
+msgid "由左至右"
+msgstr "從左到右"
+
+#. L10N group=9 idx=446
+msgid "檔案格式"
+msgstr "檔案格式"
+
+#. L10N group=9 idx=447
+msgid "頁面 "
+msgstr "頁面"
+
+#. L10N group=9 idx=448
+msgid "漫畫輔助線"
+msgstr "漫畫參考線"
+
+#. L10N group=9 idx=449
+msgid "頁碼"
+msgstr "頁碼"
+
+#. L10N group=9 idx=450
+msgid "輸出所有頁面"
+msgstr "輸出所有頁"
+
+#. L10N group=9 idx=451
+msgid "強制背景為白色"
+msgstr "強制背景色為白色"
+
+#. L10N group=9 idx=452
+msgid "新增頁面"
+msgstr "加入頁"
+
+#. L10N group=9 idx=453
+msgid "新增現有檔案"
+msgstr "加入現有檔案"
+
+#. L10N group=9 idx=454
+msgid "頁碼位置"
+msgstr "頁碼位置"
+
+#. L10N group=9 idx=455
+msgid "隱藏"
+msgstr "隱藏"
+
+#. L10N group=9 idx=456
+msgid "上下調整（置中）"
+msgstr "上下調整（置中）"
+
+#. L10N group=9 idx=457
+msgid "專案"
+msgstr "專案"
+
+#. L10N group=9 idx=458
+msgid "自建立檔案起已過30天"
+msgstr "自檔案建立已過30天"
+
+#. L10N group=9 idx=459
+msgid "許可證認證"
+msgstr "授權驗證"
+
+#. L10N group=9 idx=460
+msgid "指定名稱"
+msgstr "指定名稱"
+
+#. L10N group=10 idx=0
+msgid "入力"
+msgstr "輸入"
+
+#. L10N group=10 idx=1
+msgid "出力"
+msgstr "輸出"
+
+#. L10N group=10 idx=2
+msgid "レベル補正"
+msgstr "色階"
+
+#. L10N group=10 idx=3
+msgid "線画抽出"
+msgstr "線稿提取"
+
+#. L10N group=10 idx=4
+msgid "明度"
+msgstr "明度"
+
+#. L10N group=10 idx=5
+msgid "色相・彩度・明度"
+msgstr "色相·飽和度·明度"
+
+#. L10N group=10 idx=6
+msgid "トーンカーブ"
+msgstr "色調曲線"
+
+#. L10N group=10 idx=7
+msgid "チャンネル操作"
+msgstr "色板操作"
+
+#. L10N group=10 idx=8
+msgid "RGB平均"
+msgstr "RGB平均"
+
+#. L10N group=10 idx=9
+msgid "255 - RGB平均"
+msgstr "255 - RGB平均"
+
+#. L10N group=10 idx=10
+msgid "プリセット"
+msgstr "預設"
+
+#. L10N group=10 idx=11
+msgid "R成分"
+msgstr "R成分"
+
+#. L10N group=10 idx=12
+msgid "G成分"
+msgstr "G成分"
+
+#. L10N group=10 idx=13
+msgid "B成分"
+msgstr "B成分"
+
+#. L10N group=10 idx=14
+msgid "モノクロ化"
+msgstr "黑白化"
+
+#. L10N group=10 idx=15
+msgid "色収差/RGBずらし"
+msgstr "色差/RGB偏移"
+
+#. L10N group=10 idx=16
+msgid "アンシャープマスク"
+msgstr "遮色片銳利化"
+
+#. L10N group=10 idx=17
+msgid "適用量"
+msgstr "套用量"
+
+#. L10N group=10 idx=18
+msgid "ガウスぼかし"
+msgstr "高斯模糊"
+
+#. L10N group=10 idx=19
+msgid "移動ぼかし"
+msgstr "動態模糊"
+
+#. L10N group=10 idx=20
+msgid "レンズぼかし"
+msgstr "鏡頭模糊"
+
+#. L10N group=10 idx=21
+msgid "モザイク"
+msgstr "馬賽克"
+
+#. L10N group=10 idx=22
+msgid "サイズ"
+msgstr "大小"
+
+#. L10N group=10 idx=23
+msgid "青海波"
+msgstr "青海波"
+
+#. L10N group=10 idx=24
+msgid "菱青海波"
+msgstr "菱青海波"
+
+#. L10N group=10 idx=25
+msgid "算木崩し"
+msgstr "算木崩"
+
+#. L10N group=10 idx=26
+msgid "矢絣"
+msgstr "矢絣"
+
+#. L10N group=10 idx=27
+msgid "矢絣 2"
+msgstr "矢絣2"
+
+#. L10N group=10 idx=28
+msgid "千鳥格子"
+msgstr "千鳥格"
+
+#. L10N group=10 idx=29
+msgid "摺疋田"
+msgstr "摺疋田"
+
+#. L10N group=10 idx=30
+msgid "亀甲"
+msgstr "龜甲"
+
+#. L10N group=10 idx=31
+msgid "市松"
+msgstr "市松"
+
+#. L10N group=10 idx=32
+msgid "麻の葉"
+msgstr "麻葉"
+
+#. L10N group=10 idx=33
+msgid "立涌"
+msgstr "立涌"
+
+#. L10N group=10 idx=34
+msgid "分銅繋ぎ"
+msgstr "分銅連"
+
+#. L10N group=10 idx=35
+msgid "縦縞"
+msgstr "直條紋"
+
+#. L10N group=10 idx=36
+msgid "横縞"
+msgstr "橫條紋"
+
+#. L10N group=10 idx=37
+msgid "和柄"
+msgstr "和風圖樣"
+
+#. L10N group=10 idx=38
+msgid "透明背景"
+msgstr "透明背景"
+
+#. L10N group=10 idx=39
+msgid "ランダム色指定"
+msgstr "隨機顏色指定"
+
+#. L10N group=10 idx=40
+msgid "密度"
+msgstr "密度"
+
+#. L10N group=10 idx=41
+msgid "長さ"
+msgstr "長度"
+
+#. L10N group=10 idx=42
+msgid "長さ (ランダム)"
+msgstr "長度（隨機）"
+
+#. L10N group=10 idx=43
+msgid "線の太さ"
+msgstr "線條粗細"
+
+#. L10N group=10 idx=44
+msgid "密度 (ランダム)"
+msgstr "密度（隨機）"
+
+#. L10N group=10 idx=45
+msgid "縦横の比率"
+msgstr "縱橫比例"
+
+#. L10N group=10 idx=46
+msgid "正方形"
+msgstr "正方形"
+
+#. L10N group=10 idx=47
+msgid "横長"
+msgstr "橫向"
+
+#. L10N group=10 idx=48
+msgid "縦長"
+msgstr "縱向"
+
+#. L10N group=10 idx=49
+msgid "ランダム値の更新"
+msgstr "更新隨機值"
+
+#. L10N group=10 idx=50
+msgid "中心の指定"
+msgstr "指定中心"
+
+#. L10N group=10 idx=51
+msgid "方向の指定"
+msgstr "指定方向"
+
+#. L10N group=10 idx=52
+msgid "ウニフラッシュ"
+msgstr "棘刺閃光"
+
+#. L10N group=10 idx=53
+msgid "オフセット (ランダム)"
+msgstr "偏移（隨機）"
+
+#. L10N group=10 idx=54
+msgid "入り抜き位置"
+msgstr "筆鋒位置"
+
+#. L10N group=10 idx=55
+msgid "渦巻き"
+msgstr "漩渦"
+
+#. L10N group=10 idx=56
+msgid "ノイズ"
+msgstr "雜訊"
+
+#. L10N group=10 idx=57
+msgid "強さ"
+msgstr "強度"
+
+#. L10N group=10 idx=58
+msgid "カラー"
+msgstr "彩色"
+
+#. L10N group=10 idx=59
+msgid "モノクロ"
+msgstr "黑白"
+
+#. L10N group=10 idx=60
+msgid "明るさ・コントラスト"
+msgstr "亮度·對比度"
+
+#. L10N group=10 idx=61
+msgid "ポスタリゼーション"
+msgstr "色調分離"
+
+#. L10N group=10 idx=62
+msgid "段数"
+msgstr "階數"
+
+#. L10N group=10 idx=63
+msgid "選択レイヤーの整列"
+msgstr "對齊選取圖層"
+
+#. L10N group=10 idx=64
+msgid "縦に整列 (左端)"
+msgstr "縱向對齊（左端）"
+
+#. L10N group=10 idx=65
+msgid "縦に整列 (中央)"
+msgstr "縱向對齊（中央）"
+
+#. L10N group=10 idx=66
+msgid "縦に整列 (右端)"
+msgstr "縱向對齊（右端）"
+
+#. L10N group=10 idx=67
+msgid "横に整列 (上端)"
+msgstr "橫向對齊（上端）"
+
+#. L10N group=10 idx=68
+msgid "横に整列 (中央)"
+msgstr "橫向對齊（中央）"
+
+#. L10N group=10 idx=69
+msgid "横に整列 (下端)"
+msgstr "橫向對齊（下端）"
+
+#. L10N group=10 idx=70
+msgid "画像の端で揃える"
+msgstr "對齊影像邊緣"
+
+#. L10N group=10 idx=71
+msgid "画像の中心で揃える"
+msgstr "對齊影像中心"
+
+#. L10N group=10 idx=72
+msgid "選択レイヤーの範囲を基準にする"
+msgstr "以選取圖層範圍為基準"
+
+#. L10N group=10 idx=73
+msgid "選択範囲を基準にする"
+msgstr "以選取範圍為基準"
+
+#. L10N group=10 idx=74
+msgid "输入"
+msgstr "輸入"
+
+#. L10N group=10 idx=75
+msgid "输出"
+msgstr "輸出"
+
+#. L10N group=10 idx=76
+msgid "色阶"
+msgstr "色階"
+
+#. L10N group=10 idx=77
+msgid "色相 / 彩度 / 明度"
+msgstr "色相·飽和度·明度"
+
+#. L10N group=10 idx=78
+msgid "色调曲线"
+msgstr "色調曲線"
+
+#. L10N group=10 idx=79
+msgid "操作频道"
+msgstr "色板操作"
+
+#. L10N group=10 idx=80
+msgid "平均RGB"
+msgstr "RGB平均"
+
+#. L10N group=10 idx=81
+msgid "255 - 平均RGB"
+msgstr "255 - RGB平均"
+
+#. L10N group=10 idx=82
+msgid "默认"
+msgstr "預設"
+
+#. L10N group=10 idx=83
+msgid "黑白化"
+msgstr "黑白化"
+
+#. L10N group=10 idx=84
+msgid "色差"
+msgstr "色差"
+
+#. L10N group=10 idx=85
+msgid "高斯模糊"
+msgstr "高斯模糊"
+
+#. L10N group=10 idx=86
+msgid "马赛克"
+msgstr "馬賽克"
+
+#. L10N group=10 idx=87
+msgid "尺寸"
+msgstr "大小"
+
+#. L10N group=10 idx=88
+msgid "松青海波"
+msgstr "青海波"
+
+#. L10N group=10 idx=89
+msgid "菱松青海波"
+msgstr "菱青海波"
+
+#. L10N group=10 idx=90
+msgid "景泰蓝"
+msgstr "景泰藍"
+
+#. L10N group=10 idx=91
+msgid "景泰蓝2"
+msgstr "景泰藍2"
+
+#. L10N group=10 idx=92
+msgid "算木崩"
+msgstr "算木崩"
+
+#. L10N group=10 idx=93
+msgid "矢羽根"
+msgstr "矢絣"
+
+#. L10N group=10 idx=94
+msgid "矢羽根2"
+msgstr "矢絣2"
+
+#. L10N group=10 idx=95
+msgid "千鸟格"
+msgstr "千鳥格"
+
+#. L10N group=10 idx=96
+msgid "折疋田"
+msgstr "摺疋田"
+
+#. L10N group=10 idx=97
+msgid "龟甲"
+msgstr "龜甲"
+
+#. L10N group=10 idx=98
+msgid "麻叶"
+msgstr "麻葉"
+
+#. L10N group=10 idx=99
+msgid "云立涌"
+msgstr "立涌"
+
+#. L10N group=10 idx=100
+msgid "砝码"
+msgstr "分銅連"
+
+#. L10N group=10 idx=101
+msgid "随机颜色"
+msgstr "隨機顏色指定"
+
+#. L10N group=10 idx=102
+msgid "长度"
+msgstr "長度"
+
+#. L10N group=10 idx=103
+msgid "长度 (随机)"
+msgstr "長度（隨機）"
+
+#. L10N group=10 idx=104
+msgid "密度 (随机)"
+msgstr "密度（隨機）"
+
+#. L10N group=10 idx=105
+msgid "更新随机值"
+msgstr "更新隨機值"
+
+#. L10N group=10 idx=106
+msgid "指定中心"
+msgstr "指定中心"
+
+#. L10N group=10 idx=107
+msgid "指定方向"
+msgstr "指定方向"
+
+#. L10N group=10 idx=108
+msgid "抵销 (随机)"
+msgstr "偏移（隨機）"
+
+#. L10N group=10 idx=109
+msgid "淡入淡出的位置"
+msgstr "筆鋒位置"
+
+#. L10N group=10 idx=110
+msgid "漩涡"
+msgstr "漩渦"
+
+#. L10N group=10 idx=111
+msgid "波浪"
+msgstr "波浪"
+
+#. L10N group=10 idx=112
+msgid "噪音"
+msgstr "雜訊"
+
+#. L10N group=10 idx=113
+msgid "色彩"
+msgstr "彩色"
+
+#. L10N group=10 idx=114
+msgid "黑白"
+msgstr "黑白"
+
+#. L10N group=10 idx=115
+msgid "色调分离"
+msgstr "色調分離"
+
+#. L10N group=10 idx=116
+msgid "輸入"
+msgstr "輸入"
+
+#. L10N group=10 idx=117
+msgid "輸出"
+msgstr "輸出"
+
+#. L10N group=10 idx=118
+msgid "色階"
+msgstr "色階"
+
+#. L10N group=10 idx=119
+msgid "色調曲線"
+msgstr "色調曲線"
+
+#. L10N group=10 idx=120
+msgid "操作頻道"
+msgstr "色板操作"
+
+#. L10N group=10 idx=121
+msgid "馬賽克"
+msgstr "馬賽克"
+
+#. L10N group=10 idx=122
+msgid "景泰藍"
+msgstr "景泰藍"
+
+#. L10N group=10 idx=123
+msgid "景泰藍2"
+msgstr "景泰藍2"
+
+#. L10N group=10 idx=124
+msgid "千鳥格"
+msgstr "千鳥格"
+
+#. L10N group=10 idx=125
+msgid "龜甲"
+msgstr "龜甲"
+
+#. L10N group=10 idx=126
+msgid "麻葉"
+msgstr "麻葉"
+
+#. L10N group=10 idx=127
+msgid "雲立涌"
+msgstr "立涌"
+
+#. L10N group=10 idx=128
+msgid "砝碼"
+msgstr "砝碼"
+
+#. L10N group=10 idx=129
+msgid "隨機顏色"
+msgstr "隨機顏色指定"
+
+#. L10N group=10 idx=130
+msgid "長度"
+msgstr "長度"
+
+#. L10N group=10 idx=131
+msgid "長度 (隨機)"
+msgstr "長度（隨機）"
+
+#. L10N group=10 idx=132
+msgid "密度 (隨機)"
+msgstr "密度（隨機）"
+
+#. L10N group=10 idx=133
+msgid "更新隨機值"
+msgstr "更新隨機值"
+
+#. L10N group=10 idx=134
+msgid "抵銷 (隨機)"
+msgstr "偏移（隨機）"
+
+#. L10N group=10 idx=135
+msgid "漩渦"
+msgstr "漩渦"
+
+#. L10N group=10 idx=136
+msgid "色調分離"
+msgstr "色調分離"
+
+#. L10N group=11 idx=0
+msgid "レイヤーの追加 (ARGB/カラー)"
+msgstr "加入圖層（ARGB/彩色）"
+
+#. L10N group=11 idx=1
+msgid "レイヤーの複製"
+msgstr "複製圖層"
+
+#. L10N group=11 idx=2
+msgid "下のレイヤーに統合"
+msgstr "合併到下方圖層"
+
+#. L10N group=11 idx=3
+msgid "レイヤーの削除"
+msgstr "刪除圖層"
+
+#. L10N group=11 idx=4
+msgid "レイヤーの追加 (8bpp/グレー)"
+msgstr "加入圖層（8bpp/灰階）"
+
+#. L10N group=11 idx=5
+msgid "レイヤーの追加 (1bpp/モノクロ)"
+msgstr "加入圖層（1bpp/單色）"
+
+#. L10N group=11 idx=6
+msgid "レイヤーフォルダの追加"
+msgstr "加入圖層資料夾"
+
+#. L10N group=11 idx=7
+msgid "レイヤーの追加 (ハーフトーン)"
+msgstr "加入圖層（半色調）"
+
+#. L10N group=11 idx=8
+msgid "レイヤーマスクの追加"
+msgstr "加入圖層遮罩"
+
+#. L10N group=11 idx=9
+msgid "レイヤーの追加 (カラー)"
+msgstr "加入圖層（彩色）"
+
+#. L10N group=11 idx=10
+msgid "レイヤーの追加 (8 bit)"
+msgstr "加入圖層（8位元）"
+
+#. L10N group=11 idx=11
+msgid "レイヤーの追加 (1 bit)"
+msgstr "加入圖層（1位元）"
+
+#. L10N group=11 idx=12
+msgid "前景色をレイヤーカラーに指定"
+msgstr "將前景色指定為圖層顏色"
+
+#. L10N group=11 idx=13
+msgid "レイヤーカラーを前景色に指定"
+msgstr "將圖層顏色指定為前景色"
+
+#. L10N group=11 idx=14
+msgid "ハーフトーンを定着させる"
+msgstr "固定半色調網點"
+
+#. L10N group=11 idx=15
+msgid "水彩境界を定着させる"
+msgstr "固定水彩邊界"
+
+#. L10N group=11 idx=16
+msgid "フォルダにまとめる"
+msgstr "收進資料夾"
+
+#. L10N group=11 idx=17
+msgid "選択範囲として取り込む"
+msgstr "作為選取範圍匯入"
+
+#. L10N group=11 idx=18
+msgid "選択範囲として取り込む (追加)"
+msgstr "作為選取範圍匯入（加入）"
+
+#. L10N group=11 idx=19
+msgid "画像を新規レイヤーとして読み込む..."
+msgstr "將影像載入為新圖層..."
+
+#. L10N group=11 idx=20
+msgid "このレイヤー位置には追加できません"
+msgstr "無法在此圖層位置加入"
+
+#. L10N group=11 idx=21
+msgid "テキストレイヤーを画像レイヤーに変換"
+msgstr "將文字圖層轉換為影像圖層"
+
+#. L10N group=11 idx=22
+msgid "フォルダを統合"
+msgstr "合併資料夾"
+
+#. L10N group=11 idx=23
+msgid "選択済みレイヤーを統合"
+msgstr "合併選取圖層"
+
+#. L10N group=11 idx=24
+msgid "フォルダを解除"
+msgstr "取消資料夾"
+
+#. L10N group=11 idx=25
+msgid "レイヤーマスクを有効にする"
+msgstr "啟用圖層遮罩"
+
+#. L10N group=11 idx=26
+msgid "省メモリなレイヤーに変換"
+msgstr "轉換為省記憶體圖層"
+
+#. L10N group=11 idx=27
+msgid "テキスト"
+msgstr "文字"
+
+#. L10N group=11 idx=28
+msgid "スタイルのコピー"
+msgstr "複製樣式"
+
+#. L10N group=11 idx=29
+msgid "コピーしたスタイルを適用"
+msgstr "套用複製的樣式"
+
+#. L10N group=11 idx=30
+msgid "なし (UIカラー)"
+msgstr "無（UI顏色）"
+
+#. L10N group=11 idx=31
+msgid "  ライトブルー"
+msgstr "淺藍"
+
+#. L10N group=11 idx=32
+msgid "  ブルー"
+msgstr "藍色"
+
+#. L10N group=11 idx=33
+msgid "  パープル"
+msgstr "紫色"
+
+#. L10N group=11 idx=34
+msgid "  レッド"
+msgstr "紅色"
+
+#. L10N group=11 idx=35
+msgid "  オレンジ"
+msgstr "橙色"
+
+#. L10N group=11 idx=36
+msgid "  イエロー"
+msgstr "黃色"
+
+#. L10N group=11 idx=37
+msgid "  ライトグリーン"
+msgstr "淺綠"
+
+#. L10N group=11 idx=38
+msgid "  グリーン"
+msgstr "綠色"
+
+#. L10N group=11 idx=39
+msgid "  ブラウン"
+msgstr "棕色"
+
+#. L10N group=11 idx=40
+msgid "  グレー"
+msgstr "灰色"
+
+#. L10N group=11 idx=41
+msgid "全レイヤーを統合"
+msgstr "合併所有圖層"
+
+#. L10N group=11 idx=42
+msgid "統合されなかったレイヤーを残す"
+msgstr "保留未合併的圖層"
+
+#. L10N group=11 idx=43
+msgid "テキストレイヤーを除外"
+msgstr "排除文字圖層"
+
+#. L10N group=11 idx=44
+msgid "背景色を含めて統合する (推奨)"
+msgstr "合併時包含背景色（建議）"
+
+#. L10N group=11 idx=45
+msgid "非表示レイヤーを残す"
+msgstr "保留隱藏圖層"
+
+#. L10N group=11 idx=46
+msgid "テキストレイヤーを残す"
+msgstr "保留文字圖層"
+
+#. L10N group=11 idx=47
+msgid "透明度を保護"
+msgstr "保護透明度"
+
+#. L10N group=11 idx=48
+msgid "クリッピング"
+msgstr "剪貼蒙版"
+
+#. L10N group=11 idx=49
+msgid "ロック"
+msgstr "鎖定"
+
+#. L10N group=11 idx=50
+msgid "表示する"
+msgstr "顯示"
+
+#. L10N group=11 idx=51
+msgid "下書き"
+msgstr "草稿"
+
+#. L10N group=11 idx=52
+msgid "属性ダイアログを表示..."
+msgstr "顯示屬性對話框..."
+
+#. L10N group=11 idx=53
+msgid "下に追加"
+msgstr "加入下方"
+
+#. L10N group=11 idx=54
+msgid "加算・発光"
+msgstr "相加·發光"
+
+#. L10N group=11 idx=55
+msgid "オーバーレイ"
+msgstr "覆蓋"
+
+#. L10N group=11 idx=56
+msgid "スクリーン"
+msgstr "濾色"
+
+#. L10N group=11 idx=57
+msgid "通過"
+msgstr "穿透"
+
+#. L10N group=11 idx=58
+msgid "比較 (明)"
+msgstr "比較（亮）"
+
+#. L10N group=11 idx=59
+msgid "比較 (暗)"
+msgstr "比較（暗）"
+
+#. L10N group=11 idx=60
+msgid "差の絶対値"
+msgstr "絕對差值"
+
+#. L10N group=11 idx=61
+msgid "覆い焼きカラー"
+msgstr "加亮顏色"
+
+#. L10N group=11 idx=62
+msgid "焼き込みカラー"
+msgstr "加深顏色"
+
+#. L10N group=11 idx=63
+msgid "ソフトライト"
+msgstr "柔光"
+
+#. L10N group=11 idx=64
+msgid "ハードライト"
+msgstr "實光"
+
+#. L10N group=11 idx=65
+msgid "輝度"
+msgstr "亮度"
+
+#. L10N group=11 idx=66
+msgid "ブレンドが 「通過」 の場合、クリッピングが正しく動作しません。ブレンドを確認して下さい。"
+msgstr "混合為「穿透」時，剪貼蒙版無法正常運作。請檢查混合。"
+
+#. L10N group=11 idx=67
+msgid "除算"
+msgstr "除法"
+
+#. L10N group=11 idx=68
+msgid "除外"
+msgstr "排除"
+
+#. L10N group=11 idx=69
+msgid "アクティブレイヤーのみ表示"
+msgstr "僅顯示作用中圖層"
+
+#. L10N group=11 idx=70
+msgid "覆い焼き (リニア)"
+msgstr "線性加亮"
+
+#. L10N group=11 idx=71
+msgid "焼き込み (リニア)"
+msgstr "線性加深"
+
+#. L10N group=11 idx=72
+msgid "ハードミックス"
+msgstr "實色混合"
+
+#. L10N group=11 idx=73
+msgid "発光"
+msgstr "發光"
+
+#. L10N group=11 idx=74
+msgid "描画時に不透明度を変化させない"
+msgstr "繪製時不改變不透明度"
+
+#. L10N group=11 idx=75
+msgid "下のレイヤーの不透明度部分にのみ合成"
+msgstr "僅在下層圖層的不透明區域合成"
+
+#. L10N group=11 idx=76
+msgid "レイヤー編集できないように保護する"
+msgstr "保護圖層使其無法編輯"
+
+#. L10N group=11 idx=77
+msgid "アクティブなレイヤーのみ表示する"
+msgstr "僅顯示作用中圖層"
+
+#. L10N group=11 idx=78
+msgid "バケツや自動選択ツールの指定レイヤー参照に指定"
+msgstr "指定為油漆桶和自動選取工具的目標圖層參照"
+
+#. L10N group=11 idx=79
+msgid "アクティブレイヤーの下にレイヤーを追加 (またはShiftキーを押しながらの追加ボタン)"
+msgstr "在作用中圖層下方加入圖層（或按住Shift鍵點擊加入按鈕）"
+
+#. L10N group=11 idx=80
+msgid "下書きレイヤー"
+msgstr "草稿圖層"
+
+#. L10N group=11 idx=81
+msgid "レイヤー属性"
+msgstr "圖層屬性"
+
+#. L10N group=11 idx=82
+msgid "ハーフトーン"
+msgstr "半色調"
+
+#. L10N group=11 idx=83
+msgid "ハーフトーン化しない"
+msgstr "不進行半色調處理"
+
+#. L10N group=11 idx=84
+msgid "アミ点"
+msgstr "網點"
+
+#. L10N group=11 idx=85
+msgid "投稿・ラスタライズ時に非表示"
+msgstr "投稿·點陣化時隱藏"
+
+#. L10N group=11 idx=86
+msgid "効果"
+msgstr "效果"
+
+#. L10N group=11 idx=87
+msgid "水彩境界"
+msgstr "水彩邊界"
+
+#. L10N group=11 idx=88
+msgid "水彩境界 (濁り)"
+msgstr "水彩邊界（混濁）"
+
+#. L10N group=11 idx=89
+msgid "トーンの濃さを固定"
+msgstr "固定色調濃度"
+
+#. L10N group=11 idx=90
+msgid "ハーフトーン表示"
+msgstr "顯示半色調"
+
+#. L10N group=11 idx=91
+msgid "ハーフトーン線数"
+msgstr "半色調線數"
+
+#. L10N group=11 idx=92
+msgid "円形"
+msgstr "圓形"
+
+#. L10N group=11 idx=93
+msgid "表示フレーム数"
+msgstr "顯示影格數"
+
+#. L10N group=11 idx=94
+msgid "発光 (加算・発光ブレンドのオプション)"
+msgstr "發光（相加·發光混合的選項）"
+
+#. L10N group=11 idx=95
+msgid "キャンバスの縁は境界処理しない"
+msgstr "畫布邊緣不進行邊界處理"
+
+#. L10N group=11 idx=96
+msgid "カラー (パレット)"
+msgstr "顏色（色票）"
+
+#. L10N group=11 idx=97
+msgid "添加图层文件夹"
+msgstr "加入圖層資料夾"
+
+#. L10N group=11 idx=98
+msgid "添加图层 (半色调)"
+msgstr "加入圖層（半色調）"
+
+#. L10N group=11 idx=99
+msgid "添加图层 (颜色)"
+msgstr "加入圖層（彩色）"
+
+#. L10N group=11 idx=100
+msgid "将前景色指定为图层颜色"
+msgstr "將前景色指定為圖層顏色"
+
+#. L10N group=11 idx=101
+msgid "将图层颜色指定为前景色"
+msgstr "將圖層顏色指定為前景色"
+
+#. L10N group=11 idx=102
+msgid "建立半色调网点"
+msgstr "固定半色調網點"
+
+#. L10N group=11 idx=103
+msgid "无法追加图层位置"
+msgstr "無法在此圖層位置加入"
+
+#. L10N group=11 idx=104
+msgid "文字图层转换图像图层"
+msgstr "將文字圖層轉換為影像圖層"
+
+#. L10N group=11 idx=105
+msgid "无 (UI颜色)"
+msgstr "無（UI顏色）"
+
+#. L10N group=11 idx=106
+msgid "  浅蓝"
+msgstr "淺藍"
+
+#. L10N group=11 idx=107
+msgid "  蓝色"
+msgstr "藍色"
+
+#. L10N group=11 idx=108
+msgid "  紫色"
+msgstr "紫色"
+
+#. L10N group=11 idx=109
+msgid "  红色"
+msgstr "紅色"
+
+#. L10N group=11 idx=110
+msgid "  橙色"
+msgstr "橙色"
+
+#. L10N group=11 idx=111
+msgid "  黄色"
+msgstr "黃色"
+
+#. L10N group=11 idx=112
+msgid "  绿色"
+msgstr "綠色"
+
+#. L10N group=11 idx=113
+msgid "  棕色"
+msgstr "棕色"
+
+#. L10N group=11 idx=114
+msgid "  灰色"
+msgstr "灰色"
+
+#. L10N group=11 idx=115
+msgid "排除文字图层"
+msgstr "排除文字圖層"
+
+#. L10N group=11 idx=116
+msgid "合并所有内容包括背景色"
+msgstr "合併時包含背景色"
+
+#. L10N group=11 idx=117
+msgid "留存文字图层"
+msgstr "保留文字圖層"
+
+#. L10N group=11 idx=118
+msgid "锁定"
+msgstr "鎖定"
+
+#. L10N group=11 idx=119
+msgid "显示"
+msgstr "顯示"
+
+#. L10N group=11 idx=120
+msgid "草稿"
+msgstr "草稿"
+
+#. L10N group=11 idx=121
+msgid "滤色"
+msgstr "濾色"
+
+#. L10N group=11 idx=122
+msgid "通过"
+msgstr "穿透"
+
+#. L10N group=11 idx=123
+msgid "差值"
+msgstr "絕對差值"
+
+#. L10N group=11 idx=124
+msgid "加深"
+msgstr "加深顏色"
+
+#. L10N group=11 idx=125
+msgid "硬光"
+msgstr "實光"
+
+#. L10N group=11 idx=126
+msgid "如果混合通过，则剪裁遮色片则不能正常动作。请检查混合效果。"
+msgstr "混合為「穿透」時，剪貼蒙版無法正常運作。請檢查混合。"
+
+#. L10N group=11 idx=127
+msgid "除法"
+msgstr "除法"
+
+#. L10N group=11 idx=128
+msgid "将油漆桶或自动选择工具设为参考指定图层"
+msgstr "指定為油漆桶和自動選取工具的目標圖層參照"
+
+#. L10N group=11 idx=129
+msgid "彩色"
+msgstr "彩色"
+
+#. L10N group=11 idx=130
+msgid "半色调网点"
+msgstr "半色調網點"
+
+#. L10N group=11 idx=131
+msgid "不进行半色调网点化"
+msgstr "不進行半色調處理"
+
+#. L10N group=11 idx=132
+msgid "投稿・点阵化时隐藏"
+msgstr "投稿·點陣化時隱藏"
+
+#. L10N group=11 idx=133
+msgid "效果"
+msgstr "效果"
+
+#. L10N group=11 idx=134
+msgid "显示半色调网点"
+msgstr "顯示半色調"
+
+#. L10N group=11 idx=135
+msgid "半色调网点线素"
+msgstr "半色調線數"
+
+#. L10N group=11 idx=136
+msgid "显示帧数"
+msgstr "顯示影格數"
+
+#. L10N group=11 idx=137
+msgid "添加圖層 (半色調)"
+msgstr "加入圖層（半色調）"
+
+#. L10N group=11 idx=138
+msgid "新增圖層 (顏色)"
+msgstr "加入圖層（彩色）"
+
+#. L10N group=11 idx=139
+msgid "將前景色指定為圖層顏色"
+msgstr "將前景色指定為圖層顏色"
+
+#. L10N group=11 idx=140
+msgid "將圖層顏色指定為前景色"
+msgstr "將圖層顏色指定為前景色"
+
+#. L10N group=11 idx=141
+msgid "建立半色調網點"
+msgstr "固定半色調網點"
+
+#. L10N group=11 idx=142
+msgid "無法追加圖層位置"
+msgstr "無法在此圖層位置加入"
+
+#. L10N group=11 idx=143
+msgid "文字圖層轉換圖像圖層"
+msgstr "將文字圖層轉換為影像圖層"
+
+#. L10N group=11 idx=144
+msgid "無 (UI顏色)"
+msgstr "無（UI顏色）"
+
+#. L10N group=11 idx=145
+msgid "  淺藍"
+msgstr "淺藍"
+
+#. L10N group=11 idx=146
+msgid "  藍色"
+msgstr "藍色"
+
+#. L10N group=11 idx=147
+msgid "  紅色"
+msgstr "紅色"
+
+#. L10N group=11 idx=148
+msgid "  黃色"
+msgstr "黃色"
+
+#. L10N group=11 idx=149
+msgid "  綠色"
+msgstr "綠色"
+
+#. L10N group=11 idx=150
+msgid "排除文字圖層"
+msgstr "排除文字圖層"
+
+#. L10N group=11 idx=151
+msgid "同時合併背景色"
+msgstr "合併時包含背景色"
+
+#. L10N group=11 idx=152
+msgid "留存文字圖層"
+msgstr "保留文字圖層"
+
+#. L10N group=11 idx=153
+msgid "剪裁遮色片"
+msgstr "剪貼蒙版"
+
+#. L10N group=11 idx=154
+msgid "鎖定"
+msgstr "鎖定"
+
+#. L10N group=11 idx=155
+msgid "顯示"
+msgstr "顯示"
+
+#. L10N group=11 idx=156
+msgid "覆蓋"
+msgstr "覆蓋"
+
+#. L10N group=11 idx=157
+msgid "濾色"
+msgstr "濾色"
+
+#. L10N group=11 idx=158
+msgid "穿透"
+msgstr "穿透"
+
+#. L10N group=11 idx=159
+msgid "加亮顏色"
+msgstr "加亮顏色"
+
+#. L10N group=11 idx=160
+msgid "加深顏色"
+msgstr "加深顏色"
+
+#. L10N group=11 idx=161
+msgid "如果混合通過，則剪裁遮色片則不能正常動作。請檢查混合效果。"
+msgstr "混合為「穿透」時，剪貼蒙版無法正常運作。請檢查混合。"
+
+#. L10N group=11 idx=162
+msgid "將油漆桶或自動選擇工具設為參考指定圖層"
+msgstr "指定為油漆桶和自動選取工具的目標圖層參照"
+
+#. L10N group=11 idx=163
+msgid "顏色"
+msgstr "顏色"
+
+#. L10N group=11 idx=164
+msgid "半色調網點"
+msgstr "半色調網點"
+
+#. L10N group=11 idx=165
+msgid "不進行半色調網點化"
+msgstr "不進行半色調處理"
+
+#. L10N group=11 idx=166
+msgid "投稿・點陣化時隱藏"
+msgstr "投稿·點陣化時隱藏"
+
+#. L10N group=11 idx=167
+msgid "顯示半色調網點"
+msgstr "顯示半色調"
+
+#. L10N group=11 idx=168
+msgid "半色調網點線素"
+msgstr "半色調線數"
+
+#. L10N group=11 idx=169
+msgid "顯示幀數"
+msgstr "顯示影格數"
+
+#. L10N group=11 idx=170
+msgid "더하기・발광"
+msgstr "相加·發光"
+
+#. L10N group=12 idx=0
+msgid "ブラシツール"
+msgstr "筆刷工具"
+
+#. L10N group=12 idx=1
+msgid "ドットツール"
+msgstr "點繪工具"
+
+#. L10N group=12 idx=2
+msgid "消しゴムツール"
+msgstr "橡皮擦工具"
+
+#. L10N group=12 idx=3
+msgid "バケツツール"
+msgstr "油漆桶工具"
+
+#. L10N group=12 idx=4
+msgid "グラデーションツール"
+msgstr "漸層工具"
+
+#. L10N group=12 idx=5
+msgid "塗りつぶしツール"
+msgstr "填滿工具"
+
+#. L10N group=12 idx=6
+msgid "自動選択ツール"
+msgstr "自動選取工具"
+
+#. L10N group=12 idx=7
+msgid "選択ペンツール"
+msgstr "選取畫筆工具"
+
+#. L10N group=12 idx=8
+msgid "選択消しツール"
+msgstr "選取橡皮擦工具"
+
+#. L10N group=12 idx=9
+msgid "テキストツール"
+msgstr "文字工具"
+
+#. L10N group=12 idx=10
+msgid "スポイトツール"
+msgstr "滴管工具"
+
+#. L10N group=12 idx=11
+msgid "手のひらツール"
+msgstr "手掌工具"
+
+#. L10N group=12 idx=12
+msgid "スナップ オフ"
+msgstr "關閉貼齊"
+
+#. L10N group=12 idx=13
+msgid "平行スナップ"
+msgstr "平行貼齊"
+
+#. L10N group=12 idx=14
+msgid "十字スナップ"
+msgstr "十字貼齊"
+
+#. L10N group=12 idx=15
+msgid "集中線スナップ"
+msgstr "集中線貼齊"
+
+#. L10N group=12 idx=16
+msgid "スナップ設定"
+msgstr "貼齊設定"
+
+#. L10N group=12 idx=17
+msgid "手ぶれ補正"
+msgstr "手震修正"
+
+#. L10N group=12 idx=18
+msgid "丸める"
+msgstr "圓整"
+
+#. L10N group=12 idx=19
+msgid "前景色～背景色"
+msgstr "前景色～背景色"
+
+#. L10N group=12 idx=20
+msgid "前景色～透明"
+msgstr "前景色～透明"
+
+#. L10N group=12 idx=21
+msgid "矩形"
+msgstr "矩形"
+
+#. L10N group=12 idx=22
+msgid "楕円"
+msgstr "橢圓"
+
+#. L10N group=12 idx=23
+msgid "多角形"
+msgstr "多邊形"
+
+#. L10N group=12 idx=24
+msgid "設定なし"
+msgstr "無設定"
+
+#. L10N group=12 idx=25
+msgid "投げなわ"
+msgstr "套索"
+
+#. L10N group=12 idx=26
+msgid "投げなわ選択ツール"
+msgstr "套索選取工具"
+
+#. L10N group=12 idx=27
+msgid "ブラシコントロール"
+msgstr "筆刷控制"
+
+#. L10N group=12 idx=28
+msgid "ナビゲーター"
+msgstr "導覽器"
+
+#. L10N group=12 idx=29
+msgid "ブラシプレビュー"
+msgstr "筆刷預覽"
+
+#. L10N group=12 idx=30
+msgid "カラーパレット"
+msgstr "色票"
+
+#. L10N group=12 idx=31
+msgid "ブラシサイズ"
+msgstr "筆刷大小"
+
+#. L10N group=12 idx=32
+msgid "カラーヒストリー"
+msgstr "顏色紀錄"
+
+#. L10N group=12 idx=33
+msgid "(反転)"
+msgstr "（反轉）"
+
+#. L10N group=12 idx=34
+msgid "ファイルが存在しません"
+msgstr "檔案不存在"
+
+#. L10N group=12 idx=35
+msgid "既に開いていますが、続行しますか？"
+msgstr "該檔案已開啟，仍要繼續嗎？"
+
+#. L10N group=12 idx=36
+msgid "消失点スナップ"
+msgstr "消失點貼齊"
+
+#. L10N group=12 idx=37
+msgid "画像を開く"
+msgstr "開啟影像"
+
+#. L10N group=12 idx=38
+msgid "同心円スナップ"
+msgstr "同心圓貼齊"
+
+#. L10N group=12 idx=39
+msgid "曲線スナップ"
+msgstr "曲線貼齊"
+
+#. L10N group=12 idx=40
+msgid "ウィンドウ位置を初期化しますか？"
+msgstr "要初始化視窗位置嗎？"
+
+#. L10N group=12 idx=41
+msgid "取り消し"
+msgstr "復原"
+
+#. L10N group=12 idx=42
+msgid "やり直し"
+msgstr "重做"
+
+#. L10N group=12 idx=43
+msgid "スナップ"
+msgstr "貼齊"
+
+#. L10N group=12 idx=44
+msgid "言語を切り替えるため、アプリケーションを一旦終了します。終了後、アプリケーションを立ち上げ直してください。"
+msgstr "為切換語言，應用程式將結束。結束後請重新啟動應用程式。"
+
+#. L10N group=12 idx=45
+msgid "読み込みに失敗しました"
+msgstr "載入失敗"
+
+#. L10N group=12 idx=46
+msgid "閾値"
+msgstr "臨界值"
+
+#. L10N group=12 idx=47
+msgid "プリンタの取得に失敗しました"
+msgstr "取得印表機失敗"
+
+#. L10N group=12 idx=48
+msgid "クリック位置のレイヤーを選択"
+msgstr "選取點擊位置的圖層"
+
+#. L10N group=12 idx=49
+msgid "平行"
+msgstr "平行"
+
+#. L10N group=12 idx=50
+msgid "同心円"
+msgstr "同心圓"
+
+#. L10N group=12 idx=51
+msgid "操作ツール"
+msgstr "操作工具"
+
+#. L10N group=12 idx=52
+msgid "コマ分割ツール"
+msgstr "分格工具"
+
+#. L10N group=12 idx=53
+msgid "左右の間隔"
+msgstr "左右間距"
+
+#. L10N group=12 idx=54
+msgid "上下の間隔"
+msgstr "上下間距"
+
+#. L10N group=12 idx=55
+msgid "コマ素材の追加"
+msgstr "加入分格素材"
+
+#. L10N group=12 idx=56
+msgid "中央から選択"
+msgstr "從中心選取"
+
+#. L10N group=12 idx=57
+msgid "縦横比を固定"
+msgstr "固定縱橫比"
+
+#. L10N group=12 idx=58
+msgid "ショートカットを反映するため、アプリケーションを一旦終了します。終了後、アプリケーションを立ち上げ直してください。"
+msgstr "為套用快速鍵，應用程式將結束。結束後請重新啟動應用程式。"
+
+#. L10N group=12 idx=59
+msgid "ブラシサイズを大きく"
+msgstr "加大筆刷大小"
+
+#. L10N group=12 idx=60
+msgid "ブラシサイズを小さく"
+msgstr "縮小筆刷大小"
+
+#. L10N group=12 idx=61
+msgid "無効なMDPファイルです。"
+msgstr "無效的MDP檔案。"
+
+#. L10N group=12 idx=62
+msgid "%1 は正しい形式のMDPファイルではないため開けません。"
+msgstr "%1 不是正確格式的MDP檔案，無法開啟。"
+
+#. L10N group=12 idx=63
+msgid "ファイルが既に存在します"
+msgstr "檔案已存在"
+
+#. L10N group=12 idx=64
+msgid "アニメGIF変換サービス 「アルパカ動画」 をブラウザで開きますか？"
+msgstr "要在瀏覽器中開啟動畫GIF轉換服務「Alpaca影片」嗎？"
+
+#. L10N group=12 idx=65
+msgid "背景を透過させますか？"
+msgstr "要使背景透明嗎？"
+
+#. L10N group=12 idx=66
+msgid "フォルダを作成しますか？"
+msgstr "要建立資料夾嗎？"
+
+#. L10N group=12 idx=67
+msgid "グリッドスナップ"
+msgstr "格線貼齊"
+
+#. L10N group=12 idx=68
+msgid "ガイドスナップ"
+msgstr "參考線貼齊"
+
+#. L10N group=12 idx=69
+msgid "コマ分割"
+msgstr "分格"
+
+#. L10N group=12 idx=70
+msgid "フリーハンド"
+msgstr "手繪"
+
+#. L10N group=12 idx=71
+msgid "折れ線"
+msgstr "折線"
+
+#. L10N group=12 idx=72
+msgid "図形"
+msgstr "圖形"
+
+#. L10N group=12 idx=73
+msgid "正円"
+msgstr "正圓"
+
+#. L10N group=12 idx=74
+msgid "3Dパース スナップ"
+msgstr "3D透視貼齊"
+
+#. L10N group=12 idx=75
+msgid "フィルター処理中に別のファイルを開くことはできません。"
+msgstr "濾鏡處理中無法開啟其他檔案。"
+
+#. L10N group=12 idx=76
+msgid "グリッドにスナップ"
+msgstr "貼齊格線"
+
+#. L10N group=12 idx=77
+msgid "レイヤーカラーを無視"
+msgstr "忽略圖層顏色"
+
+#. L10N group=12 idx=78
+msgid "下書きレイヤーを無視"
+msgstr "忽略草稿圖層"
+
+#. L10N group=12 idx=79
+msgid "平均化"
+msgstr "平均化"
+
+#. L10N group=12 idx=80
+msgid "3 * 3 px 平均"
+msgstr "3 * 3 px 平均"
+
+#. L10N group=12 idx=81
+msgid "5 * 5 px 平均"
+msgstr "5 * 5 px 平均"
+
+#. L10N group=12 idx=82
+msgid "自動保存されている画像を復旧しますか？"
+msgstr "要復原自動儲存的影像嗎？"
+
+#. L10N group=12 idx=83
+msgid "編集中のキャンバスを復元しました"
+msgstr "已還原編輯中的畫布"
+
+#. L10N group=12 idx=84
+msgid "pixiv Sketch への投稿に失敗しました"
+msgstr "投稿至pixiv Sketch失敗"
+
+#. L10N group=12 idx=85
+msgid "角を丸める"
+msgstr "圓角"
+
+#. L10N group=12 idx=86
+msgid "角を丸め、太さを維持する"
+msgstr "圓角並保持粗細"
+
+#. L10N group=12 idx=87
+msgid "隙間を塞ぐ"
+msgstr "填補空隙"
+
+#. L10N group=12 idx=88
+msgid "許容値"
+msgstr "容差"
+
+#. L10N group=12 idx=89
+msgid "透明〜前景色"
+msgstr "透明～前景色"
+
+#. L10N group=12 idx=90
+msgid "カスタム"
+msgstr "自訂"
+
+#. L10N group=12 idx=91
+msgid "バケツ消し"
+msgstr "油漆桶擦除"
+
+#. L10N group=12 idx=92
+msgid "ドラッグごとに位置を確定"
+msgstr "每次拖曳確定位置"
+
+#. L10N group=12 idx=93
+msgid "位置を確定"
+msgstr "確定位置"
+
+#. L10N group=12 idx=94
+msgid "両端の筆圧をゼロにする"
+msgstr "兩端筆壓設為零"
+
+#. L10N group=12 idx=95
+msgid "レイヤーを左に 1px 移動"
+msgstr "將圖層向左移動1px"
+
+#. L10N group=12 idx=96
+msgid "レイヤーを上に 1px 移動"
+msgstr "將圖層向上移動1px"
+
+#. L10N group=12 idx=97
+msgid "レイヤーを下に 1px 移動"
+msgstr "將圖層向下移動1px"
+
+#. L10N group=12 idx=98
+msgid "レイヤーを右に 1px 移動"
+msgstr "將圖層向右移動1px"
+
+#. L10N group=12 idx=99
+msgid "移動量を指定"
+msgstr "指定移動量"
+
+#. L10N group=12 idx=100
+msgid "パレットファイルの読み込み"
+msgstr "載入色票檔案"
+
+#. L10N group=12 idx=101
+msgid "パレットファイルの保存"
+msgstr "儲存色票檔案"
+
+#. L10N group=12 idx=102
+msgid "FireAlpacaパレット (*.fap);;FireAlpacaパレット (*.fap)"
+msgstr "FireAlpaca色票（*.fap）;;FireAlpaca色票（*.fap）"
+
+#. L10N group=12 idx=103
+msgid "ACOファイルのインポート"
+msgstr "匯入ACO檔案"
+
+#. L10N group=12 idx=104
+msgid "ACOファイルのエクスポート"
+msgstr "匯出ACO檔案"
+
+#. L10N group=12 idx=105
+msgid "ACO カラーパレット (*.aco);;ACO カラーパレット (*.aco)"
+msgstr "ACO色票（*.aco）;;ACO色票（*.aco）"
+
+#. L10N group=12 idx=106
+msgid "変形"
+msgstr "變形"
+
+#. L10N group=12 idx=107
+msgid "自由変形"
+msgstr "自由變形"
+
+#. L10N group=12 idx=108
+msgid "メッシュ変形"
+msgstr "網格變形"
+
+#. L10N group=12 idx=109
+msgid "上下対称"
+msgstr "上下對稱"
+
+#. L10N group=12 idx=110
+msgid "タイル"
+msgstr "拼貼"
+
+#. L10N group=12 idx=111
+msgid "対称"
+msgstr "對稱"
+
+#. L10N group=12 idx=112
+msgid " (ハーフドロップ)"
+msgstr "（半降）"
+
+#. L10N group=12 idx=113
+msgid "中心を指定"
+msgstr "指定中心"
+
+#. L10N group=12 idx=114
+msgid "投げなわ塗りツール"
+msgstr "套索填滿工具"
+
+#. L10N group=12 idx=115
+msgid "閉領域"
+msgstr "封閉區域"
+
+#. L10N group=12 idx=116
+msgid "透明部と白"
+msgstr "透明區域與白色"
+
+#. L10N group=12 idx=117
+msgid "透明部"
+msgstr "透明區域"
+
+#. L10N group=12 idx=118
+msgid "全て"
+msgstr "全部"
+
+#. L10N group=12 idx=119
+msgid "狭い領域は塗らない"
+msgstr "不填滿狹小區域"
+
+#. L10N group=12 idx=120
+msgid "新規"
+msgstr "新增"
+
+#. L10N group=12 idx=121
+msgid "共通部"
+msgstr "共通部分"
+
+#. L10N group=12 idx=122
+msgid "ストロークごとに確定"
+msgstr "每個筆畫確定"
+
+#. L10N group=12 idx=123
+msgid "確定"
+msgstr "確定"
+
+#. L10N group=12 idx=124
+msgid "押す"
+msgstr "按住"
+
+#. L10N group=12 idx=125
+msgid "右回転"
+msgstr "向右旋轉"
+
+#. L10N group=12 idx=126
+msgid "左回転"
+msgstr "向左旋轉"
+
+#. L10N group=12 idx=127
+msgid "歪みブラシツール"
+msgstr "扭曲筆刷工具"
+
+#. L10N group=12 idx=128
+msgid "前回の復旧に失敗したため、復旧処理をスキップしました"
+msgstr "上次復原失敗，已跳過復原處理"
+
+#. L10N group=12 idx=129
+msgid "フレーム内のレイヤーを選択 (アニメーションモード)"
+msgstr "選取影格內的圖層（動畫模式）"
+
+#. L10N group=12 idx=130
+msgid "透明色をスポイトする"
+msgstr "吸取透明色"
+
+#. L10N group=12 idx=131
+msgid "スーパー楕円"
+msgstr "超級橢圓"
+
+#. L10N group=12 idx=132
+msgid "閉じた曲線"
+msgstr "封閉曲線"
+
+#. L10N group=12 idx=133
+msgid "旧バージョンの設定を引き継ぎますか？"
+msgstr "要沿用舊版本的設定嗎？"
+
+#. L10N group=12 idx=134
+msgid "設定ファイルをバックアップしました。バックアップしたフォルダを開きますか？"
+msgstr "已備份設定檔。要開啟備份資料夾嗎？"
+
+#. L10N group=12 idx=135
+msgid "ブラシ、カラー、グラデーション、ショートカット設定をバックアップしますか？"
+msgstr "要備份筆刷、顏色、漸層與快捷鍵設定嗎？"
+
+#. L10N group=12 idx=136
+msgid "現在の設定は破棄されますが、宜しいですか？"
+msgstr "目前設定將被捨棄，確定嗎？"
+
+#. L10N group=12 idx=137
+msgid "頂点・オブジェクトを選択"
+msgstr "選取頂點·物件"
+
+#. L10N group=12 idx=138
+msgid "レイヤーを選択"
+msgstr "選取圖層"
+
+#. L10N group=12 idx=139
+msgid "全ての形式"
+msgstr "所有格式"
+
+#. L10N group=12 idx=140
+msgid "FireAlpaca SE プロジェクト"
+msgstr "FireAlpaca SE 專案"
+
+#. L10N group=12 idx=141
+msgid "キャンバス"
+msgstr "畫布"
+
+#. L10N group=12 idx=142
+msgid "アクティブレイヤー"
+msgstr "作用中圖層"
+
+#. L10N group=12 idx=143
+msgid "指定レイヤー"
+msgstr "指定圖層"
+
+#. L10N group=12 idx=144
+msgid "ドラッグ時にもスポイト"
+msgstr "拖曳時也可吸取顏色"
+
+#. L10N group=12 idx=145
+msgid "本当にレイヤーを削除しますか？"
+msgstr "確定要刪除圖層嗎？"
+
+#. L10N group=12 idx=146
+msgid "環境設定から確認なしに削除するよう設定できます"
+msgstr "可在環境設定中設定刪除時不確認"
+
+#. L10N group=12 idx=147
+msgid "メモリ消費量が半分になりますが、色精度が低下します。宜しいですか？"
+msgstr "記憶體消耗減半，但顏色精度會降低。確定嗎？"
+
+#. L10N group=12 idx=148
+msgid "色精度が向上し編集時の劣化が軽減しますが、メモリ使用量が倍になります。宜しいですか？"
+msgstr "顏色精度提高，編輯時的畫質損失減少，但記憶體使用量會加倍。確定嗎？"
+
+#. L10N group=12 idx=149
+msgid "既存のレイヤーを 8bit/ch に変換しますか？"
+msgstr "要將現有圖層轉換為 8bit/ch 嗎？"
+
+#. L10N group=12 idx=150
+msgid "既存のレイヤーを 16bit/ch に変換しますか？"
+msgstr "要將現有圖層轉換為 16bit/ch 嗎？"
+
+#. L10N group=12 idx=151
+msgid "上級者向けの設定ですが、本当に有効にしますか？"
+msgstr "這是進階使用者的設定，確定要啟用嗎？"
+
+#. L10N group=12 idx=152
+msgid "MFG アーカイブ形式(*.mar)"
+msgstr "MFG 封存格式（*.mar）"
+
+#. L10N group=12 idx=153
+msgid "MARファイルの読み込み"
+msgstr "載入MAR檔案"
+
+#. L10N group=12 idx=154
+msgid "MARが壊れています: "
+msgstr "MAR 檔案已損壞："
+
+#. L10N group=12 idx=155
+msgid "ファイルのコピーに失敗しました: "
+msgstr "複製檔案失敗："
+
+#. L10N group=12 idx=156
+msgid "%1 個のフィルタをインポートしました"
+msgstr "已匯入 %1 個濾鏡"
+
+#. L10N group=12 idx=157
+msgid "処理が長くかかっています…"
+msgstr "處理時間較長…"
+
+#. L10N group=12 idx=158
+msgid "処理に失敗しました。メインメモリが不足している可能性が高いです。"
+msgstr "處理失敗。主記憶體很可能不足。"
+
+#. L10N group=12 idx=159
+msgid "QImageを利用した画像ファイルの読み込みに失敗しました"
+msgstr "使用QImage載入影像檔案失敗"
+
+#. L10N group=12 idx=160
+msgid "笔刷工具"
+msgstr "筆刷工具"
+
+#. L10N group=12 idx=161
+msgid "点刷工具"
+msgstr "點繪工具"
+
+#. L10N group=12 idx=162
+msgid "橡皮擦工具"
+msgstr "橡皮擦工具"
+
+#. L10N group=12 idx=163
+msgid "油漆桶工具"
+msgstr "油漆桶工具"
+
+#. L10N group=12 idx=164
+msgid "渐层工具"
+msgstr "漸層工具"
+
+#. L10N group=12 idx=165
+msgid "填充工具"
+msgstr "填滿工具"
+
+#. L10N group=12 idx=166
+msgid "自动选择工具"
+msgstr "自動選取工具"
+
+#. L10N group=12 idx=167
+msgid "选择笔工具"
+msgstr "選取畫筆工具"
+
+#. L10N group=12 idx=168
+msgid "选择消除工具"
+msgstr "選取橡皮擦工具"
+
+#. L10N group=12 idx=169
+msgid "文本工具"
+msgstr "文字工具"
+
+#. L10N group=12 idx=170
+msgid "吸管工具"
+msgstr "滴管工具"
+
+#. L10N group=12 idx=171
+msgid "手掌工具"
+msgstr "手掌工具"
+
+#. L10N group=12 idx=172
+msgid "停止辅助"
+msgstr "關閉貼齊"
+
+#. L10N group=12 idx=173
+msgid "平行辅助"
+msgstr "平行貼齊"
+
+#. L10N group=12 idx=174
+msgid "十字辅助"
+msgstr "十字貼齊"
+
+#. L10N group=12 idx=175
+msgid "射線辅助"
+msgstr "集中線貼齊"
+
+#. L10N group=12 idx=176
+msgid "辅助设定"
+msgstr "貼齊設定"
+
+#. L10N group=12 idx=177
+msgid "圆角"
+msgstr "圓角"
+
+#. L10N group=12 idx=178
+msgid "前景～背景"
+msgstr "前景色～背景色"
+
+#. L10N group=12 idx=179
+msgid "前景"
+msgstr "前景色～透明"
+
+#. L10N group=12 idx=180
+msgid "椭圆"
+msgstr "橢圓"
+
+#. L10N group=12 idx=181
+msgid "套索"
+msgstr "套索"
+
+#. L10N group=12 idx=182
+msgid "颜色"
+msgstr "顏色"
+
+#. L10N group=12 idx=183
+msgid "色板"
+msgstr "色票"
+
+#. L10N group=12 idx=184
+msgid "色彩历史"
+msgstr "顏色紀錄"
+
+#. L10N group=12 idx=185
+msgid "(反转)"
+msgstr "（反轉）"
+
+#. L10N group=12 idx=186
+msgid "档案不存在"
+msgstr "檔案不存在"
+
+#. L10N group=12 idx=187
+msgid "消失点辅助"
+msgstr "消失點貼齊"
+
+#. L10N group=12 idx=188
+msgid "同心圆辅助"
+msgstr "同心圓貼齊"
+
+#. L10N group=12 idx=189
+msgid "曲线辅助"
+msgstr "曲線貼齊"
+
+#. L10N group=12 idx=190
+msgid "初始化窗口位置吗?"
+msgstr "要初始化視窗位置嗎？"
+
+#. L10N group=12 idx=191
+msgid "取消"
+msgstr "復原"
+
+#. L10N group=12 idx=192
+msgid "还原"
+msgstr "重做"
+
+#. L10N group=12 idx=193
+msgid "辅助"
+msgstr "貼齊"
+
+#. L10N group=12 idx=194
+msgid "为了转换语言，需先关闭应用软件。结束后，请重新启动应用软件。"
+msgstr "為切換語言，應用程式將結束。結束後請重新啟動應用程式。"
+
+#. L10N group=12 idx=195
+msgid "阈值"
+msgstr "臨界值"
+
+#. L10N group=12 idx=196
+msgid "无法连接至打印机。"
+msgstr "取得印表機失敗"
+
+#. L10N group=12 idx=197
+msgid "选择点击位置的图层"
+msgstr "選取點擊位置的圖層"
+
+#. L10N group=12 idx=198
+msgid "同心圆"
+msgstr "同心圓"
+
+#. L10N group=12 idx=199
+msgid "操作工具"
+msgstr "操作工具"
+
+#. L10N group=12 idx=200
+msgid "分割工具"
+msgstr "分格工具"
+
+#. L10N group=12 idx=201
+msgid "左右间隔"
+msgstr "左右間距"
+
+#. L10N group=12 idx=202
+msgid "上下间隔"
+msgstr "上下間距"
+
+#. L10N group=12 idx=203
+msgid "添加框格素材"
+msgstr "加入分格素材"
+
+#. L10N group=12 idx=204
+msgid "无效的MDP文件。"
+msgstr "無效的MDP檔案。"
+
+#. L10N group=12 idx=205
+msgid "%1 因不是正确的MDP文件形式，无法打开。"
+msgstr "%1 不是正確格式的MDP檔案，無法開啟。"
+
+#. L10N group=12 idx=206
+msgid "文件已存在"
+msgstr "檔案已存在"
+
+#. L10N group=12 idx=207
+msgid "网格辅助"
+msgstr "格線貼齊"
+
+#. L10N group=12 idx=208
+msgid "辅助线吸附"
+msgstr "參考線貼齊"
+
+#. L10N group=12 idx=209
+msgid "框格分割"
+msgstr "分格"
+
+#. L10N group=12 idx=210
+msgid "正圆"
+msgstr "正圓"
+
+#. L10N group=12 idx=211
+msgid "3D视角辅助"
+msgstr "3D透視貼齊"
+
+#. L10N group=12 idx=212
+msgid "辅助网格"
+msgstr "貼齊格線"
+
+#. L10N group=12 idx=213
+msgid "无视彩色图层"
+msgstr "忽略圖層顏色"
+
+#. L10N group=12 idx=214
+msgid "修至圆角"
+msgstr "圓角"
+
+#. L10N group=12 idx=215
+msgid "填满间隙"
+msgstr "填補空隙"
+
+#. L10N group=12 idx=216
+msgid "容许值"
+msgstr "容差"
+
+#. L10N group=12 idx=217
+msgid "客制化"
+msgstr "自訂"
+
+#. L10N group=12 idx=218
+msgid "消除油漆桶"
+msgstr "油漆桶擦除"
+
+#. L10N group=12 idx=219
+msgid "确定位置"
+msgstr "確定位置"
+
+#. L10N group=12 idx=220
+msgid "载入色板档案"
+msgstr "載入色票檔案"
+
+#. L10N group=12 idx=221
+msgid "储存色板档案"
+msgstr "儲存色票檔案"
+
+#. L10N group=12 idx=222
+msgid "FireAlpaca色板 (*.fap);;FireAlpaca色板 (*.fap)"
+msgstr "FireAlpaca色票（*.fap）;;FireAlpaca色票（*.fap）"
+
+#. L10N group=12 idx=223
+msgid "载入ACO档案"
+msgstr "匯入ACO檔案"
+
+#. L10N group=12 idx=224
+msgid "输出ACO档案"
+msgstr "匯出ACO檔案"
+
+#. L10N group=12 idx=225
+msgid "ACO色彩色板(*.aco);;ACO色板 (*.aco)"
+msgstr "ACO色票（*.aco）;;ACO色票（*.aco）"
+
+#. L10N group=12 idx=226
+msgid "瓷砖"
+msgstr "拼貼"
+
+#. L10N group=12 idx=227
+msgid "(半滴)"
+msgstr "（半降）"
+
+#. L10N group=12 idx=228
+msgid "套索上色工具"
+msgstr "套索填滿工具"
+
+#. L10N group=12 idx=229
+msgid "透明和白色"
+msgstr "透明區域與白色"
+
+#. L10N group=12 idx=230
+msgid "透明"
+msgstr "透明區域"
+
+#. L10N group=12 idx=231
+msgid "全部"
+msgstr "全部"
+
+#. L10N group=12 idx=232
+msgid "狭窄区间不上色"
+msgstr "不填滿狹小區域"
+
+#. L10N group=12 idx=233
+msgid "共通"
+msgstr "共通部分"
+
+#. L10N group=12 idx=234
+msgid "确定"
+msgstr "確定"
+
+#. L10N group=12 idx=235
+msgid "膨胀"
+msgstr "按住"
+
+#. L10N group=12 idx=236
+msgid "向右旋转"
+msgstr "向右旋轉"
+
+#. L10N group=12 idx=237
+msgid "向左旋转"
+msgstr "向左旋轉"
+
+#. L10N group=12 idx=238
+msgid "变形工具"
+msgstr "扭曲筆刷工具"
+
+#. L10N group=12 idx=239
+msgid "用于透明色的滴管"
+msgstr "吸取透明色"
+
+#. L10N group=12 idx=240
+msgid "是否要继承旧版本的设置？"
+msgstr "要沿用舊版本的設定嗎？"
+
+#. L10N group=12 idx=241
+msgid "已备份配置文件。要打开备份文件夹吗？"
+msgstr "已備份設定檔。要開啟備份資料夾嗎？"
+
+#. L10N group=12 idx=242
+msgid "是否要备份画笔、颜色、渐变和快捷键设置？"
+msgstr "要備份筆刷、顏色、漸層與快捷鍵設定嗎？"
+
+#. L10N group=12 idx=243
+msgid "当前的设置将被丢弃，是否继续？"
+msgstr "目前設定將被捨棄，確定嗎？"
+
+#. L10N group=12 idx=244
+msgid "所有形式"
+msgstr "所有格式"
+
+#. L10N group=12 idx=245
+msgid "FireAlpaca SE 项目"
+msgstr "FireAlpaca SE 專案"
+
+#. L10N group=12 idx=246
+msgid "拖拽时也可使用吸管工具"
+msgstr "拖曳時也可吸取顏色"
+
+#. L10N group=12 idx=247
+msgid "您可以在首选项中设置为删除时不再确认。"
+msgstr "可在環境設定中設定刪除時不確認"
+
+#. L10N group=12 idx=248
+msgid "内存消耗减少一半，但颜色精度会降低。确定吗？"
+msgstr "記憶體消耗減半，但顏色精度會降低。確定嗎？"
+
+#. L10N group=12 idx=249
+msgid "颜色精度提高，编辑时的损耗减少，但内存使用量会加倍。确定吗？"
+msgstr "顏色精度提高，編輯時的畫質損失減少，但記憶體使用量會加倍。確定嗎？"
+
+#. L10N group=12 idx=250
+msgid "这是高级设置，确定要启用吗？"
+msgstr "這是進階使用者的設定，確定要啟用嗎？"
+
+#. L10N group=12 idx=251
+msgid "MFG 存档格式（*.mar）"
+msgstr "MFG 封存格式（*.mar）"
+
+#. L10N group=12 idx=252
+msgid "读取 MAR 文件"
+msgstr "載入MAR檔案"
+
+#. L10N group=12 idx=253
+msgid "MAR 文件已损坏: "
+msgstr "MAR 檔案已損壞："
+
+#. L10N group=12 idx=254
+msgid "复制文件失败: "
+msgstr "複製檔案失敗："
+
+#. L10N group=12 idx=255
+msgid "筆刷工具"
+msgstr "筆刷工具"
+
+#. L10N group=12 idx=256
+msgid "點刷工具"
+msgstr "點繪工具"
+
+#. L10N group=12 idx=257
+msgid "漸層工具"
+msgstr "漸層工具"
+
+#. L10N group=12 idx=258
+msgid "魔術棒工具"
+msgstr "自動選取工具"
+
+#. L10N group=12 idx=259
+msgid "選擇筆工具"
+msgstr "選取畫筆工具"
+
+#. L10N group=12 idx=260
+msgid "選擇消除工具"
+msgstr "選取橡皮擦工具"
+
+#. L10N group=12 idx=261
+msgid "滴管工具"
+msgstr "滴管工具"
+
+#. L10N group=12 idx=262
+msgid "停止輔助"
+msgstr "關閉貼齊"
+
+#. L10N group=12 idx=263
+msgid "平行輔助"
+msgstr "平行貼齊"
+
+#. L10N group=12 idx=264
+msgid "十字輔助"
+msgstr "十字貼齊"
+
+#. L10N group=12 idx=265
+msgid "集中線輔助"
+msgstr "集中線貼齊"
+
+#. L10N group=12 idx=266
+msgid "輔助設定"
+msgstr "貼齊設定"
+
+#. L10N group=12 idx=267
+msgid "圓角"
+msgstr "圓角"
+
+#. L10N group=12 idx=268
+msgid "楕圓"
+msgstr "橢圓"
+
+#. L10N group=12 idx=269
+msgid "色彩歷史"
+msgstr "顏色紀錄"
+
+#. L10N group=12 idx=270
+msgid "(反轉)"
+msgstr "（反轉）"
+
+#. L10N group=12 idx=271
+msgid "檔案不存在"
+msgstr "檔案不存在"
+
+#. L10N group=12 idx=272
+msgid "消失點輔助"
+msgstr "消失點貼齊"
+
+#. L10N group=12 idx=273
+msgid "同心圓輔助"
+msgstr "同心圓貼齊"
+
+#. L10N group=12 idx=274
+msgid "曲線輔助"
+msgstr "曲線貼齊"
+
+#. L10N group=12 idx=275
+msgid "確定要初始化視窗位置嗎？"
+msgstr "要初始化視窗位置嗎？"
+
+#. L10N group=12 idx=276
+msgid "輔助"
+msgstr "貼齊"
+
+#. L10N group=12 idx=277
+msgid "閾值"
+msgstr "臨界值"
+
+#. L10N group=12 idx=278
+msgid "同心圓"
+msgstr "同心圓"
+
+#. L10N group=12 idx=279
+msgid "左右間距"
+msgstr "左右間距"
+
+#. L10N group=12 idx=280
+msgid "上下間距"
+msgstr "上下間距"
+
+#. L10N group=12 idx=281
+msgid "檔案已存在"
+msgstr "檔案已存在"
+
+#. L10N group=12 idx=282
+msgid "網格輔助"
+msgstr "格線貼齊"
+
+#. L10N group=12 idx=283
+msgid "輔助線吸附"
+msgstr "參考線貼齊"
+
+#. L10N group=12 idx=284
+msgid "正圓"
+msgstr "正圓"
+
+#. L10N group=12 idx=285
+msgid "3D視角輔助"
+msgstr "3D透視貼齊"
+
+#. L10N group=12 idx=286
+msgid "輔助網格"
+msgstr "貼齊格線"
+
+#. L10N group=12 idx=287
+msgid "無視彩色圖層"
+msgstr "忽略圖層顏色"
+
+#. L10N group=12 idx=288
+msgid "修至圓角"
+msgstr "圓角"
+
+#. L10N group=12 idx=289
+msgid "填滿間隙"
+msgstr "填補空隙"
+
+#. L10N group=12 idx=290
+msgid "容許值"
+msgstr "容差"
+
+#. L10N group=12 idx=291
+msgid "客製化"
+msgstr "自訂"
+
+#. L10N group=12 idx=292
+msgid "確定位置"
+msgstr "確定位置"
+
+#. L10N group=12 idx=293
+msgid "載入色板檔案"
+msgstr "載入色票檔案"
+
+#. L10N group=12 idx=294
+msgid "儲存色板檔案"
+msgstr "儲存色票檔案"
+
+#. L10N group=12 idx=295
+msgid "載入ACO檔案"
+msgstr "匯入ACO檔案"
+
+#. L10N group=12 idx=296
+msgid "輸出ACO檔案"
+msgstr "匯出ACO檔案"
+
+#. L10N group=12 idx=297
+msgid "磁磚"
+msgstr "拼貼"
+
+#. L10N group=12 idx=298
+msgid " (半滴)"
+msgstr "（半降）"
+
+#. L10N group=12 idx=299
+msgid "狹窄區間不上色"
+msgstr "不填滿狹小區域"
+
+#. L10N group=12 idx=300
+msgid "膨脹"
+msgstr "按住"
+
+#. L10N group=12 idx=301
+msgid "向右旋轉"
+msgstr "向右旋轉"
+
+#. L10N group=12 idx=302
+msgid "向左旋轉"
+msgstr "向左旋轉"
+
+#. L10N group=12 idx=303
+msgid "變形工具"
+msgstr "扭曲筆刷工具"
+
+#. L10N group=12 idx=304
+msgid "用於透明色的滴管"
+msgstr "吸取透明色"
+
+#. L10N group=12 idx=305
+msgid "是否要備份筆刷、顏色、漸層與快捷鍵設定？"
+msgstr "要備份筆刷、顏色、漸層與快捷鍵設定嗎？"
+
+#. L10N group=12 idx=306
+msgid "選擇頂點/物件"
+msgstr "選取頂點·物件"
+
+#. L10N group=12 idx=307
+msgid "FireAlpaca SE 專案"
+msgstr "FireAlpaca SE 專案"
+
+#. L10N group=12 idx=308
+msgid "拖曳時也可使用滴管工具"
+msgstr "拖曳時也可吸取顏色"
+
+#. L10N group=12 idx=309
+msgid "記憶體消耗減少一半，但顏色精度會降低。確定嗎？"
+msgstr "記憶體消耗減半，但顏色精度會降低。確定嗎？"
+
+#. L10N group=12 idx=310
+msgid "顏色精度提高，編輯時的損耗減少，但記憶體使用量會加倍。確定嗎？"
+msgstr "顏色精度提高，編輯時的畫質損失減少，但記憶體使用量會加倍。確定嗎？"
+
+#. L10N group=12 idx=311
+msgid "MFG 封存格式（*.mar）"
+msgstr "MFG 封存格式（*.mar）"
+
+#. L10N group=13 idx=0
+msgid "コマの分割"
+msgstr "分格"
+
+#. L10N group=13 idx=1
+msgid "縦方向の分割数"
+msgstr "縱向分割數"
+
+#. L10N group=13 idx=2
+msgid "横方向の分割数"
+msgstr "橫向分割數"
+
+#. L10N group=13 idx=3
+msgid "コマのプロパティ"
+msgstr "分格屬性"
+
+#. L10N group=13 idx=4
+msgid "線の幅"
+msgstr "線寬"
+
+#. L10N group=13 idx=5
+msgid "線の色"
+msgstr "線的顏色"
+
+#. L10N group=13 idx=6
+msgid "未指定"
+msgstr "未指定"
+
+#. L10N group=13 idx=7
+msgid "外枠"
+msgstr "外框"
+
+#. L10N group=13 idx=8
+msgid "横向分割术"
+msgstr "橫向分割數"
+
+#. L10N group=13 idx=9
+msgid "线的颜色"
+msgstr "線的顏色"
+
+#. L10N group=13 idx=10
+msgid "橫向分割術"
+msgstr "橫向分割數"
+
+#. L10N group=13 idx=11
+msgid "線的顏色"
+msgstr "線的顏色"
+
+#. L10N group=13 idx=12
+msgid "アニメーション(&A)"
+msgstr "動畫(&A)"
+
+#. L10N group=13 idx=13
+msgid "アニメーションモード(&A)"
+msgstr "動畫模式(&A)"
+
+#. L10N group=13 idx=14
+msgid "次の (上の) フレームを選択"
+msgstr "選取下一個（上方）影格"
+
+#. L10N group=13 idx=15
+msgid "前の (下の) フレームを選択"
+msgstr "選取上一個（下方）影格"
+
+#. L10N group=13 idx=16
+msgid "最初のフレームは常に表示する"
+msgstr "永遠顯示第一個影格"
+
+#. L10N group=13 idx=17
+msgid "前後のフレームを表示する (オニオンスキン)"
+msgstr "顯示前後影格（洋蔥皮）"
+
+#. L10N group=13 idx=18
+msgid "前後のフレームをループ表示する (オニオンスキン)"
+msgstr "循環顯示前後影格（洋蔥皮）"
+
+#. L10N group=13 idx=19
+msgid "オニオンスキン設定..."
+msgstr "洋蔥皮設定..."
+
+#. L10N group=13 idx=20
+msgid "輝度で合成 (オニオンスキン)"
+msgstr "依亮度合成（洋蔥皮）"
+
+#. L10N group=13 idx=21
+msgid "不透明度で合成 (オニオンスキン)"
+msgstr "依不透明度合成（洋蔥皮）"
+
+#. L10N group=13 idx=22
+msgid "オニオンスキンの表示枚数"
+msgstr "洋蔥皮顯示張數"
+
+#. L10N group=13 idx=23
+msgid "1 フレーム"
+msgstr "1 影格"
+
+#. L10N group=13 idx=24
+msgid "2 フレーム"
+msgstr "2 影格"
+
+#. L10N group=13 idx=25
+msgid "3 フレーム"
+msgstr "3 影格"
+
+#. L10N group=13 idx=26
+msgid "カラー合成 (オニオンスキン)"
+msgstr "彩色合成（洋蔥皮）"
+
+#. L10N group=13 idx=27
+msgid "オニオンスキンを最初に合成する"
+msgstr "洋蔥皮最先合成"
+
+#. L10N group=13 idx=28
+msgid "オニオンスキンを最後に合成する"
+msgstr "洋蔥皮最後合成"
+
+#. L10N group=13 idx=29
+msgid "用明亮度合成 (洋葱皮功能)"
+msgstr "依亮度合成（洋蔥皮）"
+
+#. L10N group=13 idx=30
+msgid "不透明度合成 (洋葱皮功能)"
+msgstr "依不透明度合成（洋蔥皮）"
+
+#. L10N group=13 idx=31
+msgid "用明亮度合成 (洋蔥皮功能)"
+msgstr "依亮度合成（洋蔥皮）"
+
+#. L10N group=13 idx=32
+msgid "不透明度合成 (洋蔥皮功能))"
+msgstr "依不透明度合成（洋蔥皮）"
+
+#. L10N group=14 idx=0
+msgid "カラー(&C)"
+msgstr "顏色(&C)"
+
+#. L10N group=14 idx=1
+msgid "前景色・背景色入れ替え(&S)"
+msgstr "交換前景色與背景色(&S)"
+
+#. L10N group=14 idx=2
+msgid "初期化(&I)"
+msgstr "初始化(&I)"
+
+#. L10N group=14 idx=3
+msgid "色相バー(&B)"
+msgstr "色相條(&B)"
+
+#. L10N group=14 idx=4
+msgid "色相環(&W)"
+msgstr "色相環(&W)"
+
+#. L10N group=14 idx=5
+msgid "透明色(&A)"
+msgstr "透明色(&A)"
+
+#. L10N group=14 idx=6
+msgid "パレットのロック(&L)"
+msgstr "鎖定色票(&L)"
+
+#. L10N group=14 idx=7
+msgid "グループ内のパレットを全てクリア(&G)..."
+msgstr "清除群組內所有色票(&G)..."
+
+#. L10N group=14 idx=8
+msgid "パレットを大きく表示(&V)"
+msgstr "放大顯示色票(&V)"
+
+#. L10N group=14 idx=9
+msgid "パレットグループの読み込み(&O)..."
+msgstr "載入色票群組(&O)..."
+
+#. L10N group=14 idx=10
+msgid "パレットグループの書き出し(&S)..."
+msgstr "匯出色票群組(&S)..."
+
+#. L10N group=14 idx=11
+msgid "グラデーション編集..."
+msgstr "漸層編輯..."
+
+#. L10N group=14 idx=12
+msgid "ACO カラーパレットの読み込み..."
+msgstr "載入ACO色票..."
+
+#. L10N group=14 idx=13
+msgid "ACO カラーパレットの書き出し..."
+msgstr "匯出ACO色票..."
+
+#. L10N group=14 idx=14
+msgid "起動時に前景色と背景色を復元"
+msgstr "啟動時還原前景色與背景色"
+
+#. L10N group=14 idx=15
+msgid "選択範囲内の色をパレットに追加"
+msgstr "將選取範圍內的顏色加入色票"
+
+#. L10N group=14 idx=16
+msgid "パレットグループ名の編集..."
+msgstr "編輯色票群組名稱..."
+
+#. L10N group=14 idx=17
+msgid "色相環 (三角形)(&T)"
+msgstr "色相環（三角形）(&T)"
+
+#. L10N group=14 idx=18
+msgid "三角形を固定する"
+msgstr "固定三角形"
+
+#. L10N group=14 idx=19
+msgid "颜色(&C)"
+msgstr "顏色(&C)"
+
+#. L10N group=14 idx=20
+msgid "置换(&S)"
+msgstr "交換前景色與背景色(&S)"
+
+#. L10N group=14 idx=21
+msgid "初始化(&I)"
+msgstr "初始化(&I)"
+
+#. L10N group=14 idx=22
+msgid "色相条(&B)"
+msgstr "色相條(&B)"
+
+#. L10N group=14 idx=23
+msgid "色相环(&W)"
+msgstr "色相環(&W)"
+
+#. L10N group=14 idx=24
+msgid "锁定色板(&L)"
+msgstr "鎖定色票(&L)"
+
+#. L10N group=14 idx=25
+msgid "群组内色板全部清除(&G)..."
+msgstr "清除群組內所有色票(&G)..."
+
+#. L10N group=14 idx=26
+msgid "显示色板大小 (&V)"
+msgstr "放大顯示色票(&V)"
+
+#. L10N group=14 idx=27
+msgid "载入色板群"
+msgstr "載入色票群組(&O)..."
+
+#. L10N group=14 idx=28
+msgid "输出色板群"
+msgstr "匯出色票群組(&S)..."
+
+#. L10N group=14 idx=29
+msgid "载入ACO色彩色板..."
+msgstr "載入ACO色票..."
+
+#. L10N group=14 idx=30
+msgid "输出ACO色彩色板..."
+msgstr "匯出ACO色票..."
+
+#. L10N group=14 idx=31
+msgid "启动时恢复前景色和背景色"
+msgstr "啟動時還原前景色與背景色"
+
+#. L10N group=14 idx=32
+msgid "追加选取范围内的颜色至色板"
+msgstr "將選取範圍內的顏色加入色票"
+
+#. L10N group=14 idx=33
+msgid "色彩(&C)"
+msgstr "顏色(&C)"
+
+#. L10N group=14 idx=34
+msgid "置換(&S)"
+msgstr "交換前景色與背景色(&S)"
+
+#. L10N group=14 idx=35
+msgid "色相條(&B)"
+msgstr "色相條(&B)"
+
+#. L10N group=14 idx=36
+msgid "鎖定色板(&L)"
+msgstr "鎖定色票(&L)"
+
+#. L10N group=14 idx=37
+msgid "群組內色板全部清除(&G)..."
+msgstr "清除群組內所有色票(&G)..."
+
+#. L10N group=14 idx=38
+msgid "顯示色板大小 (&V)"
+msgstr "放大顯示色票(&V)"
+
+#. L10N group=14 idx=39
+msgid "載入色板群"
+msgstr "載入色票群組(&O)..."
+
+#. L10N group=14 idx=40
+msgid "輸出色板群"
+msgstr "匯出色票群組(&S)..."
+
+#. L10N group=14 idx=41
+msgid "載入ACO色彩色板..."
+msgstr "載入ACO色票..."
+
+#. L10N group=14 idx=42
+msgid "輸出ACO色彩色板..."
+msgstr "匯出ACO色票..."
+
+#. L10N group=14 idx=43
+msgid "啟動時恢復前景色和背景色"
+msgstr "啟動時還原前景色與背景色"
+
+#. L10N group=14 idx=44
+msgid "追加選取範圍內的顏色至色板"
+msgstr "將選取範圍內的顏色加入色票"
+
+#. L10N group=15 idx=0
+msgid "取り消し(&Z)"
+msgstr "復原(&Z)"
+
+#. L10N group=15 idx=1
+msgid "やり直し(&Y)"
+msgstr "重做(&Y)"
+
+#. L10N group=15 idx=2
+msgid "切り取り(&T)"
+msgstr "剪下(&T)"
+
+#. L10N group=15 idx=3
+msgid "コピー/レイヤー(&C)"
+msgstr "複製/圖層(&C)"
+
+#. L10N group=15 idx=4
+msgid "貼り付け(&V)"
+msgstr "貼上(&V)"
+
+#. L10N group=15 idx=5
+msgid "トリミング(&M)"
+msgstr "裁切(&M)"
+
+#. L10N group=15 idx=6
+msgid "左回転(&L)"
+msgstr "向左旋轉(&L)"
+
+#. L10N group=15 idx=7
+msgid "右回転(&R)"
+msgstr "向右旋轉(&R)"
+
+#. L10N group=15 idx=8
+msgid "左右反転(&H)"
+msgstr "水平翻轉(&H)"
+
+#. L10N group=15 idx=9
+msgid "キャンバスサイズ(&S)..."
+msgstr "畫布尺寸(&S)..."
+
+#. L10N group=15 idx=10
+msgid "コピー/統合画像(&B)"
+msgstr "複製/合併影像(&B)"
+
+#. L10N group=15 idx=11
+msgid "ガンマを反映してRGB合成"
+msgstr "套用伽瑪進行RGB合成"
+
+#. L10N group=15 idx=12
+msgid "キャンバス拡張..."
+msgstr "擴展畫布..."
+
+#. L10N group=15 idx=13
+msgid "描画時のRGBガンマ合成"
+msgstr "繪製時的RGB伽瑪合成"
+
+#. L10N group=15 idx=14
+msgid "レイヤー合成時のRGBガンマ合成"
+msgstr "圖層合成時的RGB伽瑪合成"
+
+#. L10N group=15 idx=15
+msgid "全てのテキストレイヤーの画像を更新..."
+msgstr "更新所有文字圖層的影像..."
+
+#. L10N group=15 idx=16
+msgid "取消(&Z)"
+msgstr "復原(&Z)"
+
+#. L10N group=15 idx=17
+msgid "还原(&Y)"
+msgstr "重做(&Y)"
+
+#. L10N group=15 idx=18
+msgid "剪切(&T)"
+msgstr "剪下(&T)"
+
+#. L10N group=15 idx=19
+msgid "修整(&M)"
+msgstr "裁切(&M)"
+
+#. L10N group=15 idx=20
+msgid "左旋转(&L)"
+msgstr "向左旋轉(&L)"
+
+#. L10N group=15 idx=21
+msgid "右旋转(&R)"
+msgstr "向右旋轉(&R)"
+
+#. L10N group=15 idx=22
+msgid "左右翻转(&H)"
+msgstr "水平翻轉(&H)"
+
+#. L10N group=15 idx=23
+msgid "還原(&Y)"
+msgstr "重做(&Y)"
+
+#. L10N group=15 idx=24
+msgid "剪下(&T)"
+msgstr "剪下(&T)"
+
+#. L10N group=15 idx=25
+msgid "複製(&C)"
+msgstr "複製/圖層(&C)"
+
+#. L10N group=15 idx=26
+msgid "左旋轉(&L)"
+msgstr "向左旋轉(&L)"
+
+#. L10N group=15 idx=27
+msgid "右旋轉(&R)"
+msgstr "向右旋轉(&R)"
+
+#. L10N group=15 idx=28
+msgid "左右翻轉(&H)"
+msgstr "水平翻轉(&H)"
+
+#. L10N group=15 idx=29
+msgid "依照伽瑪套用進行 RGB 合成"
+msgstr "套用伽瑪進行RGB合成"
+
+#. L10N group=16 idx=0
+msgid "ファイル(&F)"
+msgstr "檔案(&F)"
+
+#. L10N group=16 idx=1
+msgid "新規作成(&N)..."
+msgstr "新增(&N)..."
+
+#. L10N group=16 idx=2
+msgid "クリップボードから新規作成(&V)"
+msgstr "從剪貼簿新增(&V)"
+
+#. L10N group=16 idx=3
+msgid "開く(&O)..."
+msgstr "開啟(&O)..."
+
+#. L10N group=16 idx=4
+msgid "最近使ったファイル(&R)"
+msgstr "最近使用的檔案(&R)"
+
+#. L10N group=16 idx=5
+msgid "保存(&S)"
+msgstr "儲存(&S)"
+
+#. L10N group=16 idx=6
+msgid "名前をつけて保存(&A)..."
+msgstr "另存新檔(&A)..."
+
+#. L10N group=16 idx=7
+msgid "ラスタライズ(&Z)..."
+msgstr "點陣化(&Z)..."
+
+#. L10N group=16 idx=8
+msgid "閉じる(&C)"
+msgstr "關閉(&C)"
+
+#. L10N group=16 idx=9
+msgid "ショートカット設定(&H)..."
+msgstr "快捷鍵設定(&H)..."
+
+#. L10N group=16 idx=10
+msgid "印刷(&P)..."
+msgstr "列印(&P)..."
+
+#. L10N group=16 idx=11
+msgid "レイヤーを連番出力..."
+msgstr "圖層依序編號匯出..."
+
+#. L10N group=16 idx=12
+msgid "書き出し..."
+msgstr "匯出..."
+
+#. L10N group=16 idx=13
+msgid "画像をレイヤーとして開く..."
+msgstr "將影像作為圖層開啟..."
+
+#. L10N group=16 idx=14
+msgid "書き出し (CMYK形式 PSD)..."
+msgstr "匯出（CMYK格式 PSD）..."
+
+#. L10N group=16 idx=15
+msgid "ブラシ環境設定(&B)..."
+msgstr "筆刷環境設定(&B)..."
+
+#. L10N group=16 idx=16
+msgid "新規レイヤーとして開く(&L)..."
+msgstr "以新圖層開啟(&L)..."
+
+#. L10N group=16 idx=17
+msgid "名前をつけてエクスポート(日時を指定)(&D)..."
+msgstr "命名匯出（指定日期時間）(&D)..."
+
+#. L10N group=16 idx=18
+msgid "アニメーション書き出し (APNG)..."
+msgstr "匯出動畫（APNG）..."
+
+#. L10N group=16 idx=19
+msgid "アニメーション書き出し (アニメーションGIF)..."
+msgstr "匯出動畫（動畫GIF）..."
+
+#. L10N group=16 idx=20
+msgid "最近使ったフォルダ(&F)"
+msgstr "最近使用的資料夾(&F)"
+
+#. L10N group=16 idx=21
+msgid "自動バックアップフォルダを開く..."
+msgstr "開啟自動備份資料夾..."
+
+#. L10N group=16 idx=22
+msgid "書き出し (ICO)..."
+msgstr "匯出（ICO）..."
+
+#. L10N group=16 idx=23
+msgid "アニメーション書き出し (MP4)..."
+msgstr "匯出動畫（MP4）..."
+
+#. L10N group=16 idx=24
+msgid "書き出し (Base64/PNG)..."
+msgstr "匯出（Base64/PNG）..."
+
+#. L10N group=16 idx=25
+msgid "筆圧APIの選択..."
+msgstr "選擇筆壓API..."
+
+#. L10N group=16 idx=26
+msgid "タイムラプス"
+msgstr "縮時攝影"
+
+#. L10N group=16 idx=27
+msgid "録画の開始..."
+msgstr "開始錄製..."
+
+#. L10N group=16 idx=28
+msgid "録画の終了..."
+msgstr "結束錄製..."
+
+#. L10N group=16 idx=29
+msgid "テンプレートから新規作成(&T)..."
+msgstr "從範本新建(&T)..."
+
+#. L10N group=16 idx=30
+msgid "常にタイムラプスを録画する..."
+msgstr "總是錄製縮時攝影..."
+
+#. L10N group=16 idx=31
+msgid "タイムラプス保存フォルダを開く..."
+msgstr "開啟縮時攝影儲存資料夾..."
+
+#. L10N group=16 idx=32
+msgid "アニメーション書き出し"
+msgstr "匯出動畫"
+
+#. L10N group=16 idx=33
+msgid "档案(&F)"
+msgstr "檔案(&F)"
+
+#. L10N group=16 idx=34
+msgid "新建档案(&N)..."
+msgstr "新增(&N)..."
+
+#. L10N group=16 idx=35
+msgid "最近使用的档案(&R)"
+msgstr "最近使用的檔案(&R)"
+
+#. L10N group=16 idx=36
+msgid "打印(&P)..."
+msgstr "列印(&P)..."
+
+#. L10N group=16 idx=37
+msgid "输出..."
+msgstr "匯出..."
+
+#. L10N group=16 idx=38
+msgid "输出 (CMYK形式 PSD)..."
+msgstr "匯出（CMYK格式 PSD）..."
+
+#. L10N group=16 idx=39
+msgid "输出 (ICO)..."
+msgstr "匯出（ICO）..."
+
+#. L10N group=16 idx=40
+msgid "输出 (Base64/PNG)..."
+msgstr "匯出（Base64/PNG）..."
+
+#. L10N group=16 idx=41
+msgid "打开延时摄影保存文件夹..."
+msgstr "開啟縮時攝影儲存資料夾..."
+
+#. L10N group=16 idx=42
+msgid "檔案(&F)"
+msgstr "檔案(&F)"
+
+#. L10N group=16 idx=43
+msgid "新建檔案(&N)..."
+msgstr "新增(&N)..."
+
+#. L10N group=16 idx=44
+msgid "最近使用的檔案(&R)"
+msgstr "最近使用的檔案(&R)"
+
+#. L10N group=16 idx=45
+msgid "另存新檔(&A)..."
+msgstr "另存新檔(&A)..."
+
+#. L10N group=16 idx=46
+msgid "列印(&P)..."
+msgstr "列印(&P)..."
+
+#. L10N group=16 idx=47
+msgid "輸出..."
+msgstr "匯出..."
+
+#. L10N group=16 idx=48
+msgid "輸出 (CMYK形式 PSD)..."
+msgstr "匯出（CMYK格式 PSD）..."
+
+#. L10N group=16 idx=49
+msgid "輸出 (ICO)..."
+msgstr "匯出（ICO）..."
+
+#. L10N group=16 idx=50
+msgid "輸出 (Base64/PNG)..."
+msgstr "匯出（Base64/PNG）..."
+
+#. L10N group=17 idx=0
+msgid "設定フォルダを開く(&C)..."
+msgstr "開啟設定資料夾(&C)..."
+
+#. L10N group=17 idx=1
+msgid "プリセットブラシを復元..."
+msgstr "還原預設筆刷..."
+
+#. L10N group=17 idx=2
+msgid "マルチスレッド処理による高速化"
+msgstr "多執行緒處理加速"
+
+#. L10N group=17 idx=3
+msgid "ブラシ処理を独立したスレッドで行う"
+msgstr "筆刷處理在獨立執行緒中進行"
+
+#. L10N group=17 idx=4
+msgid "ブラシ描画時の表示更新の最適化"
+msgstr "最佳化筆刷繪製時的顯示更新"
+
+#. L10N group=17 idx=5
+msgid "MDPファイルの高速保存"
+msgstr "MDP檔案快速儲存"
+
+#. L10N group=17 idx=6
+msgid "データの初期化"
+msgstr "資料初始化"
+
+#. L10N group=17 idx=7
+msgid "グラデーションの初期化..."
+msgstr "漸層初始化..."
+
+#. L10N group=17 idx=8
+msgid "全てのレイヤーの親子関係を解除"
+msgstr "解除所有圖層的父子關係"
+
+#. L10N group=17 idx=9
+msgid "全てのブラシを削除..."
+msgstr "刪除所有筆刷..."
+
+#. L10N group=17 idx=10
+msgid "FireAlpaca (無料版) の設定を使用する..."
+msgstr "使用FireAlpaca（免費版）的設定..."
+
+#. L10N group=17 idx=11
+msgid "旧バージョンの設定を引き継ぐ..."
+msgstr "沿用舊版本的設定..."
+
+#. L10N group=17 idx=12
+msgid "設定を書き出す..."
+msgstr "匯出設定..."
+
+#. L10N group=17 idx=13
+msgid "設定を取り込む..."
+msgstr "匯入設定..."
+
+#. L10N group=17 idx=14
+msgid "公式サイト..."
+msgstr "官方網站..."
+
+#. L10N group=17 idx=15
+msgid "ライセンス認証..."
+msgstr "授權驗證..."
+
+#. L10N group=17 idx=16
+msgid "档案初始化"
+msgstr "資料初始化"
+
+#. L10N group=17 idx=17
+msgid "继承旧版本设置..."
+msgstr "沿用舊版本的設定..."
+
+#. L10N group=17 idx=18
+msgid "导出设置..."
+msgstr "匯出設定..."
+
+#. L10N group=17 idx=19
+msgid "导入设置..."
+msgstr "匯入設定..."
+
+#. L10N group=17 idx=20
+msgid "许可证认证..."
+msgstr "授權驗證..."
+
+#. L10N group=17 idx=21
+msgid "檔案初始化"
+msgstr "資料初始化"
+
+#. L10N group=17 idx=22
+msgid "許可證認證..."
+msgstr "授權驗證..."
+
+#. L10N group=18 idx=0
+msgid "レイヤー(&L)"
+msgstr "圖層(&L)"
+
+#. L10N group=18 idx=1
+msgid "追加(&A)"
+msgstr "新增(&A)"
+
+#. L10N group=18 idx=2
+msgid "下に統合(&M)"
+msgstr "向下合併(&M)"
+
+#. L10N group=18 idx=3
+msgid "削除(&D)"
+msgstr "刪除(&D)"
+
+#. L10N group=18 idx=4
+msgid "塗りつぶし(&F)"
+msgstr "填滿(&F)"
+
+#. L10N group=18 idx=5
+msgid "クリア(&E)"
+msgstr "清除(&E)"
+
+#. L10N group=18 idx=6
+msgid "回転(&R)"
+msgstr "旋轉(&R)"
+
+#. L10N group=18 idx=7
+msgid "上下反転(&V)"
+msgstr "垂直翻轉(&V)"
+
+#. L10N group=18 idx=8
+msgid "レベル補正(&L)..."
+msgstr "色階(&L)..."
+
+#. L10N group=18 idx=9
+msgid "色相(&H)..."
+msgstr "色相(&H)..."
+
+#. L10N group=18 idx=10
+msgid "ガウスぼかし(&G)..."
+msgstr "高斯模糊(&G)..."
+
+#. L10N group=18 idx=11
+msgid "モザイク(&S)..."
+msgstr "馬賽克(&S)..."
+
+#. L10N group=18 idx=12
+msgid "回転角度を指定(&D)..."
+msgstr "指定旋轉角度(&D)..."
+
+#. L10N group=18 idx=13
+msgid "追加 / 8 bit"
+msgstr "新增 / 8位元"
+
+#. L10N group=18 idx=14
+msgid "追加 / 1 bit"
+msgstr "新增 / 1位元"
+
+#. L10N group=18 idx=15
+msgid "カラーレイヤーに変換(&C)"
+msgstr "轉換為彩色圖層(&C)"
+
+#. L10N group=18 idx=16
+msgid "8 bit レイヤーに変換"
+msgstr "轉換為8位元圖層"
+
+#. L10N group=18 idx=17
+msgid "追加 / フォルダ"
+msgstr "新增 / 資料夾"
+
+#. L10N group=18 idx=18
+msgid "フォルダ内を統合(&O)"
+msgstr "合併資料夾內圖層(&O)"
+
+#. L10N group=18 idx=19
+msgid "線画抽出(&X)..."
+msgstr "提取線稿(&X)..."
+
+#. L10N group=18 idx=20
+msgid "&1 bit レイヤーに変換"
+msgstr "轉換為1位元圖層"
+
+#. L10N group=18 idx=21
+msgid "コマ素材の追加..."
+msgstr "加入分格素材..."
+
+#. L10N group=18 idx=22
+msgid "素材のラスタライズ"
+msgstr "素材點陣化"
+
+#. L10N group=18 idx=23
+msgid "プロパティ..."
+msgstr "屬性..."
+
+#. L10N group=18 idx=24
+msgid "コマの分割..."
+msgstr "分格..."
+
+#. L10N group=18 idx=25
+msgid "0 度"
+msgstr "0度"
+
+#. L10N group=18 idx=26
+msgid "全てのレイヤーを統合..."
+msgstr "合併所有圖層..."
+
+#. L10N group=18 idx=27
+msgid "プロパティ"
+msgstr "屬性"
+
+#. L10N group=18 idx=28
+msgid "フィルタ(&R)"
+msgstr "濾鏡(&R)"
+
+#. L10N group=18 idx=29
+msgid "雲模様"
+msgstr "雲紋"
+
+#. L10N group=18 idx=30
+msgid "砂模様"
+msgstr "砂紋"
+
+#. L10N group=18 idx=31
+msgid "バイラテラル"
+msgstr "雙邊濾波"
+
+#. L10N group=18 idx=32
+msgid "不透明度ローカット"
+msgstr "不透明度低切"
+
+#. L10N group=18 idx=33
+msgid "不透明度均一化"
+msgstr "不透明度均一化"
+
+#. L10N group=18 idx=34
+msgid "透過色に変更"
+msgstr "變更為透明色"
+
+#. L10N group=18 idx=35
+msgid "非透過色に変更"
+msgstr "變更為不透明色"
+
+#. L10N group=18 idx=36
+msgid "色反転"
+msgstr "顏色反轉"
+
+#. L10N group=18 idx=37
+msgid "不透明度階調化"
+msgstr "不透明度階調化"
+
+#. L10N group=18 idx=38
+msgid "追加 / ハーフトーン..."
+msgstr "新增 / 半色調..."
+
+#. L10N group=18 idx=39
+msgid "トーンカーブ(&T)..."
+msgstr "色調曲線(&T)..."
+
+#. L10N group=18 idx=40
+msgid "カラーバランス(&C)..."
+msgstr "色彩平衡(&C)..."
+
+#. L10N group=18 idx=41
+msgid "チャンネル操作(&O)..."
+msgstr "色板操作(&O)..."
+
+#. L10N group=18 idx=42
+msgid "追加 / マスク (8 bit)"
+msgstr "新增 / 遮罩（8位元）"
+
+#. L10N group=18 idx=43
+msgid "追加 / ステンシル (8 bit)"
+msgstr "新增 / 模板（8位元）"
+
+#. L10N group=18 idx=44
+msgid "色収差/RGBずらし(&A)..."
+msgstr "色差/RGB偏移(&A)..."
+
+#. L10N group=18 idx=45
+msgid "マスクレイヤー(&M)"
+msgstr "遮罩圖層(&M)"
+
+#. L10N group=18 idx=46
+msgid "ステンシルレイヤー(&S)"
+msgstr "模板圖層(&S)"
+
+#. L10N group=18 idx=47
+msgid "移動ぼかし(&M)..."
+msgstr "動態模糊(&M)..."
+
+#. L10N group=18 idx=48
+msgid "フォルダにまとめる(&I)"
+msgstr "收進資料夾(&I)"
+
+#. L10N group=18 idx=49
+msgid "ウニフラッシュ..."
+msgstr "棘刺閃光..."
+
+#. L10N group=18 idx=50
+msgid "アンシャープマスク..."
+msgstr "遮色片銳利化..."
+
+#. L10N group=18 idx=51
+msgid "レンズぼかし..."
+msgstr "鏡頭模糊..."
+
+#. L10N group=18 idx=52
+msgid "和柄..."
+msgstr "和風圖樣..."
+
+#. L10N group=18 idx=53
+msgid "グラデーションマップ..."
+msgstr "漸層對應..."
+
+#. L10N group=18 idx=54
+msgid "左上に配置"
+msgstr "置於左上"
+
+#. L10N group=18 idx=55
+msgid "上中央に配置"
+msgstr "置於上方中央"
+
+#. L10N group=18 idx=56
+msgid "右上に配置"
+msgstr "置於右上"
+
+#. L10N group=18 idx=57
+msgid "左中央に配置"
+msgstr "置於左方中央"
+
+#. L10N group=18 idx=58
+msgid "中央に配置"
+msgstr "置於中央"
+
+#. L10N group=18 idx=59
+msgid "右中央に配置"
+msgstr "置於右方中央"
+
+#. L10N group=18 idx=60
+msgid "左下に配置"
+msgstr "置於左下"
+
+#. L10N group=18 idx=61
+msgid "下中央に配置"
+msgstr "置於下方中央"
+
+#. L10N group=18 idx=62
+msgid "右下に配置"
+msgstr "置於右下"
+
+#. L10N group=18 idx=63
+msgid "貫通クリア"
+msgstr "穿透清除"
+
+#. L10N group=18 idx=64
+msgid "ネガポジ反転"
+msgstr "正負反轉"
+
+#. L10N group=18 idx=65
+msgid "モノクロ化 (輝度)"
+msgstr "黑白化（亮度）"
+
+#. L10N group=18 idx=66
+msgid "モノクロ化 (RGB平均)"
+msgstr "黑白化（RGB平均）"
+
+#. L10N group=18 idx=67
+msgid "ノイズ..."
+msgstr "雜訊..."
+
+#. L10N group=18 idx=68
+msgid "明るさ・コントラスト(&G)..."
+msgstr "亮度·對比度(&G)..."
+
+#. L10N group=18 idx=69
+msgid "ポスタリゼーション(&P)..."
+msgstr "色調分離(&P)..."
+
+#. L10N group=18 idx=70
+msgid "整列..."
+msgstr "對齊..."
+
+#. L10N group=18 idx=71
+msgid "MFGについて..."
+msgstr "關於MFG..."
+
+#. L10N group=18 idx=72
+msgid "フィルタを追加 (MFGストア)..."
+msgstr "新增濾鏡（MFG商店）..."
+
+#. L10N group=18 idx=73
+msgid "MFGフィルタの削除..."
+msgstr "刪除MFG濾鏡..."
+
+#. L10N group=18 idx=74
+msgid "MFGフィルタの実行..."
+msgstr "執行MFG濾鏡..."
+
+#. L10N group=18 idx=75
+msgid "最後に選択したフィルタ"
+msgstr "最後選取的濾鏡"
+
+#. L10N group=18 idx=76
+msgid "移動量を指定..."
+msgstr "指定移動量..."
+
+#. L10N group=18 idx=77
+msgid "レイヤーマスクを追加"
+msgstr "加入圖層遮罩"
+
+#. L10N group=18 idx=78
+msgid "レイヤーマスクを削除"
+msgstr "刪除圖層遮罩"
+
+#. L10N group=18 idx=79
+msgid "レイヤーマスクを適用"
+msgstr "套用圖層遮罩"
+
+#. L10N group=18 idx=80
+msgid "追加 / カラーレイヤー"
+msgstr "新增 / 彩色圖層"
+
+#. L10N group=18 idx=81
+msgid "追加 / 濃度レイヤー"
+msgstr "新增 / 濃度圖層"
+
+#. L10N group=18 idx=82
+msgid "追加 / 1 bit レイヤー"
+msgstr "新增 / 1位元圖層"
+
+#. L10N group=18 idx=83
+msgid "全面填充(&F)"
+msgstr "填滿(&F)"
+
+#. L10N group=18 idx=84
+msgid "清除(&E)"
+msgstr "清除(&E)"
+
+#. L10N group=18 idx=85
+msgid "旋转(&R)"
+msgstr "旋轉(&R)"
+
+#. L10N group=18 idx=86
+msgid "垂直翻转(&V)"
+msgstr "垂直翻轉(&V)"
+
+#. L10N group=18 idx=87
+msgid "水平翻转(&H)"
+msgstr "水平翻轉(&H)"
+
+#. L10N group=18 idx=88
+msgid "色阶(&L)..."
+msgstr "色階(&L)..."
+
+#. L10N group=18 idx=89
+msgid "高斯模糊(&G)..."
+msgstr "高斯模糊(&G)..."
+
+#. L10N group=18 idx=90
+msgid "马赛克(&S)..."
+msgstr "馬賽克(&S)..."
+
+#. L10N group=18 idx=91
+msgid "指定旋转角度(&D)..."
+msgstr "指定旋轉角度(&D)..."
+
+#. L10N group=18 idx=92
+msgid "转换为彩色图层(&C)"
+msgstr "轉換為彩色圖層(&C)"
+
+#. L10N group=18 idx=93
+msgid "添加 / 文件夹"
+msgstr "新增 / 資料夾"
+
+#. L10N group=18 idx=94
+msgid "合并文件夹内图层(&O)"
+msgstr "合併資料夾內圖層(&O)"
+
+#. L10N group=18 idx=95
+msgid "框格分割..."
+msgstr "分格..."
+
+#. L10N group=18 idx=96
+msgid "不透明度低"
+msgstr "不透明度低切"
+
+#. L10N group=18 idx=97
+msgid "不透明度均一"
+msgstr "不透明度均一化"
+
+#. L10N group=18 idx=98
+msgid "变更透过的色"
+msgstr "變更為透明色"
+
+#. L10N group=18 idx=99
+msgid "编成非透过的颜色"
+msgstr "變更為不透明色"
+
+#. L10N group=18 idx=100
+msgid "颜色反转"
+msgstr "顏色反轉"
+
+#. L10N group=18 idx=101
+msgid "追加 / 半调"
+msgstr "新增 / 半色調"
+
+#. L10N group=18 idx=102
+msgid "色调曲线(&T)"
+msgstr "色調曲線(&T)..."
+
+#. L10N group=18 idx=103
+msgid "色彩平衡(&C)"
+msgstr "色彩平衡(&C)..."
+
+#. L10N group=18 idx=104
+msgid "操作频道(&O)"
+msgstr "色板操作(&O)..."
+
+#. L10N group=18 idx=105
+msgid "追加 / 模板 (8 bit)"
+msgstr "新增 / 模板（8位元）"
+
+#. L10N group=18 idx=106
+msgid "色差(&A)"
+msgstr "色差/RGB偏移(&A)..."
+
+#. L10N group=18 idx=107
+msgid "配置在上方左侧"
+msgstr "置於左上"
+
+#. L10N group=18 idx=108
+msgid "配置在上方中央"
+msgstr "置於上方中央"
+
+#. L10N group=18 idx=109
+msgid "配置载右上"
+msgstr "置於右上"
+
+#. L10N group=18 idx=110
+msgid "配置在中央左侧"
+msgstr "置於左方中央"
+
+#. L10N group=18 idx=111
+msgid "配置在中央"
+msgstr "置於中央"
+
+#. L10N group=18 idx=112
+msgid "配置在中央靠右"
+msgstr "置於右方中央"
+
+#. L10N group=18 idx=113
+msgid "配置在下方左侧"
+msgstr "置於左下"
+
+#. L10N group=18 idx=114
+msgid "配置在下方中央"
+msgstr "置於下方中央"
+
+#. L10N group=18 idx=115
+msgid "配置在右下"
+msgstr "置於右下"
+
+#. L10N group=18 idx=116
+msgid "黑白化 (亮度)"
+msgstr "黑白化（亮度）"
+
+#. L10N group=18 idx=117
+msgid "黑白化 (RGB平均)"
+msgstr "黑白化（RGB平均）"
+
+#. L10N group=18 idx=118
+msgid "色调分离(&P)"
+msgstr "色調分離(&P)..."
+
+#. L10N group=18 idx=119
+msgid "从文件导入..."
+msgstr "從檔案匯入..."
+
+#. L10N group=18 idx=120
+msgid "添加/颜色图层"
+msgstr "新增 / 彩色圖層"
+
+#. L10N group=18 idx=121
+msgid "向下合併(&M)"
+msgstr "向下合併(&M)"
+
+#. L10N group=18 idx=122
+msgid "整面填充(&F)"
+msgstr "填滿(&F)"
+
+#. L10N group=18 idx=123
+msgid "旋轉(&R)"
+msgstr "旋轉(&R)"
+
+#. L10N group=18 idx=124
+msgid "垂直翻轉(&V)"
+msgstr "垂直翻轉(&V)"
+
+#. L10N group=18 idx=125
+msgid "水平翻轉(&H)"
+msgstr "水平翻轉(&H)"
+
+#. L10N group=18 idx=126
+msgid "色階(&L)..."
+msgstr "色階(&L)..."
+
+#. L10N group=18 idx=127
+msgid "馬賽克(&S)..."
+msgstr "馬賽克(&S)..."
+
+#. L10N group=18 idx=128
+msgid "指定旋轉角度(&D)..."
+msgstr "指定旋轉角度(&D)..."
+
+#. L10N group=18 idx=129
+msgid "轉換為彩色圖層(&C)"
+msgstr "轉換為彩色圖層(&C)"
+
+#. L10N group=18 idx=130
+msgid "0度"
+msgstr "0度"
+
+#. L10N group=18 idx=131
+msgid "變更透過的色"
+msgstr "變更為透明色"
+
+#. L10N group=18 idx=132
+msgid "編成非透過的顏色"
+msgstr "變更為不透明色"
+
+#. L10N group=18 idx=133
+msgid "顏色反轉"
+msgstr "顏色反轉"
+
+#. L10N group=18 idx=134
+msgid "追加 / 半調"
+msgstr "新增 / 半色調"
+
+#. L10N group=18 idx=135
+msgid "色調曲線(&T)"
+msgstr "色調曲線(&T)..."
+
+#. L10N group=18 idx=136
+msgid "操作頻道(&O)"
+msgstr "色板操作(&O)..."
+
+#. L10N group=18 idx=137
+msgid "配置在上方左側"
+msgstr "置於左上"
+
+#. L10N group=18 idx=138
+msgid "配置載右上"
+msgstr "置於右上"
+
+#. L10N group=18 idx=139
+msgid "配置在中央左側"
+msgstr "置於左方中央"
+
+#. L10N group=18 idx=140
+msgid "配置在下方左側"
+msgstr "置於左下"
+
+#. L10N group=18 idx=141
+msgid "噪音(&G)"
+msgstr "雜訊(&G)..."
+
+#. L10N group=18 idx=142
+msgid "色調分離(&P)..."
+msgstr "色調分離(&P)..."
+
+#. L10N group=18 idx=143
+msgid "新增/顏色圖層"
+msgstr "新增 / 彩色圖層"
+
+#. L10N group=19 idx=0
+msgid "全て選択(&A)"
+msgstr "全部選取(&A)"
+
+#. L10N group=19 idx=1
+msgid "解除(&D)"
+msgstr "取消選取(&D)"
+
+#. L10N group=19 idx=2
+msgid "反転(&I)"
+msgstr "反轉(&I)"
+
+#. L10N group=19 idx=3
+msgid "レイヤーを元に作成 / 不透明度(&O)"
+msgstr "以圖層為基礎建立 / 不透明度(&O)"
+
+#. L10N group=19 idx=4
+msgid "レイヤーを元に作成 / 輝度(&B)"
+msgstr "以圖層為基礎建立 / 亮度(&B)"
+
+#. L10N group=19 idx=5
+msgid "変形(&T)"
+msgstr "變形(&T)"
+
+#. L10N group=19 idx=6
+msgid "選択境界の描画(&B)..."
+msgstr "繪製選取範圍邊界(&B)..."
+
+#. L10N group=19 idx=7
+msgid "メッシュ変形(&M)"
+msgstr "網格變形(&M)"
+
+#. L10N group=19 idx=8
+msgid "選択範囲外をハイライト(&H)"
+msgstr "高亮選取範圍外部(&H)"
+
+#. L10N group=19 idx=9
+msgid "前景色の範囲を選択(&F)"
+msgstr "選取前景色的範圍(&F)"
+
+#. L10N group=19 idx=10
+msgid "蟻の行進を表示(&S)"
+msgstr "顯示螞蟻線(&S)"
+
+#. L10N group=19 idx=11
+msgid "矩形化(&R)"
+msgstr "矩形化(&R)"
+
+#. L10N group=19 idx=12
+msgid "反转(&I)"
+msgstr "反轉(&I)"
+
+#. L10N group=19 idx=13
+msgid "选择前景色的范围(&F)"
+msgstr "選取前景色的範圍(&F)"
+
+#. L10N group=19 idx=14
+msgid "反轉(&I)"
+msgstr "反轉(&I)"
+
+#. L10N group=19 idx=15
+msgid "選擇前景色的範圍(&F)"
+msgstr "選取前景色的範圍(&F)"
+
+#. L10N group=20 idx=0
+msgid "スナップ(&N)"
+msgstr "貼齊(&N)"
+
+#. L10N group=20 idx=1
+msgid "オフ(&O)"
+msgstr "關閉(&O)"
+
+#. L10N group=20 idx=2
+msgid "平行(&P)"
+msgstr "平行(&P)"
+
+#. L10N group=20 idx=3
+msgid "十字(&C)"
+msgstr "十字(&C)"
+
+#. L10N group=20 idx=4
+msgid "同心円(&E)"
+msgstr "同心圓(&E)"
+
+#. L10N group=20 idx=5
+msgid "スナップの保存(&S)..."
+msgstr "儲存貼齊(&S)..."
+
+#. L10N group=20 idx=6
+msgid "曲線の描画"
+msgstr "曲線繪製"
+
+#. L10N group=20 idx=7
+msgid "曲線の描画 (入り抜き)"
+msgstr "曲線繪製（筆鋒）"
+
+#. L10N group=20 idx=8
+msgid "3Dパース"
+msgstr "3D透視"
+
+#. L10N group=20 idx=9
+msgid "3Dパースを追加"
+msgstr "加入3D透視"
+
+#. L10N group=20 idx=10
+msgid "グリッド(&G)"
+msgstr "格線(&G)"
+
+#. L10N group=20 idx=11
+msgid "ガイド(&U)"
+msgstr "參考線(&U)"
+
+#. L10N group=20 idx=12
+msgid "保存されたスナップの削除..."
+msgstr "刪除已儲存的貼齊..."
+
+#. L10N group=20 idx=13
+msgid "捕捉(&N)"
+msgstr "貼齊(&N)"
+
+#. L10N group=20 idx=14
+msgid "保存现有辅助(&S)..."
+msgstr "儲存貼齊(&S)..."
+
+#. L10N group=20 idx=15
+msgid "輔助(&N)"
+msgstr "貼齊(&N)"
+
+#. L10N group=20 idx=16
+msgid "消失分(&V)"
+msgstr "消失點(&V)"
+
+#. L10N group=20 idx=17
+msgid "儲存輔助(&S)..."
+msgstr "儲存貼齊(&S)..."
+
+#. L10N group=20 idx=18
+msgid "繪製曲線(起筆/收筆)"
+msgstr "曲線繪製（筆鋒）"
+
+#. L10N group=21 idx=0
+msgid "ツール(&T)"
+msgstr "工具(&T)"
+
+#. L10N group=21 idx=1
+msgid "ドット"
+msgstr "點繪"
+
+#. L10N group=21 idx=2
+msgid "塗りつぶし"
+msgstr "填滿"
+
+#. L10N group=21 idx=3
+msgid "バケツ"
+msgstr "油漆桶"
+
+#. L10N group=21 idx=4
+msgid "選択ペン"
+msgstr "選取畫筆"
+
+#. L10N group=21 idx=5
+msgid "選択消し"
+msgstr "選取橡皮擦"
+
+#. L10N group=21 idx=6
+msgid "手のひら"
+msgstr "手掌"
+
+#. L10N group=21 idx=7
+msgid "操作"
+msgstr "操作"
+
+#. L10N group=21 idx=8
+msgid "投げなわ選択"
+msgstr "套索選取"
+
+#. L10N group=21 idx=9
+msgid "投げなわ塗り"
+msgstr "套索填滿"
+
+#. L10N group=21 idx=10
+msgid "歪みブラシ"
+msgstr "扭曲筆刷"
+
+#. L10N group=21 idx=11
+msgid "ツール設定..."
+msgstr "工具設定..."
+
+#. L10N group=21 idx=12
+msgid "工具(&T)"
+msgstr "工具(&T)"
+
+#. L10N group=21 idx=13
+msgid "油漆桶"
+msgstr "油漆桶"
+
+#. L10N group=21 idx=14
+msgid "手掌"
+msgstr "手掌"
+
+#. L10N group=21 idx=15
+msgid "文本"
+msgstr "文字"
+
+#. L10N group=21 idx=16
+msgid "套索上色"
+msgstr "套索填滿"
+
+#. L10N group=21 idx=17
+msgid "魔術棒"
+msgstr "自動選取"
+
+#. L10N group=21 idx=18
+msgid "物件操作"
+msgstr "操作"
+
+#. L10N group=21 idx=19
+msgid "表示(&V)"
+msgstr "檢視(&V)"
+
+#. L10N group=21 idx=20
+msgid "拡大表示(&I)"
+msgstr "放大顯示(&I)"
+
+#. L10N group=21 idx=21
+msgid "ウィンドウサイズに合わせる(&F)"
+msgstr "配合視窗大小(&F)"
+
+#. L10N group=21 idx=22
+msgid "回転・反転を解除(&S)"
+msgstr "重置旋轉·翻轉(&S)"
+
+#. L10N group=21 idx=23
+msgid "透明背景(&T)"
+msgstr "透明背景(&T)"
+
+#. L10N group=21 idx=24
+msgid "ブラシサイズカーソル(&B)"
+msgstr "筆刷大小游標(&B)"
+
+#. L10N group=21 idx=25
+msgid "ピクセル単位のグリッド(&P)"
+msgstr "像素網格(&P)"
+
+#. L10N group=21 idx=26
+msgid "背景色の指定(&D)..."
+msgstr "指定背景色(&D)..."
+
+#. L10N group=21 idx=27
+msgid "漫画原稿ガイドの表示(&M)"
+msgstr "顯示漫畫原稿參考線(&M)"
+
+#. L10N group=21 idx=28
+msgid "漫画原稿ガイド設定(&S)..."
+msgstr "漫畫原稿參考線設定(&S)..."
+
+#. L10N group=21 idx=29
+msgid "カラープロファイルを適用して表示"
+msgstr "套用色彩設定檔顯示"
+
+#. L10N group=21 idx=30
+msgid "カラーマネジメント設定..."
+msgstr "色彩管理設定..."
+
+#. L10N group=21 idx=31
+msgid "ガイド"
+msgstr "參考線"
+
+#. L10N group=21 idx=32
+msgid "ガイド編集"
+msgstr "編輯參考線"
+
+#. L10N group=21 idx=33
+msgid "グリッド設定..."
+msgstr "格線設定..."
+
+#. L10N group=21 idx=34
+msgid "アクティブレイヤーのみ表示(&A)"
+msgstr "僅顯示作用中圖層(&A)"
+
+#. L10N group=21 idx=35
+msgid "暗い市松模様"
+msgstr "深色棋盤格"
+
+#. L10N group=21 idx=36
+msgid "ルーラー"
+msgstr "尺規"
+
+#. L10N group=21 idx=37
+msgid "ガイドを追加..."
+msgstr "加入參考線..."
+
+#. L10N group=21 idx=38
+msgid "ガイドをクリア"
+msgstr "清除參考線"
+
+#. L10N group=21 idx=39
+msgid "ルーラー設定"
+msgstr "尺規設定"
+
+#. L10N group=21 idx=40
+msgid "ブラシカーソルを隠す(&C)"
+msgstr "隱藏筆刷游標(&C)"
+
+#. L10N group=21 idx=41
+msgid "レスポンス (遅延更新)"
+msgstr "回應優先（延遲更新）"
+
+#. L10N group=21 idx=42
+msgid "パフォーマンス (一気に更新)"
+msgstr "效能優先（一次更新）"
+
+#. L10N group=21 idx=43
+msgid "グレースケール表示"
+msgstr "灰階顯示"
+
+#. L10N group=21 idx=44
+msgid "显示(&V)"
+msgstr "檢視(&V)"
+
+#. L10N group=21 idx=45
+msgid "放大(&I)"
+msgstr "放大顯示(&I)"
+
+#. L10N group=21 idx=46
+msgid "配合窗口尺寸(&F)"
+msgstr "配合視窗大小(&F)"
+
+#. L10N group=21 idx=47
+msgid "旋转初始化(&S)"
+msgstr "重置旋轉·翻轉(&S)"
+
+#. L10N group=21 idx=48
+msgid "左右反转(&H)"
+msgstr "水平翻轉(&H)"
+
+#. L10N group=21 idx=49
+msgid "背景色(&D)..."
+msgstr "指定背景色(&D)..."
+
+#. L10N group=21 idx=50
+msgid "显示要使用的颜色"
+msgstr "套用色彩設定檔顯示"
+
+#. L10N group=21 idx=51
+msgid "辅助线编辑"
+msgstr "編輯參考線"
+
+#. L10N group=21 idx=52
+msgid "黯淡市松模样"
+msgstr "深色棋盤格"
+
+#. L10N group=21 idx=53
+msgid "标尺"
+msgstr "尺規"
+
+#. L10N group=21 idx=54
+msgid "添加辅助线..."
+msgstr "加入參考線..."
+
+#. L10N group=21 idx=55
+msgid "清除辅助线"
+msgstr "清除參考線"
+
+#. L10N group=21 idx=56
+msgid "标尺设置"
+msgstr "尺規設定"
+
+#. L10N group=21 idx=57
+msgid "优先级设置"
+msgstr "回應優先（延遲更新）"
+
+#. L10N group=21 idx=58
+msgid "性能 (集中更新)"
+msgstr "效能優先（集中更新）"
+
+#. L10N group=21 idx=59
+msgid "灰度显示"
+msgstr "灰階顯示"
+
+#. L10N group=21 idx=60
+msgid "顯示(&V)"
+msgstr "檢視(&V)"
+
+#. L10N group=21 idx=61
+msgid "配合視窗尺寸(&F)"
+msgstr "配合視窗大小(&F)"
+
+#. L10N group=21 idx=62
+msgid "向左旋轉(&L)"
+msgstr "向左旋轉(&L)"
+
+#. L10N group=21 idx=63
+msgid "解除旋轉(&S)"
+msgstr "重置旋轉(&S)"
+
+#. L10N group=21 idx=64
+msgid "向右旋轉(&R)"
+msgstr "向右旋轉(&R)"
+
+#. L10N group=21 idx=65
+msgid "背景顏色(&D)..."
+msgstr "指定背景色(&D)..."
+
+#. L10N group=21 idx=66
+msgid "顯示要使用的顏色"
+msgstr "套用色彩設定檔顯示"
+
+#. L10N group=21 idx=67
+msgid "顏色管理設定"
+msgstr "色彩管理設定..."
+
+#. L10N group=21 idx=68
+msgid "輔助線編輯"
+msgstr "編輯參考線"
+
+#. L10N group=21 idx=69
+msgid "黯淡市松模樣"
+msgstr "深色棋盤格"
+
+#. L10N group=21 idx=70
+msgid "尺規"
+msgstr "尺規"
+
+#. L10N group=21 idx=71
+msgid "新增輔助線..."
+msgstr "加入參考線..."
+
+#. L10N group=21 idx=72
+msgid "清除輔助線"
+msgstr "清除參考線"
+
+#. L10N group=21 idx=73
+msgid "效能 (集中更新)"
+msgstr "效能優先（集中更新）"
+
+#. L10N group=21 idx=74
+msgid "灰階顯示"
+msgstr "灰階顯示"
+
+#. L10N group=22 idx=0
+msgid "ウィンドウ(&W)"
+msgstr "視窗(&W)"
+
+#. L10N group=22 idx=1
+msgid "初期化(&I)..."
+msgstr "初始化(&I)..."
+
+#. L10N group=22 idx=2
+msgid "表示・非表示(&S)"
+msgstr "顯示·隱藏(&S)"
+
+#. L10N group=22 idx=3
+msgid "ステータスバー"
+msgstr "狀態列"
+
+#. L10N group=22 idx=4
+msgid "キャンバスの新規ビュー..."
+msgstr "畫布新檢視..."
+
+#. L10N group=22 idx=5
+msgid "スタイル"
+msgstr "樣式"
+
+#. L10N group=22 idx=6
+msgid "ライトUI"
+msgstr "淺色UI"
+
+#. L10N group=22 idx=7
+msgid "ダークUI"
+msgstr "深色UI"
+
+#. L10N group=22 idx=8
+msgid "キャンバスをタイル状に表示..."
+msgstr "並排顯示畫布..."
+
+#. L10N group=22 idx=9
+msgid "ドッキングされたウィンドウをロック"
+msgstr "鎖定停靠的視窗"
+
+#. L10N group=22 idx=10
+msgid "フルスクリーン"
+msgstr "全螢幕"
+
+#. L10N group=22 idx=11
+msgid "窗口(&W)"
+msgstr "視窗(&W)"
+
+#. L10N group=22 idx=12
+msgid "初始化(&I)..."
+msgstr "初始化(&I)..."
+
+#. L10N group=22 idx=13
+msgid "显示 / 非显示(&S)"
+msgstr "顯示·隱藏(&S)"
+
+#. L10N group=22 idx=14
+msgid "刷子大小"
+msgstr "筆刷大小游標"
+
+#. L10N group=22 idx=15
+msgid "明亮介面"
+msgstr "淺色UI"
+
+#. L10N group=22 idx=16
+msgid "暗色系介面"
+msgstr "深色UI"
+
+#. L10N group=22 idx=17
+msgid "視窗(&W)"
+msgstr "視窗(&W)"
+
+#. L10N group=22 idx=18
+msgid "顯示 / 非顯示(&S)"
+msgstr "顯示·隱藏(&S)"
+
+#. L10N group=22 idx=19
+msgid "ズームイン"
+msgstr "放大"
+
+#. L10N group=22 idx=20
+msgid "ズームアウト"
+msgstr "縮小"
+
+#. L10N group=22 idx=21
+msgid "ウィンドウサイズに合わせる"
+msgstr "配合視窗大小"
+
+#. L10N group=22 idx=22
+msgid "回転解除"
+msgstr "重置旋轉"
+
+#. L10N group=22 idx=23
+msgid "左右反転"
+msgstr "水平翻轉"
+
+#. L10N group=22 idx=24
+msgid "ピクセル等倍"
+msgstr "像素等倍"
+
+#. L10N group=22 idx=25
+msgid "放大"
+msgstr "放大"
+
+#. L10N group=22 idx=26
+msgid "配合窗口尺寸"
+msgstr "配合視窗大小"
+
+#. L10N group=22 idx=27
+msgid "左旋转"
+msgstr "向左旋轉"
+
+#. L10N group=22 idx=28
+msgid "解除旋转"
+msgstr "重置旋轉"
+
+#. L10N group=22 idx=29
+msgid "右旋转"
+msgstr "向右旋轉"
+
+#. L10N group=22 idx=30
+msgid "左右翻转"
+msgstr "水平翻轉"
+
+#. L10N group=22 idx=31
+msgid "左旋轉"
+msgstr "向左旋轉"
+
+#. L10N group=22 idx=32
+msgid "解除旋轉"
+msgstr "重置旋轉"
+
+#. L10N group=22 idx=33
+msgid "右旋轉"
+msgstr "向右旋轉"
+
+#. L10N group=22 idx=34
+msgid "左右翻轉"
+msgstr "水平翻轉"
+
+#. L10N group=22 idx=35
+msgid "画像の新規作成"
+msgstr "新增影像"
+
+#. L10N group=22 idx=36
+msgid "初期レイヤー"
+msgstr "初始圖層"
+
+#. L10N group=22 idx=37
+msgid "カラーレイヤー"
+msgstr "彩色圖層"
+
+#. L10N group=22 idx=38
+msgid "8 bit レイヤー"
+msgstr "8位元圖層"
+
+#. L10N group=22 idx=39
+msgid "用紙サイズ"
+msgstr "紙張尺寸"
+
+#. L10N group=22 idx=40
+msgid "LINE スタンプ"
+msgstr "LINE貼圖"
+
+#. L10N group=22 idx=41
+msgid "はがき"
+msgstr "明信片"
+
+#. L10N group=22 idx=42
+msgid "幅と高さを入れ替える"
+msgstr "交換寬度和高度"
+
+#. L10N group=22 idx=43
+msgid "外枠 (製本サイズ)"
+msgstr "外框（裝訂尺寸）"
+
+#. L10N group=22 idx=44
+msgid "塗り足し"
+msgstr "出血"
+
+#. L10N group=22 idx=45
+msgid "テンプレート"
+msgstr "範本"
+
+#. L10N group=22 idx=46
+msgid "チャンネル深度"
+msgstr "色板深度"
+
+#. L10N group=22 idx=47
+msgid "商業誌 4コマ"
+msgstr "商業誌 四格漫畫"
+
+#. L10N group=22 idx=48
+msgid "履歴"
+msgstr "歷史紀錄"
+
+#. L10N group=22 idx=49
+msgid "コマ"
+msgstr "分格"
+
+#. L10N group=22 idx=50
+msgid "解像度"
+msgstr "解析度"
+
+#. L10N group=22 idx=51
+msgid "色指定"
+msgstr "顏色指定"
+
+#. L10N group=22 idx=52
+msgid "漫画原稿ガイド設定"
+msgstr "漫畫原稿參考線設定"
+
+#. L10N group=22 idx=53
+msgid "商業誌 4コマ (タイトルあり)"
+msgstr "商業誌 四格漫畫（含標題）"
+
+#. L10N group=22 idx=54
+msgid "見開き/くるみ表紙"
+msgstr "跨頁/包邊封面"
+
+#. L10N group=22 idx=55
+msgid "コマの線幅"
+msgstr "分格線寬"
+
+#. L10N group=22 idx=56
+msgid "履歴の削除"
+msgstr "刪除歷史紀錄"
+
+#. L10N group=22 idx=57
+msgid "名刺"
+msgstr "名片"
+
+#. L10N group=22 idx=58
+msgid "トレーディングカード"
+msgstr "收藏卡"
+
+#. L10N group=22 idx=59
+msgid "トレーディングカード(小)"
+msgstr "收藏卡（小）"
+
+#. L10N group=22 idx=60
+msgid "アニメーション"
+msgstr "動畫"
+
+#. L10N group=22 idx=61
+msgid "フレーム用フォルダを作成する"
+msgstr "建立影格資料夾"
+
+#. L10N group=22 idx=62
+msgid "フレーム数"
+msgstr "影格數"
+
+#. L10N group=22 idx=63
+msgid "フレームレート"
+msgstr "影格率"
+
+#. L10N group=22 idx=64
+msgid "テンプレートフォルダを開く"
+msgstr "開啟範本資料夾"
+
+#. L10N group=22 idx=65
+msgid "* テンプレートフォルダ内の画像を元に新規作成"
+msgstr "以範本資料夾內的影像為基礎新增"
+
+#. L10N group=22 idx=66
+msgid "高度"
+msgstr "高度"
+
+#. L10N group=22 idx=67
+msgid "彩色图层"
+msgstr "彩色圖層"
+
+#. L10N group=22 idx=68
+msgid "明信片（日本）"
+msgstr "明信片"
+
+#. L10N group=22 idx=69
+msgid "外框 (装订尺寸)"
+msgstr "外框（裝訂尺寸）"
+
+#. L10N group=22 idx=70
+msgid "出血框"
+msgstr "出血"
+
+#. L10N group=22 idx=71
+msgid "商业志 四格"
+msgstr "商業誌 四格漫畫"
+
+#. L10N group=22 idx=72
+msgid "框格"
+msgstr "分格"
+
+#. L10N group=22 idx=73
+msgid "分辨率"
+msgstr "解析度"
+
+#. L10N group=22 idx=74
+msgid "色彩指定"
+msgstr "顏色指定"
+
+#. L10N group=22 idx=75
+msgid "商业志 四格(有标题)"
+msgstr "商業誌 四格漫畫（含標題）"
+
+#. L10N group=22 idx=76
+msgid "跨页"
+msgstr "跨頁/包邊封面"
+
+#. L10N group=22 idx=77
+msgid "白色"
+msgstr "白色"
+
+#. L10N group=22 idx=78
+msgid "名片"
+msgstr "名片"
+
+#. L10N group=22 idx=79
+msgid "收藏卡"
+msgstr "收藏卡"
+
+#. L10N group=22 idx=80
+msgid "收藏卡 (小)"
+msgstr "收藏卡（小）"
+
+#. L10N group=22 idx=81
+msgid "帧数"
+msgstr "影格數"
+
+#. L10N group=22 idx=82
+msgid "帧比率"
+msgstr "影格率"
+
+#. L10N group=22 idx=83
+msgid "彩色圖層"
+msgstr "彩色圖層"
+
+#. L10N group=22 idx=84
+msgid "明信片(日本)"
+msgstr "明信片"
+
+#. L10N group=22 idx=85
+msgid "外框(完稿尺寸)"
+msgstr "外框（裝訂尺寸）"
+
+#. L10N group=22 idx=86
+msgid "格式"
+msgstr "紙張尺寸"
+
+#. L10N group=22 idx=87
+msgid "面板"
+msgstr "分格"
+
+#. L10N group=22 idx=88
+msgid "解析度"
+msgstr "解析度"
+
+#. L10N group=22 idx=89
+msgid "背景顏色"
+msgstr "顏色指定"
+
+#. L10N group=22 idx=90
+msgid "跨頁"
+msgstr "跨頁/包邊封面"
+
+#. L10N group=22 idx=91
+msgid "幀數"
+msgstr "影格數"
+
+#. L10N group=22 idx=92
+msgid "幀比率"
+msgstr "影格率"
+
+#. L10N group=23 idx=0
+msgid "色の追加"
+msgstr "新增顏色"
+
+#. L10N group=23 idx=1
+msgid "色の削除"
+msgstr "刪除顏色"
+
+#. L10N group=23 idx=2
+msgid "削除しますか？"
+msgstr "要刪除嗎？"
+
+#. L10N group=23 idx=3
+msgid "グループ内のパレットは全て削除されますが、よろしいですか？"
+msgstr "群組內的所有色票都將被刪除，確定嗎？"
+
+#. L10N group=23 idx=4
+msgid "色の編集"
+msgstr "編輯顏色"
+
+#. L10N group=23 idx=5
+msgid "元の色"
+msgstr "原色"
+
+#. L10N group=23 idx=6
+msgid "現在の色"
+msgstr "目前顏色"
+
+#. L10N group=23 idx=7
+msgid "履歴を全てクリアしますか？"
+msgstr "要清除全部歷史紀錄嗎？"
+
+#. L10N group=23 idx=8
+msgid "アクティブな履歴を削除"
+msgstr "刪除目前歷史紀錄"
+
+#. L10N group=23 idx=9
+msgid "全ての履歴を削除"
+msgstr "刪除全部歷史紀錄"
+
+#. L10N group=23 idx=10
+msgid "添加颜色"
+msgstr "新增顏色"
+
+#. L10N group=23 idx=11
+msgid "删除颜色"
+msgstr "刪除顏色"
+
+#. L10N group=23 idx=12
+msgid "色板会被全部删除，确定吗？"
+msgstr "群組內的所有色票都將被刪除，確定嗎？"
+
+#. L10N group=23 idx=13
+msgid "追加颜色"
+msgstr "新增顏色"
+
+#. L10N group=23 idx=14
+msgid "编辑颜色"
+msgstr "編輯顏色"
+
+#. L10N group=23 idx=15
+msgid "原本色"
+msgstr "原色"
+
+#. L10N group=23 idx=16
+msgid "现在色"
+msgstr "目前顏色"
+
+#. L10N group=23 idx=17
+msgid "顏色的追加"
+msgstr "新增顏色"
+
+#. L10N group=23 idx=18
+msgid "顏色的刪除"
+msgstr "刪除顏色"
+
+#. L10N group=23 idx=19
+msgid "色板會被全部刪除，確定嗎？"
+msgstr "群組內的所有色票都將被刪除，確定嗎？"
+
+#. L10N group=23 idx=20
+msgid "追加顏色"
+msgstr "新增顏色"
+
+#. L10N group=23 idx=21
+msgid "編輯顏色"
+msgstr "編輯顏色"
+
+#. L10N group=23 idx=22
+msgid "現在色"
+msgstr "目前顏色"
+
+#. L10N group=23 idx=23
+msgid "透過PNG"
+msgstr "透明PNG"
+
+#. L10N group=23 idx=24
+msgid "JPEG形式は、劣化の伴うフォーマットです"
+msgstr "JPEG是有損格式"
+
+#. L10N group=23 idx=25
+msgid "高品質で保存する場合、PNG形式を推奨します"
+msgstr "需要高品質儲存時，建議使用PNG格式"
+
+#. L10N group=23 idx=26
+msgid "グレースケール PNG"
+msgstr "灰階PNG"
+
+#. L10N group=23 idx=27
+msgid "透明度の保存"
+msgstr "儲存透明度"
+
+#. L10N group=23 idx=28
+msgid "不透明"
+msgstr "不透明"
+
+#. L10N group=23 idx=29
+msgid "透過GIF"
+msgstr "透明GIF"
+
+#. L10N group=23 idx=30
+msgid "透过PNG"
+msgstr "透明PNG"
+
+#. L10N group=23 idx=31
+msgid "灰阶 PNG"
+msgstr "灰階PNG"
+
+#. L10N group=23 idx=32
+msgid "透明PNG"
+msgstr "透明PNG"
+
+#. L10N group=23 idx=33
+msgid "灰階 PNG"
+msgstr "灰階PNG"
+
+#. L10N group=23 idx=34
+msgid "印刷"
+msgstr "列印"
+
+#. L10N group=23 idx=35
+msgid "用紙いっぱいに印刷"
+msgstr "滿版列印"
+
+#. L10N group=23 idx=36
+msgid "画像解像度を適用"
+msgstr "套用影像解析度"
+
+#. L10N group=23 idx=37
+msgid "打印"
+msgstr "列印"
+
+#. L10N group=23 idx=38
+msgid "列印"
+msgstr "列印"
+
+#. L10N group=23 idx=39
+msgid "滿版列印"
+msgstr "滿版列印"
+
+#. L10N group=23 idx=40
+msgid "ラスタライズオプション"
+msgstr "點陣化選項"
+
+#. L10N group=23 idx=41
+msgid "グレースケール"
+msgstr "灰階"
+
+#. L10N group=23 idx=42
+msgid "レイヤーカラーを黒か白に強制する"
+msgstr "強制圖層顏色為黑或白"
+
+#. L10N group=23 idx=43
+msgid "出力範囲"
+msgstr "輸出範圍"
+
+#. L10N group=23 idx=44
+msgid "外枠まで"
+msgstr "至外框"
+
+#. L10N group=23 idx=45
+msgid "塗り足しまで"
+msgstr "至出血"
+
+#. L10N group=23 idx=46
+msgid "トンボまで"
+msgstr "至裁切線"
+
+#. L10N group=23 idx=47
+msgid "テキストレイヤーを除外する"
+msgstr "排除文字圖層"
+
+#. L10N group=23 idx=48
+msgid "モノクロ2階調 (1bpp)"
+msgstr "黑白雙色調（1bpp）"
+
+#. L10N group=23 idx=49
+msgid "ハーフトーン処理をしない"
+msgstr "不進行半色調處理"
+
+#. L10N group=23 idx=50
+msgid "トンボまで拡張"
+msgstr "擴展至裁切線"
+
+#. L10N group=23 idx=51
+msgid "灰阶"
+msgstr "灰階"
+
+#. L10N group=23 idx=52
+msgid "强制设定图层颜色为黑或白色"
+msgstr "強制圖層顏色為黑或白"
+
+#. L10N group=23 idx=53
+msgid "黑白(1bpp)"
+msgstr "黑白雙色調（1bpp）"
+
+#. L10N group=23 idx=54
+msgid "不进行半色调网点处理"
+msgstr "不進行半色調處理"
+
+#. L10N group=23 idx=55
+msgid "灰階"
+msgstr "灰階"
+
+#. L10N group=23 idx=56
+msgid "強制設定圖層顏色為黑或白色"
+msgstr "強制圖層顏色為黑或白"
+
+#. L10N group=23 idx=57
+msgid "外框(裝訂尺寸)"
+msgstr "外框（裝訂尺寸）"
+
+#. L10N group=23 idx=58
+msgid "黑白 (1bpp)"
+msgstr "黑白雙色調（1bpp）"
+
+#. L10N group=23 idx=59
+msgid "不進行半色調網點處理"
+msgstr "不進行半色調處理"
+
+#. L10N group=23 idx=60
+msgid "左上"
+msgstr "左上"
+
+#. L10N group=23 idx=61
+msgid "上中央"
+msgstr "上方中央"
+
+#. L10N group=23 idx=62
+msgid "右上"
+msgstr "右上"
+
+#. L10N group=23 idx=63
+msgid "左下"
+msgstr "左下"
+
+#. L10N group=23 idx=64
+msgid "下中央"
+msgstr "下方中央"
+
+#. L10N group=23 idx=65
+msgid "右下"
+msgstr "右下"
+
+#. L10N group=23 idx=66
+msgid "キャンバスサイズ"
+msgstr "畫布尺寸"
+
+#. L10N group=23 idx=67
+msgid "現在のサイズ"
+msgstr "目前尺寸"
+
+#. L10N group=23 idx=68
+msgid "キャンバス範囲外を削除する"
+msgstr "刪除畫布範圍外的內容"
+
+#. L10N group=23 idx=69
+msgid "上中"
+msgstr "上方中央"
+
+#. L10N group=23 idx=70
+msgid "下方置中"
+msgstr "下方中央"
+
+#. L10N group=23 idx=71
+msgid "現在尺寸"
+msgstr "目前尺寸"
+
+#. L10N group=23 idx=72
+msgid "比率の保持"
+msgstr "保持比例"
+
+#. L10N group=23 idx=73
+msgid "補間"
+msgstr "插補"
+
+#. L10N group=23 idx=74
+msgid "ニアレストネイバー"
+msgstr "最近鄰居"
+
+#. L10N group=23 idx=75
+msgid "保持等比例"
+msgstr "保持比例"
+
+#. L10N group=23 idx=76
+msgid "回転角度を指定"
+msgstr "指定旋轉角度"
+
+#. L10N group=23 idx=77
+msgid "指定旋转角度"
+msgstr "指定旋轉角度"
+
+#. L10N group=23 idx=78
+msgid "指定旋轉角度"
+msgstr "指定旋轉角度"
+
+#. L10N group=23 idx=79
+msgid "ショートカット設定"
+msgstr "快捷鍵設定"
+
+#. L10N group=23 idx=80
+msgid "ショートカットキーを入力してください"
+msgstr "請輸入快捷鍵"
+
+#. L10N group=23 idx=81
+msgid "キーが重複しています"
+msgstr "按鍵重複"
+
+#. L10N group=23 idx=82
+msgid "優先して上書き"
+msgstr "優先覆寫"
+
+#. L10N group=23 idx=83
+msgid "初期化"
+msgstr "初始化"
+
+#. L10N group=23 idx=84
+msgid "アクション"
+msgstr "動作"
+
+#. L10N group=23 idx=85
+msgid "ショートカット"
+msgstr "快捷鍵"
+
+#. L10N group=23 idx=86
+msgid "上書きする"
+msgstr "覆寫"
+
+#. L10N group=23 idx=87
+msgid "全てのショートカットを初期化しますが、よろしいですか？"
+msgstr "要初始化所有快捷鍵嗎？"
+
+#. L10N group=23 idx=88
+msgid "初始化"
+msgstr "初始化"
+
+#. L10N group=23 idx=89
+msgid "快捷方式"
+msgstr "快捷鍵"
+
+#. L10N group=23 idx=90
+msgid "請輸入快捷鍵"
+msgstr "請輸入快捷鍵"
+
+#. L10N group=23 idx=91
+msgid "此快捷鍵已存在"
+msgstr "按鍵重複"
+
+#. L10N group=23 idx=92
+msgid "快捷鍵"
+msgstr "快捷鍵"
+
+#. L10N group=23 idx=93
+msgid "テキスト編集"
+msgstr "編輯文字"
+
+#. L10N group=23 idx=94
+msgid "文字サイズ"
+msgstr "字型大小"
+
+#. L10N group=23 idx=95
+msgid "文字間隔"
+msgstr "文字間距"
+
+#. L10N group=23 idx=96
+msgid "行間隔"
+msgstr "行距"
+
+#. L10N group=23 idx=97
+msgid "先頭で揃える"
+msgstr "開頭對齊"
+
+#. L10N group=23 idx=98
+msgid "中央で揃える"
+msgstr "置中"
+
+#. L10N group=23 idx=99
+msgid "末尾で揃える"
+msgstr "結尾對齊"
+
+#. L10N group=23 idx=100
+msgid "太字"
+msgstr "粗體"
+
+#. L10N group=23 idx=101
+msgid "打ち消し"
+msgstr "刪除線"
+
+#. L10N group=23 idx=102
+msgid "文字色"
+msgstr "文字顏色"
+
+#. L10N group=23 idx=103
+msgid "縦書き"
+msgstr "直排"
+
+#. L10N group=23 idx=104
+msgid "ふち色"
+msgstr "邊緣顏色"
+
+#. L10N group=23 idx=105
+msgid "入れ替える"
+msgstr "交換"
+
+#. L10N group=23 idx=106
+msgid "クリックでフォントを選択"
+msgstr "點擊選擇字型"
+
+#. L10N group=23 idx=107
+msgid "文本编辑"
+msgstr "編輯文字"
+
+#. L10N group=23 idx=108
+msgid "字符间隔"
+msgstr "文字間距"
+
+#. L10N group=23 idx=109
+msgid "行距"
+msgstr "行距"
+
+#. L10N group=23 idx=110
+msgid "居中"
+msgstr "置中"
+
+#. L10N group=23 idx=111
+msgid "字体颜色"
+msgstr "文字顏色"
+
+#. L10N group=23 idx=112
+msgid "边缘色"
+msgstr "邊緣顏色"
+
+#. L10N group=23 idx=113
+msgid "旋转角"
+msgstr "指定旋轉角度"
+
+#. L10N group=23 idx=114
+msgid "搜索"
+msgstr "點擊選擇字型"
+
+#. L10N group=23 idx=115
+msgid "編輯文本"
+msgstr "編輯文字"
+
+#. L10N group=23 idx=116
+msgid "字型名稱"
+msgstr "點擊選擇字型"
+
+#. L10N group=23 idx=117
+msgid "字型大小"
+msgstr "字型大小"
+
+#. L10N group=23 idx=118
+msgid "文字間距"
+msgstr "文字間距"
+
+#. L10N group=23 idx=119
+msgid "置中"
+msgstr "置中"
+
+#. L10N group=23 idx=120
+msgid "文字顏色"
+msgstr "文字顏色"
+
+#. L10N group=23 idx=121
+msgid "邊緣顏色"
+msgstr "邊緣顏色"
+
+#. L10N group=24 idx=0
+msgid "画像の変形 (Ctrlキーを押しながら頂点操作で自由変形)"
+msgstr "影像變形（按住Ctrl鍵操作頂點即可自由變形）"
+
+#. L10N group=24 idx=1
+msgid "キャンセル"
+msgstr "取消"
+
+#. L10N group=24 idx=2
+msgid "フィルタリング"
+msgstr "插補"
+
+#. L10N group=24 idx=3
+msgid "パース補正"
+msgstr "透視校正"
+
+#. L10N group=24 idx=4
+msgid "ニアレストネイバー (ジャギー)"
+msgstr "最近鄰居（鋸齒）"
+
+#. L10N group=24 idx=5
+msgid "バイリニア (なめらか)"
+msgstr "雙線性（平滑）"
+
+#. L10N group=24 idx=6
+msgid "バイキュービック (シャープ)"
+msgstr "雙三次（銳利）"
+
+#. L10N group=24 idx=7
+msgid "縦分割"
+msgstr "縱向分割"
+
+#. L10N group=24 idx=8
+msgid "横分割"
+msgstr "橫向分割"
+
+#. L10N group=24 idx=9
+msgid "中心を固定"
+msgstr "固定中心"
+
+#. L10N group=24 idx=10
+msgid "対角を固定"
+msgstr "固定對角"
+
+#. L10N group=24 idx=11
+msgid "移動と回転のロック"
+msgstr "鎖定移動與旋轉"
+
+#. L10N group=24 idx=12
+msgid "上下反転"
+msgstr "垂直翻轉"
+
+#. L10N group=24 idx=13
+msgid "邻近（锯齿）"
+msgstr "最近鄰居（鋸齒）"
+
+#. L10N group=24 idx=14
+msgid "横向分割"
+msgstr "橫向分割"
+
+#. L10N group=24 idx=15
+msgid "固定中心"
+msgstr "固定中心"
+
+#. L10N group=24 idx=16
+msgid "最接近像素 (鋸齒)"
+msgstr "最近鄰居（鋸齒）"
+
+#. L10N group=24 idx=17
+msgid "環迴增值法 (銳利)"
+msgstr "雙三次（銳利）"
+
+#. L10N group=24 idx=18
+msgid "橫向分割"
+msgstr "橫向分割"
+
+#. L10N group=24 idx=19
+msgid "カラーバランス"
+msgstr "色彩平衡"
+
+#. L10N group=24 idx=20
+msgid "レッド"
+msgstr "紅色"
+
+#. L10N group=24 idx=21
+msgid "グリーン"
+msgstr "綠色"
+
+#. L10N group=24 idx=22
+msgid "ブルー"
+msgstr "藍色"
+
+#. L10N group=24 idx=23
+msgid "シアン"
+msgstr "青色"
+
+#. L10N group=24 idx=24
+msgid "マゼンダ"
+msgstr "洋紅"
+
+#. L10N group=24 idx=25
+msgid "イエロー"
+msgstr "黃色"
+
+#. L10N group=24 idx=26
+msgid "色彩平衡"
+msgstr "色彩平衡"
+
+#. L10N group=24 idx=27
+msgid "红色"
+msgstr "紅色"
+
+#. L10N group=24 idx=28
+msgid "绿色"
+msgstr "綠色"
+
+#. L10N group=24 idx=29
+msgid "蓝色"
+msgstr "藍色"
+
+#. L10N group=24 idx=30
+msgid "青绿色"
+msgstr "青色"
+
+#. L10N group=24 idx=31
+msgid "洋红色"
+msgstr "洋紅"
+
+#. L10N group=24 idx=32
+msgid "黄色"
+msgstr "黃色"
+
+#. L10N group=24 idx=33
+msgid "紅色"
+msgstr "紅色"
+
+#. L10N group=24 idx=34
+msgid "綠色"
+msgstr "綠色"
+
+#. L10N group=24 idx=35
+msgid "藍色"
+msgstr "藍色"
+
+#. L10N group=24 idx=36
+msgid "青綠色"
+msgstr "青色"
+
+#. L10N group=24 idx=37
+msgid "洋紅色"
+msgstr "洋紅"
+
+#. L10N group=24 idx=38
+msgid "黃色"
+msgstr "黃色"
+
