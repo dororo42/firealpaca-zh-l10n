@@ -5,10 +5,12 @@
 供官方（MediBang）审校并合并进源码字符串表，也供社区核查。
 
 - 日期：2026-10-18
+- **撰写者：个人爱好者**（日常使用 FireAlpaca 的绘画用户，非团队、非商业机构）
 - 提取对象：FireAlpaca 2.16.3 `FireAlpaca.exe`（sha256 见仓库 `expected_sha256.txt`）
 - 条目规模：**2672 条** × 4 语言（ja 源串 / zh-CN / zh-TW / ko 参考）
+- 作者向け日本語版：`docs/翻訳補完パッケージ説明（日本語版）.md`
 
-## 背景事实（来自二进制取证，详见 `docs/汉化可行性与工作量评估.md`）
+## 背景事实（来自二进制取证，详见 `汉化可行性与工作量评估.md`）
 
 1. FireAlpaca 内置官方语言切换（Help → Language），但简中/繁中均为**部分翻译**：
    分组级统计显示各组普遍缺失 30–50%（例："颜色"菜单组 15 条日文仅 1 条中文），
@@ -21,10 +23,10 @@
 
 | 文件 | 内容 |
 |---|---|
-| `data/firealpaca-l10n-worktable-final.csv` | **四语对照主表**（2672 行，UTF-8 BOM）：`group/idx` 为二进制内定位键，`ja`=日文源串（应用原生语言），`ko_ref`=韩文参考，`zh_CN`/`zh_TW`=补全后译文 |
+| `firealpaca-l10n-worktable-final.csv` | **四语对照主表**（2672 行，UTF-8 BOM）：`group/idx` 为二进制内定位键，`ja`=日文源串（应用原生语言），`ko_ref`=韩文参考，`zh_CN`/`zh_TW`=补全后译文 |
 | `po/zh_CN.po` / `po/zh_TW.po` | gettext PO 格式（msgid=日文源串，msgstr=简中/繁中），2672 条，可直接导入任何 CAT 工具或转 .mo |
 | `firealpaca-glossary.tbx` | TBX-Basic 术语表（2672 概念，四语） |
-| `docs/汉化可行性与工作量评估.md` | 完整评估报告：证据链、覆盖度统计、方法学 |
+| `汉化可行性与工作量评估.md` | 完整评估报告：证据链、覆盖度统计、方法学 |
 | `email-to-support.md` | 投递给官方的邮件文稿 |
 
 ## 质量说明
@@ -37,7 +39,7 @@
 
 ## 复现
 
-提取与对齐脚本位于 `tools/`：
+提取与对齐脚本位于仓库 `injector/`：
 `cn_coverage_scan.py`（语言分类）→ `cn_coverage_groups.py`（分组覆盖统计）→
 `cn_build_worktable.py`（全量提取+对照表）→ `cn_finalize_l10n.py`（本包生成）。
 
