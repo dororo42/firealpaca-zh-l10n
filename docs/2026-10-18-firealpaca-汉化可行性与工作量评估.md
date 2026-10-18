@@ -1,9 +1,15 @@
-# FireAlpaca 汉化可行性与工作量评估（独立审查报告）
+# FireAlpaca 汉化可行性与工作量评估（内部审查报告）
 
 - 日期：2026-10-18
-- 审查人：AI 接手会话（基于 firealpaca-snap-re 项目既有逆向资产 + 本轮实测）
+- 撰写人：**个人爱好者**（日常使用 FireAlpaca 的绘画用户）
 - 评估对象：FireAlpaca 2.16.3（Windows PE `FireAlpacaWin64_2_16_3/FireAlpaca.exe`，11,155,808 字节；Linux ELF 交叉验证）
 - 结论适用范围：2.16.3；相邻版本的字符串区偏移会漂移，但结构性结论（翻译机制）不变
+- 公开仓库（本评估的产出物与提交载体）：**https://github.com/dororo42/firealpaca-zh-l10n**
+
+> **提交形态说明**：本文件是**可行性内部评估**（含二进制级取证细节，供复核与后续维护参考），
+> **并非提交官方作者的必需材料**。向 MediBang 投递时，以公开 GitHub 仓库（README 已文档化全部要点）
+> \+ 邮件为准；本报告可作为技术附录按需附上。公开仓库内 `docs/` 另存作者向け日本語版。
+> 日本語版：https://github.com/dororo42/firealpaca-zh-l10n/blob/main/docs/翻訳補完パッケージ説明（日本語版）.md
 
 ---
 
